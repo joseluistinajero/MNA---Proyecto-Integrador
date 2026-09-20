@@ -72,9 +72,3 @@ Marca con una `x` (ejemplo: `[x]`) las tareas completadas a lo largo de las sema
 * **Modelos & Video:** PyTorch / torchvision (arquitectura R3D-18 sugerida), OpenCV
 * **Estimación de Pose:** MediaPipe / OpenPose / YOLOv8-Pose *(según se determine en la semana 4)*
 * **Análisis de datos:** Pandas, NumPy, Matplotlib, Seaborn
-
-## Práctica Git
-
-Esta sección fue agregada para practicar el control de versiones con Git.
-
-Esta segunda línea todavía no ha sido agregada al staging area.
