@@ -76,3 +76,5 @@ Marca con una `x` (ejemplo: `[x]`) las tareas completadas a lo largo de las sema
 ## Práctica Git
 
 Esta sección fue agregada para practicar el control de versiones con Git.
+
+Esta segunda línea todavía no ha sido agregada al staging area.
