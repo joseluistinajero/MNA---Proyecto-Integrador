@@ -1,0 +1,9 @@
+dataset,video_id,video_origen,clip_id,inicio_s,fin_s,etiqueta,persona_id,evento_id,nota
+DCSASS,DCSASS_001,Shoplifting001.mp4,DCSASS_001_C001,0,4,ocultamiento,P01,E001,Clip ya segmentado en el dataset
+DCSASS,DCSASS_002,Shoplifting002.mp4,DCSASS_002_C001,0,4,sin_ocultamiento,P01,,Clip ya segmentado en el dataset
+MNNIT,MNNIT_001,video001.mp4,MNNIT_001_C001,12,16,ocultamiento,P01,E001,Ocultamiento visible durante parte del intervalo
+MNNIT,MNNIT_001,video001.mp4,MNNIT_001_C002,16,20,ocultamiento,P01,E001,Continuaci¢n del mismo evento
+MNNIT,MNNIT_002,video002.mp4,MNNIT_002_C001,8,12,sin_ocultamiento,P01,,Comportamiento normal
+CCTV_YOLO,CCTV_001,video001.mp4,CCTV_001_C001,24,28,ocultamiento,P01,E001,Persona oculta producto
+CCTV_YOLO,CCTV_001,video001.mp4,CCTV_001_C002,28,32,sin_ocultamiento,P01,,Sin ocultamiento en esta ventana
+CCTV_YOLO,CCTV_002,video002.mp4,CCTV_002_C001,40,44,no_determinado,P02,,Acci¢n parcialmente ocluida
