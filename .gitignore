@@ -216,3 +216,30 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Proyecto Integrador - datos de video
+
+# Videos
+*.mp4
+*.avi
+*.mov
+*.mkv
+*.mpeg
+*.mpg
+*.webm
+
+# Clips derivados y datasets locales
+clips/
+datasets/
+data_raw/
+data_processed/
+
+# Modelos y checkpoints
+*.pt
+*.pth
+*.ckpt
+*.onnx
+
+# Archivos temporales de procesamiento
+*.tmp
+*.temp
