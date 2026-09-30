@@ -54,12 +54,6 @@ def determinar_estado_muestra(video_path: Path) -> tuple[str, str]:
     if fuente == "MNNIT_h264":
         return "incluida", ""
 
-    if fuente == "venta_sospechosa":
-        return (
-            "fuera_alcance",
-            "Acción distinta al ocultamiento de mercancía por cliente",
-        )
-
     return "pendiente_revision", ""
 
 
