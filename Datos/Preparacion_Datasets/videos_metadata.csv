@@ -1,0 +1,383 @@
+video_id,fuente,archivo,clase,estado_muestra,motivo_exclusion,fps,duracion_s,ancho,alto,frames
+ANOMALY_DETECTION_DATASET_UCF_001,Anomaly Detection Dataset UCF,Shoplifting001_x264.mp4,pendiente,pendiente_revision,,30.0,144.8,320,240,4344
+ANOMALY_DETECTION_DATASET_UCF_002,Anomaly Detection Dataset UCF,Shoplifting003_x264.mp4,pendiente,pendiente_revision,,30.0,360.567,320,240,10817
+ANOMALY_DETECTION_DATASET_UCF_003,Anomaly Detection Dataset UCF,Shoplifting004_x264.mp4,pendiente,pendiente_revision,,30.0,222.433,320,240,6673
+ANOMALY_DETECTION_DATASET_UCF_004,Anomaly Detection Dataset UCF,Shoplifting005_x264.mp4,pendiente,pendiente_revision,,30.0,65.567,320,240,1967
+ANOMALY_DETECTION_DATASET_UCF_005,Anomaly Detection Dataset UCF,Shoplifting006_x264.mp4,pendiente,pendiente_revision,,30.0,105.2,320,240,3156
+ANOMALY_DETECTION_DATASET_UCF_006,Anomaly Detection Dataset UCF,Shoplifting007_x264.mp4,pendiente,pendiente_revision,,30.0,170.8,320,240,5124
+ANOMALY_DETECTION_DATASET_UCF_007,Anomaly Detection Dataset UCF,Shoplifting008_x264.mp4,pendiente,pendiente_revision,,30.0,297.567,320,240,8927
+ANOMALY_DETECTION_DATASET_UCF_008,Anomaly Detection Dataset UCF,Shoplifting009_x264.mp4,pendiente,pendiente_revision,,30.0,173.367,320,240,5201
+ANOMALY_DETECTION_DATASET_UCF_009,Anomaly Detection Dataset UCF,Shoplifting010_x264.mp4,pendiente,pendiente_revision,,30.0,91.2,320,240,2736
+ANOMALY_DETECTION_DATASET_UCF_010,Anomaly Detection Dataset UCF,Shoplifting012_x264.mp4,pendiente,pendiente_revision,,30.0,781.1,320,240,23433
+ANOMALY_DETECTION_DATASET_UCF_011,Anomaly Detection Dataset UCF,Shoplifting013_x264.mp4,pendiente,pendiente_revision,,30.0,67.367,320,240,2021
+ANOMALY_DETECTION_DATASET_UCF_012,Anomaly Detection Dataset UCF,Shoplifting014_x264.mp4,pendiente,pendiente_revision,,30.0,2223.267,320,240,66698
+ANOMALY_DETECTION_DATASET_UCF_013,Anomaly Detection Dataset UCF,Shoplifting015_x264.mp4,pendiente,pendiente_revision,,30.0,75.2,320,240,2256
+ANOMALY_DETECTION_DATASET_UCF_014,Anomaly Detection Dataset UCF,Shoplifting016_x264.mp4,pendiente,pendiente_revision,,30.0,49.433,320,240,1483
+ANOMALY_DETECTION_DATASET_UCF_015,Anomaly Detection Dataset UCF,Shoplifting017_x264.mp4,pendiente,pendiente_revision,,30.0,15.233,320,240,457
+ANOMALY_DETECTION_DATASET_UCF_016,Anomaly Detection Dataset UCF,Shoplifting018_x264.mp4,pendiente,pendiente_revision,,30.0,71.067,320,240,2132
+ANOMALY_DETECTION_DATASET_UCF_017,Anomaly Detection Dataset UCF,Shoplifting019_x264.mp4,pendiente,pendiente_revision,,30.0,21.9,320,240,657
+ANOMALY_DETECTION_DATASET_UCF_018,Anomaly Detection Dataset UCF,Shoplifting020_x264.mp4,pendiente,pendiente_revision,,30.0,192.333,320,240,5770
+ANOMALY_DETECTION_DATASET_UCF_019,Anomaly Detection Dataset UCF,Shoplifting021_x264.mp4,pendiente,pendiente_revision,,30.0,118.367,320,240,3551
+ANOMALY_DETECTION_DATASET_UCF_020,Anomaly Detection Dataset UCF,Shoplifting022_x264.mp4,pendiente,pendiente_revision,,30.0,73.033,320,240,2191
+ANOMALY_DETECTION_DATASET_UCF_021,Anomaly Detection Dataset UCF,Shoplifting024_x264.mp4,pendiente,pendiente_revision,,30.0,40.267,320,240,1208
+ANOMALY_DETECTION_DATASET_UCF_022,Anomaly Detection Dataset UCF,Shoplifting025_x264.mp4,pendiente,pendiente_revision,,30.0,60.8,320,240,1824
+ANOMALY_DETECTION_DATASET_UCF_023,Anomaly Detection Dataset UCF,Shoplifting026_x264.mp4,pendiente,pendiente_revision,,30.0,47.0,320,240,1410
+ANOMALY_DETECTION_DATASET_UCF_024,Anomaly Detection Dataset UCF,Shoplifting027_x264.mp4,pendiente,pendiente_revision,,30.0,62.433,320,240,1873
+ANOMALY_DETECTION_DATASET_UCF_025,Anomaly Detection Dataset UCF,Shoplifting028_x264.mp4,pendiente,pendiente_revision,,30.0,45.233,320,240,1357
+ANOMALY_DETECTION_DATASET_UCF_026,Anomaly Detection Dataset UCF,Shoplifting029_x264.mp4,pendiente,pendiente_revision,,30.0,72.533,320,240,2176
+ANOMALY_DETECTION_DATASET_UCF_027,Anomaly Detection Dataset UCF,Shoplifting030_x264.mp4,pendiente,pendiente_revision,,30.0,806.433,320,240,24193
+ANOMALY_DETECTION_DATASET_UCF_028,Anomaly Detection Dataset UCF,Shoplifting031_x264.mp4,pendiente,pendiente_revision,,30.0,14.9,320,240,447
+ANOMALY_DETECTION_DATASET_UCF_029,Anomaly Detection Dataset UCF,Shoplifting032_x264.mp4,pendiente,pendiente_revision,,30.0,47.533,320,240,1426
+ANOMALY_DETECTION_DATASET_UCF_030,Anomaly Detection Dataset UCF,Shoplifting033_x264.mp4,pendiente,pendiente_revision,,30.0,29.967,320,240,899
+ANOMALY_DETECTION_DATASET_UCF_031,Anomaly Detection Dataset UCF,Shoplifting034_x264.mp4,pendiente,pendiente_revision,,30.0,397.9,320,240,11937
+ANOMALY_DETECTION_DATASET_UCF_032,Anomaly Detection Dataset UCF,Shoplifting036_x264.mp4,pendiente,pendiente_revision,,30.0,121.9,320,240,3657
+ANOMALY_DETECTION_DATASET_UCF_033,Anomaly Detection Dataset UCF,Shoplifting037_x264.mp4,pendiente,pendiente_revision,,30.0,46.2,320,240,1386
+ANOMALY_DETECTION_DATASET_UCF_034,Anomaly Detection Dataset UCF,Shoplifting038_x264.mp4,pendiente,pendiente_revision,,30.0,96.8,320,240,2904
+ANOMALY_DETECTION_DATASET_UCF_035,Anomaly Detection Dataset UCF,Shoplifting039_x264.mp4,pendiente,pendiente_revision,,30.0,93.433,320,240,2803
+ANOMALY_DETECTION_DATASET_UCF_036,Anomaly Detection Dataset UCF,Shoplifting040_x264.mp4,pendiente,pendiente_revision,,30.0,906.933,320,240,27208
+ANOMALY_DETECTION_DATASET_UCF_037,Anomaly Detection Dataset UCF,Shoplifting041_x264.mp4,pendiente,pendiente_revision,,30.0,411.167,320,240,12335
+ANOMALY_DETECTION_DATASET_UCF_038,Anomaly Detection Dataset UCF,Shoplifting042_x264.mp4,pendiente,pendiente_revision,,30.0,170.7,320,240,5121
+ANOMALY_DETECTION_DATASET_UCF_039,Anomaly Detection Dataset UCF,Shoplifting043_x264.mp4,pendiente,pendiente_revision,,30.0,317.267,320,240,9518
+ANOMALY_DETECTION_DATASET_UCF_040,Anomaly Detection Dataset UCF,Shoplifting044_x264.mp4,pendiente,pendiente_revision,,30.0,485.167,320,240,14555
+ANOMALY_DETECTION_DATASET_UCF_041,Anomaly Detection Dataset UCF,Shoplifting045_x264.mp4,pendiente,pendiente_revision,,30.0,54.667,320,240,1640
+ANOMALY_DETECTION_DATASET_UCF_042,Anomaly Detection Dataset UCF,Shoplifting047_x264.mp4,pendiente,pendiente_revision,,30.0,79.233,320,240,2377
+ANOMALY_DETECTION_DATASET_UCF_043,Anomaly Detection Dataset UCF,Shoplifting048_x264.mp4,pendiente,pendiente_revision,,30.0,103.6,320,240,3108
+ANOMALY_DETECTION_DATASET_UCF_044,Anomaly Detection Dataset UCF,Shoplifting049_x264.mp4,pendiente,pendiente_revision,,30.0,71.633,320,240,2149
+ANOMALY_DETECTION_DATASET_UCF_045,Anomaly Detection Dataset UCF,Shoplifting050_x264.mp4,pendiente,pendiente_revision,,30.0,83.533,320,240,2506
+ANOMALY_DETECTION_DATASET_UCF_046,Anomaly Detection Dataset UCF,Shoplifting051_x264.mp4,pendiente,pendiente_revision,,30.0,240.6,320,240,7218
+ANOMALY_DETECTION_DATASET_UCF_047,Anomaly Detection Dataset UCF,Shoplifting052_x264.mp4,pendiente,pendiente_revision,,30.0,254.867,320,240,7646
+ANOMALY_DETECTION_DATASET_UCF_048,Anomaly Detection Dataset UCF,Shoplifting053_x264.mp4,pendiente,pendiente_revision,,30.0,69.9,320,240,2097
+ANOMALY_DETECTION_DATASET_UCF_049,Anomaly Detection Dataset UCF,Shoplifting054_x264.mp4,pendiente,pendiente_revision,,30.0,34.167,320,240,1025
+ANOMALY_DETECTION_DATASET_UCF_050,Anomaly Detection Dataset UCF,Shoplifting055_x264.mp4,pendiente,pendiente_revision,,30.0,225.667,320,240,6770
+CCTV_SHOPLIFTING_DATASET_001,CCTV_Shoplifting_Dataset,not_shoplifting1.mp4,pendiente,pendiente_revision,,24.0,6.042,544,544,145
+CCTV_SHOPLIFTING_DATASET_002,CCTV_Shoplifting_Dataset,not_shoplifting2.mp4,pendiente,pendiente_revision,,24.0,6.042,544,544,145
+CCTV_SHOPLIFTING_DATASET_003,CCTV_Shoplifting_Dataset,not_shoplifting3.mp4,pendiente,pendiente_revision,,24.0,6.042,544,544,145
+CCTV_SHOPLIFTING_DATASET_004,CCTV_Shoplifting_Dataset,not_shoplifting4.mp4,pendiente,pendiente_revision,,24.0,6.042,544,544,145
+CCTV_SHOPLIFTING_DATASET_005,CCTV_Shoplifting_Dataset,shoplifting1.mp4,pendiente,pendiente_revision,,24.0,6.042,544,544,145
+CCTV_SHOPLIFTING_DATASET_006,CCTV_Shoplifting_Dataset,shoplifting2.mp4,pendiente,pendiente_revision,,24.0,6.042,544,544,145
+CCTV_SHOPLIFTING_DATASET_007,CCTV_Shoplifting_Dataset,shoplifting3.mp4,pendiente,pendiente_revision,,24.0,10.042,544,544,241
+CCTV_SHOPLIFTING_DATASET_008,CCTV_Shoplifting_Dataset,shoplifting4.mp4,pendiente,pendiente_revision,,24.0,10.042,544,544,241
+MNNIT_H264_001,MNNIT_h264,normal-1.mp4,sin_ocultamiento,incluida,,30.0,10.6,640,480,318
+MNNIT_H264_002,MNNIT_h264,normal-10.mp4,sin_ocultamiento,incluida,,30.0,11.7,640,480,351
+MNNIT_H264_003,MNNIT_h264,normal-11.mp4,sin_ocultamiento,incluida,,30.0,11.667,640,480,350
+MNNIT_H264_004,MNNIT_h264,normal-12.mp4,sin_ocultamiento,incluida,,30.0,11.533,640,480,346
+MNNIT_H264_005,MNNIT_h264,normal-13.mp4,sin_ocultamiento,incluida,,30.0,10.367,640,480,311
+MNNIT_H264_006,MNNIT_h264,normal-14.mp4,sin_ocultamiento,incluida,,30.0,10.3,640,480,309
+MNNIT_H264_007,MNNIT_h264,normal-15.mp4,sin_ocultamiento,incluida,,30.0,10.5,640,480,315
+MNNIT_H264_008,MNNIT_h264,normal-16.mp4,sin_ocultamiento,incluida,,30.0,11.733,640,480,352
+MNNIT_H264_009,MNNIT_h264,normal-17.mp4,sin_ocultamiento,incluida,,30.0,11.7,640,480,351
+MNNIT_H264_010,MNNIT_h264,normal-18.mp4,sin_ocultamiento,incluida,,30.0,10.667,640,480,320
+MNNIT_H264_011,MNNIT_h264,normal-19.mp4,sin_ocultamiento,incluida,,30.0,10.667,640,480,320
+MNNIT_H264_012,MNNIT_h264,normal-2.mp4,sin_ocultamiento,incluida,,30.0,10.667,640,480,320
+MNNIT_H264_013,MNNIT_h264,normal-20.mp4,sin_ocultamiento,incluida,,30.0,11.667,640,480,350
+MNNIT_H264_014,MNNIT_h264,normal-21.mp4,sin_ocultamiento,incluida,,30.0,10.767,640,480,323
+MNNIT_H264_015,MNNIT_h264,normal-22.mp4,sin_ocultamiento,incluida,,30.0,11.233,640,480,337
+MNNIT_H264_016,MNNIT_h264,normal-23.mp4,sin_ocultamiento,incluida,,30.0,10.6,640,480,318
+MNNIT_H264_017,MNNIT_h264,normal-24.mp4,sin_ocultamiento,incluida,,30.0,10.667,640,480,320
+MNNIT_H264_018,MNNIT_h264,normal-25.mp4,sin_ocultamiento,incluida,,30.0,10.467,640,480,314
+MNNIT_H264_019,MNNIT_h264,normal-26.mp4,sin_ocultamiento,incluida,,30.0,11.1,640,480,333
+MNNIT_H264_020,MNNIT_h264,normal-27.mp4,sin_ocultamiento,incluida,,30.0,10.7,640,480,321
+MNNIT_H264_021,MNNIT_h264,normal-28.mp4,sin_ocultamiento,incluida,,30.0,10.6,640,480,318
+MNNIT_H264_022,MNNIT_h264,normal-29.mp4,sin_ocultamiento,incluida,,30.0,10.767,640,480,323
+MNNIT_H264_023,MNNIT_h264,normal-3.mp4,sin_ocultamiento,incluida,,30.0,11.2,640,480,336
+MNNIT_H264_024,MNNIT_h264,normal-30.mp4,sin_ocultamiento,incluida,,30.0,10.833,640,480,325
+MNNIT_H264_025,MNNIT_h264,normal-31.mp4,sin_ocultamiento,incluida,,30.0,12.033,640,480,361
+MNNIT_H264_026,MNNIT_h264,normal-32.mp4,sin_ocultamiento,incluida,,30.0,11.7,640,480,351
+MNNIT_H264_027,MNNIT_h264,normal-33.mp4,sin_ocultamiento,incluida,,30.0,7.733,640,480,232
+MNNIT_H264_028,MNNIT_h264,normal-34.mp4,sin_ocultamiento,incluida,,30.0,9.667,640,480,290
+MNNIT_H264_029,MNNIT_h264,normal-35.mp4,sin_ocultamiento,incluida,,30.0,10.967,640,480,329
+MNNIT_H264_030,MNNIT_h264,normal-36.mp4,sin_ocultamiento,incluida,,30.0,12.2,640,480,366
+MNNIT_H264_031,MNNIT_h264,normal-37.mp4,sin_ocultamiento,incluida,,30.0,10.367,640,480,311
+MNNIT_H264_032,MNNIT_h264,normal-38.mp4,sin_ocultamiento,incluida,,30.0,10.5,640,480,315
+MNNIT_H264_033,MNNIT_h264,normal-39.mp4,sin_ocultamiento,incluida,,30.0,10.4,640,480,312
+MNNIT_H264_034,MNNIT_h264,normal-4.mp4,sin_ocultamiento,incluida,,30.0,11.2,640,480,336
+MNNIT_H264_035,MNNIT_h264,normal-40.mp4,sin_ocultamiento,incluida,,30.0,5.233,640,480,157
+MNNIT_H264_036,MNNIT_h264,normal-41.mp4,sin_ocultamiento,incluida,,30.0,11.9,640,480,357
+MNNIT_H264_037,MNNIT_h264,normal-42.mp4,sin_ocultamiento,incluida,,30.0,11.3,640,480,339
+MNNIT_H264_038,MNNIT_h264,normal-43.mp4,sin_ocultamiento,incluida,,30.0,20.667,640,480,620
+MNNIT_H264_039,MNNIT_h264,normal-44.mp4,sin_ocultamiento,incluida,,30.0,11.633,640,480,349
+MNNIT_H264_040,MNNIT_h264,normal-45.mp4,sin_ocultamiento,incluida,,30.0,10.533,640,480,316
+MNNIT_H264_041,MNNIT_h264,normal-46.mp4,sin_ocultamiento,incluida,,30.0,11.567,640,480,347
+MNNIT_H264_042,MNNIT_h264,normal-47.mp4,sin_ocultamiento,incluida,,30.0,10.7,640,480,321
+MNNIT_H264_043,MNNIT_h264,normal-48.mp4,sin_ocultamiento,incluida,,30.0,10.667,640,480,320
+MNNIT_H264_044,MNNIT_h264,normal-49.mp4,sin_ocultamiento,incluida,,30.0,11.633,640,480,349
+MNNIT_H264_045,MNNIT_h264,normal-5.mp4,sin_ocultamiento,incluida,,30.0,11.2,640,480,336
+MNNIT_H264_046,MNNIT_h264,normal-50.mp4,sin_ocultamiento,incluida,,30.0,10.667,640,480,320
+MNNIT_H264_047,MNNIT_h264,normal-51.mp4,sin_ocultamiento,incluida,,30.0,10.667,640,480,320
+MNNIT_H264_048,MNNIT_h264,normal-52.mp4,sin_ocultamiento,incluida,,30.0,11.633,640,480,349
+MNNIT_H264_049,MNNIT_h264,normal-53.mp4,sin_ocultamiento,incluida,,30.0,10.7,640,480,321
+MNNIT_H264_050,MNNIT_h264,normal-54.mp4,sin_ocultamiento,incluida,,30.0,11.933,640,480,358
+MNNIT_H264_051,MNNIT_h264,normal-55.mp4,sin_ocultamiento,incluida,,30.0,11.933,640,480,358
+MNNIT_H264_052,MNNIT_h264,normal-56.mp4,sin_ocultamiento,incluida,,30.0,11.933,640,480,358
+MNNIT_H264_053,MNNIT_h264,normal-57.mp4,sin_ocultamiento,incluida,,30.0,11.2,640,480,336
+MNNIT_H264_054,MNNIT_h264,normal-58.mp4,sin_ocultamiento,incluida,,30.0,11.2,640,480,336
+MNNIT_H264_055,MNNIT_h264,normal-59.mp4,sin_ocultamiento,incluida,,30.0,11.233,640,480,337
+MNNIT_H264_056,MNNIT_h264,normal-6.mp4,sin_ocultamiento,incluida,,30.0,11.533,640,480,346
+MNNIT_H264_057,MNNIT_h264,normal-60.mp4,sin_ocultamiento,incluida,,30.0,10.167,640,480,305
+MNNIT_H264_058,MNNIT_h264,normal-61.mp4,sin_ocultamiento,incluida,,30.0,11.2,640,480,336
+MNNIT_H264_059,MNNIT_h264,normal-62.mp4,sin_ocultamiento,incluida,,30.0,11.233,640,480,337
+MNNIT_H264_060,MNNIT_h264,normal-63.mp4,sin_ocultamiento,incluida,,30.0,11.233,640,480,337
+MNNIT_H264_061,MNNIT_h264,normal-64.mp4,sin_ocultamiento,incluida,,30.0,11.233,640,480,337
+MNNIT_H264_062,MNNIT_h264,normal-65.mp4,sin_ocultamiento,incluida,,30.0,11.533,640,480,346
+MNNIT_H264_063,MNNIT_h264,normal-66.mp4,sin_ocultamiento,incluida,,30.0,10.367,640,480,311
+MNNIT_H264_064,MNNIT_h264,normal-67.mp4,sin_ocultamiento,incluida,,30.0,11.533,640,480,346
+MNNIT_H264_065,MNNIT_h264,normal-68.mp4,sin_ocultamiento,incluida,,30.0,12.667,640,480,380
+MNNIT_H264_066,MNNIT_h264,normal-69.mp4,sin_ocultamiento,incluida,,30.0,10.833,640,480,325
+MNNIT_H264_067,MNNIT_h264,normal-7.mp4,sin_ocultamiento,incluida,,30.0,11.367,640,480,341
+MNNIT_H264_068,MNNIT_h264,normal-70.mp4,sin_ocultamiento,incluida,,30.0,10.7,640,480,321
+MNNIT_H264_069,MNNIT_h264,normal-71.mp4,sin_ocultamiento,incluida,,30.0,11.367,640,480,341
+MNNIT_H264_070,MNNIT_h264,normal-72.mp4,sin_ocultamiento,incluida,,30.0,11.367,640,480,341
+MNNIT_H264_071,MNNIT_h264,normal-73.mp4,sin_ocultamiento,incluida,,30.0,10.633,640,480,319
+MNNIT_H264_072,MNNIT_h264,normal-74.mp4,sin_ocultamiento,incluida,,30.0,10.833,640,480,325
+MNNIT_H264_073,MNNIT_h264,normal-75.mp4,sin_ocultamiento,incluida,,30.0,11.667,640,480,350
+MNNIT_H264_074,MNNIT_h264,normal-76.mp4,sin_ocultamiento,incluida,,30.0,10.5,640,480,315
+MNNIT_H264_075,MNNIT_h264,normal-77.mp4,sin_ocultamiento,incluida,,30.0,11.667,640,480,350
+MNNIT_H264_076,MNNIT_h264,normal-78.mp4,sin_ocultamiento,incluida,,30.0,10.533,640,480,316
+MNNIT_H264_077,MNNIT_h264,normal-79.mp4,sin_ocultamiento,incluida,,30.0,11.7,640,480,351
+MNNIT_H264_078,MNNIT_h264,normal-8.mp4,sin_ocultamiento,incluida,,30.0,11.667,640,480,350
+MNNIT_H264_079,MNNIT_h264,normal-80.mp4,sin_ocultamiento,incluida,,30.0,10.533,640,480,316
+MNNIT_H264_080,MNNIT_h264,normal-81.mp4,sin_ocultamiento,incluida,,30.0,11.7,640,480,351
+MNNIT_H264_081,MNNIT_h264,normal-82.mp4,sin_ocultamiento,incluida,,30.0,11.7,640,480,351
+MNNIT_H264_082,MNNIT_h264,normal-83.mp4,sin_ocultamiento,incluida,,30.0,10.533,640,480,316
+MNNIT_H264_083,MNNIT_h264,normal-84.mp4,sin_ocultamiento,incluida,,30.0,10.5,640,480,315
+MNNIT_H264_084,MNNIT_h264,normal-85.mp4,sin_ocultamiento,incluida,,30.0,11.667,640,480,350
+MNNIT_H264_085,MNNIT_h264,normal-86.mp4,sin_ocultamiento,incluida,,30.0,11.667,640,480,350
+MNNIT_H264_086,MNNIT_h264,normal-87.mp4,sin_ocultamiento,incluida,,30.0,11.633,640,480,349
+MNNIT_H264_087,MNNIT_h264,normal-88.mp4,sin_ocultamiento,incluida,,30.0,10.533,640,480,316
+MNNIT_H264_088,MNNIT_h264,normal-89.mp4,sin_ocultamiento,incluida,,30.0,16.867,1920,1080,506
+MNNIT_H264_089,MNNIT_h264,normal-9.mp4,sin_ocultamiento,incluida,,30.0,10.5,640,480,315
+MNNIT_H264_090,MNNIT_h264,normal-90.mp4,sin_ocultamiento,incluida,,30.0,20.667,1920,1080,620
+MNNIT_H264_091,MNNIT_h264,shoplifting-1.mp4,ocultamiento,incluida,,30.0,10.367,640,480,311
+MNNIT_H264_092,MNNIT_h264,shoplifting-10.mp4,ocultamiento,incluida,,30.0,10.7,640,480,321
+MNNIT_H264_093,MNNIT_h264,shoplifting-11.mp4,ocultamiento,incluida,,30.0,11.467,640,480,344
+MNNIT_H264_094,MNNIT_h264,shoplifting-12.mp4,ocultamiento,incluida,,30.0,10.733,640,480,322
+MNNIT_H264_095,MNNIT_h264,shoplifting-13.mp4,ocultamiento,incluida,,30.0,11.133,640,480,334
+MNNIT_H264_096,MNNIT_h264,shoplifting-14.mp4,ocultamiento,incluida,,30.0,10.833,640,480,325
+MNNIT_H264_097,MNNIT_h264,shoplifting-15.mp4,ocultamiento,incluida,,30.0,10.4,640,480,312
+MNNIT_H264_098,MNNIT_h264,shoplifting-16.mp4,ocultamiento,incluida,,30.0,10.2,640,480,306
+MNNIT_H264_099,MNNIT_h264,shoplifting-17.mp4,ocultamiento,incluida,,30.0,10.7,640,480,321
+MNNIT_H264_100,MNNIT_h264,shoplifting-18.mp4,ocultamiento,incluida,,30.0,11.367,640,480,341
+MNNIT_H264_101,MNNIT_h264,shoplifting-19.mp4,ocultamiento,incluida,,30.0,10.167,640,480,305
+MNNIT_H264_102,MNNIT_h264,shoplifting-2.mp4,ocultamiento,incluida,,30.0,11.367,640,480,341
+MNNIT_H264_103,MNNIT_h264,shoplifting-20.mp4,ocultamiento,incluida,,30.0,11.167,640,480,335
+MNNIT_H264_104,MNNIT_h264,shoplifting-21.mp4,ocultamiento,incluida,,30.0,10.667,640,480,320
+MNNIT_H264_105,MNNIT_h264,shoplifting-22.mp4,ocultamiento,incluida,,30.0,10.867,640,480,326
+MNNIT_H264_106,MNNIT_h264,shoplifting-23.mp4,ocultamiento,incluida,,30.0,11.167,640,480,335
+MNNIT_H264_107,MNNIT_h264,shoplifting-24.mp4,ocultamiento,incluida,,30.0,10.9,640,480,327
+MNNIT_H264_108,MNNIT_h264,shoplifting-25.mp4,ocultamiento,incluida,,30.0,11.167,640,480,335
+MNNIT_H264_109,MNNIT_h264,shoplifting-26.mp4,ocultamiento,incluida,,30.0,10.667,640,480,320
+MNNIT_H264_110,MNNIT_h264,shoplifting-27.mp4,ocultamiento,incluida,,30.0,10.3,640,480,309
+MNNIT_H264_111,MNNIT_h264,shoplifting-28.mp4,ocultamiento,incluida,,30.0,11.133,640,480,334
+MNNIT_H264_112,MNNIT_h264,shoplifting-29.mp4,ocultamiento,incluida,,30.0,11.567,640,480,347
+MNNIT_H264_113,MNNIT_h264,shoplifting-3.mp4,ocultamiento,incluida,,30.0,11.167,640,480,335
+MNNIT_H264_114,MNNIT_h264,shoplifting-30.mp4,ocultamiento,incluida,,30.0,10.667,640,480,320
+MNNIT_H264_115,MNNIT_h264,shoplifting-31.mp4,ocultamiento,incluida,,30.0,10.533,640,480,316
+MNNIT_H264_116,MNNIT_h264,shoplifting-32.mp4,ocultamiento,incluida,,30.0,10.733,640,480,322
+MNNIT_H264_117,MNNIT_h264,shoplifting-33.mp4,ocultamiento,incluida,,30.0,10.9,640,480,327
+MNNIT_H264_118,MNNIT_h264,shoplifting-34.mp4,ocultamiento,incluida,,30.0,10.0,640,480,300
+MNNIT_H264_119,MNNIT_h264,shoplifting-35.mp4,ocultamiento,incluida,,30.0,10.433,640,480,313
+MNNIT_H264_120,MNNIT_h264,shoplifting-36.mp4,ocultamiento,incluida,,30.0,9.1,640,480,273
+MNNIT_H264_121,MNNIT_h264,shoplifting-37.mp4,ocultamiento,incluida,,30.0,10.967,640,480,329
+MNNIT_H264_122,MNNIT_h264,shoplifting-38.mp4,ocultamiento,incluida,,30.0,10.6,640,480,318
+MNNIT_H264_123,MNNIT_h264,shoplifting-39.mp4,ocultamiento,incluida,,30.0,11.533,640,480,346
+MNNIT_H264_124,MNNIT_h264,shoplifting-4.mp4,ocultamiento,incluida,,30.0,11.433,640,480,343
+MNNIT_H264_125,MNNIT_h264,shoplifting-40.mp4,ocultamiento,incluida,,30.0,10.8,640,480,324
+MNNIT_H264_126,MNNIT_h264,shoplifting-41.mp4,ocultamiento,incluida,,30.0,7.033,640,480,211
+MNNIT_H264_127,MNNIT_h264,shoplifting-42.mp4,ocultamiento,incluida,,30.0,10.367,640,480,311
+MNNIT_H264_128,MNNIT_h264,shoplifting-43.mp4,ocultamiento,incluida,,30.0,13.233,640,480,397
+MNNIT_H264_129,MNNIT_h264,shoplifting-44.mp4,ocultamiento,incluida,,30.0,11.9,640,480,357
+MNNIT_H264_130,MNNIT_h264,shoplifting-45.mp4,ocultamiento,incluida,,30.0,12.167,640,480,365
+MNNIT_H264_131,MNNIT_h264,shoplifting-46.mp4,ocultamiento,incluida,,30.0,10.9,640,480,327
+MNNIT_H264_132,MNNIT_h264,shoplifting-47.mp4,ocultamiento,incluida,,30.0,10.833,640,480,325
+MNNIT_H264_133,MNNIT_h264,shoplifting-48.mp4,ocultamiento,incluida,,30.0,11.767,640,480,353
+MNNIT_H264_134,MNNIT_h264,shoplifting-5.mp4,ocultamiento,incluida,,30.0,11.9,640,480,357
+MNNIT_H264_135,MNNIT_h264,shoplifting-50.mp4,ocultamiento,incluida,,30.0,12.1,640,480,363
+MNNIT_H264_136,MNNIT_h264,shoplifting-51.mp4,ocultamiento,incluida,,30.0,11.433,640,480,343
+MNNIT_H264_137,MNNIT_h264,shoplifting-52.mp4,ocultamiento,incluida,,30.0,10.867,640,480,326
+MNNIT_H264_138,MNNIT_h264,shoplifting-53.mp4,ocultamiento,incluida,,30.0,11.567,640,480,347
+MNNIT_H264_139,MNNIT_h264,shoplifting-54.mp4,ocultamiento,incluida,,30.0,11.567,640,480,347
+MNNIT_H264_140,MNNIT_h264,shoplifting-55.mp4,ocultamiento,incluida,,30.0,10.5,640,480,315
+MNNIT_H264_141,MNNIT_h264,shoplifting-56.mp4,ocultamiento,incluida,,30.0,11.567,640,480,347
+MNNIT_H264_142,MNNIT_h264,shoplifting-57.mp4,ocultamiento,incluida,,30.0,11.567,640,480,347
+MNNIT_H264_143,MNNIT_h264,shoplifting-58.mp4,ocultamiento,incluida,,30.0,10.667,640,480,320
+MNNIT_H264_144,MNNIT_h264,shoplifting-59.mp4,ocultamiento,incluida,,30.0,10.667,640,480,320
+MNNIT_H264_145,MNNIT_h264,shoplifting-6.mp4,ocultamiento,incluida,,30.0,11.133,640,480,334
+MNNIT_H264_146,MNNIT_h264,shoplifting-60.mp4,ocultamiento,incluida,,30.0,10.7,640,480,321
+MNNIT_H264_147,MNNIT_h264,shoplifting-61.mp4,ocultamiento,incluida,,30.0,10.267,640,480,308
+MNNIT_H264_148,MNNIT_h264,shoplifting-62.mp4,ocultamiento,incluida,,30.0,10.733,640,480,322
+MNNIT_H264_149,MNNIT_h264,shoplifting-63.mp4,ocultamiento,incluida,,30.0,10.767,640,480,323
+MNNIT_H264_150,MNNIT_h264,shoplifting-64.mp4,ocultamiento,incluida,,30.0,11.467,640,480,344
+MNNIT_H264_151,MNNIT_h264,shoplifting-65.mp4,ocultamiento,incluida,,30.0,10.467,640,480,314
+MNNIT_H264_152,MNNIT_h264,shoplifting-66.mp4,ocultamiento,incluida,,30.0,11.1,640,480,333
+MNNIT_H264_153,MNNIT_h264,shoplifting-67.mp4,ocultamiento,incluida,,30.0,9.867,640,480,296
+MNNIT_H264_154,MNNIT_h264,shoplifting-68.mp4,ocultamiento,incluida,,30.0,10.533,640,480,316
+MNNIT_H264_155,MNNIT_h264,shoplifting-69.mp4,ocultamiento,incluida,,30.0,10.833,640,480,325
+MNNIT_H264_156,MNNIT_h264,shoplifting-7.mp4,ocultamiento,incluida,,30.0,11.4,640,480,342
+MNNIT_H264_157,MNNIT_h264,shoplifting-70.mp4,ocultamiento,incluida,,30.0,10.867,640,480,326
+MNNIT_H264_158,MNNIT_h264,shoplifting-71.mp4,ocultamiento,incluida,,30.0,10.3,640,480,309
+MNNIT_H264_159,MNNIT_h264,shoplifting-72.mp4,ocultamiento,incluida,,30.0,10.767,640,480,323
+MNNIT_H264_160,MNNIT_h264,shoplifting-73.mp4,ocultamiento,incluida,,30.0,10.767,640,480,323
+MNNIT_H264_161,MNNIT_h264,shoplifting-74.mp4,ocultamiento,incluida,,30.0,10.833,640,480,325
+MNNIT_H264_162,MNNIT_h264,shoplifting-75.mp4,ocultamiento,incluida,,30.0,9.667,640,480,290
+MNNIT_H264_163,MNNIT_h264,shoplifting-76.mp4,ocultamiento,incluida,,30.0,11.433,640,480,343
+MNNIT_H264_164,MNNIT_h264,shoplifting-77.mp4,ocultamiento,incluida,,30.0,11.533,640,480,346
+MNNIT_H264_165,MNNIT_h264,shoplifting-78.mp4,ocultamiento,incluida,,30.0,11.533,640,480,346
+MNNIT_H264_166,MNNIT_h264,shoplifting-79.mp4,ocultamiento,incluida,,30.0,10.533,640,480,316
+MNNIT_H264_167,MNNIT_h264,shoplifting-8.mp4,ocultamiento,incluida,,30.0,10.533,640,480,316
+MNNIT_H264_168,MNNIT_h264,shoplifting-80.mp4,ocultamiento,incluida,,30.0,11.333,640,480,340
+MNNIT_H264_169,MNNIT_h264,shoplifting-81.mp4,ocultamiento,incluida,,30.0,10.7,640,480,321
+MNNIT_H264_170,MNNIT_h264,shoplifting-82.mp4,ocultamiento,incluida,,30.0,10.7,640,480,321
+MNNIT_H264_171,MNNIT_h264,shoplifting-83.mp4,ocultamiento,incluida,,30.0,10.333,640,480,310
+MNNIT_H264_172,MNNIT_h264,shoplifting-84.mp4,ocultamiento,incluida,,30.0,11.367,640,480,341
+MNNIT_H264_173,MNNIT_h264,shoplifting-85.mp4,ocultamiento,incluida,,30.0,11.367,640,480,341
+MNNIT_H264_174,MNNIT_h264,shoplifting-86.mp4,ocultamiento,incluida,,30.0,11.367,640,480,341
+MNNIT_H264_175,MNNIT_h264,shoplifting-87.mp4,ocultamiento,incluida,,30.0,11.2,640,480,336
+MNNIT_H264_176,MNNIT_h264,shoplifting-88.mp4,ocultamiento,incluida,,30.0,10.667,1920,1080,320
+MNNIT_H264_177,MNNIT_h264,shoplifting-89.mp4,ocultamiento,incluida,,30.0,13.467,1920,1080,404
+MNNIT_H264_178,MNNIT_h264,shoplifting-9.mp4,ocultamiento,incluida,,30.0,11.8,640,480,354
+MNNIT_H264_179,MNNIT_h264,shoplifting-90.mp4,ocultamiento,incluida,,30.0,12.433,1920,1080,373
+MNNIT_H264_180,MNNIT_h264,shoplifting-91.mp4,ocultamiento,incluida,,30.0,8.733,1920,1080,262
+MNNIT_H264_181,MNNIT_h264,shoplifting-92.mp4,ocultamiento,incluida,,30.0,12.433,1920,1080,373
+MNNIT_H264_182,MNNIT_h264,shoplifting-93.mp4,ocultamiento,incluida,,30.0,11.333,1920,1080,340
+SINTETICO_001,sintetico,001.mp4,pendiente,pendiente_revision,,24.0,8.0,1280,720,192
+SINTETICO_002,sintetico,002.mp4,pendiente,pendiente_revision,,24.0,8.0,1280,720,192
+SINTETICO_003,sintetico,003.mp4,pendiente,pendiente_revision,,24.0,10.042,1280,720,241
+SINTETICO_004,sintetico,004.mp4,pendiente,pendiente_revision,,24.0,6.0,1280,720,144
+SINTETICO_005,sintetico,005.mp4,pendiente,pendiente_revision,,24.0,6.0,1280,720,144
+SINTETICO_006,sintetico,006.mp4,pendiente,pendiente_revision,,24.0,10.125,1366,768,243
+SINTETICO_007,sintetico,007.mp4,pendiente,pendiente_revision,,24.0,6.0,1280,720,144
+SINTETICO_008,sintetico,008.mp4,pendiente,pendiente_revision,,24.0,6.0,1280,720,144
+SINTETICO_009,sintetico,009.mp4,pendiente,pendiente_revision,,24.0,6.0,1280,720,144
+SINTETICO_010,sintetico,010.mp4,pendiente,pendiente_revision,,24.0,6.0,1280,720,144
+SINTETICO_011,sintetico,011.mp4,pendiente,pendiente_revision,,24.0,6.0,1280,720,144
+SINTETICO_012,sintetico,012.mp4,pendiente,pendiente_revision,,24.0,6.0,1280,720,144
+SINTETICO_013,sintetico,013.mp4,pendiente,pendiente_revision,,24.0,6.0,1280,720,144
+SINTETICO_014,sintetico,014.mp4,pendiente,pendiente_revision,,24.0,6.0,1280,720,144
+VENTA_SOSPECHOSA_001,venta_sospechosa,T-509659_24-48-45-49-f7-fd_120020.mp4,pendiente,fuera_alcance,Acción distinta al ocultamiento de mercancía por cliente,10.0,10.2,640,480,102
+VENTA_SOSPECHOSA_002,venta_sospechosa,T-509813_24-48-45-49-f7-fd_170028.mp4,pendiente,fuera_alcance,Acción distinta al ocultamiento de mercancía por cliente,10.0,14.2,640,480,142
+VENTA_SOSPECHOSA_003,venta_sospechosa,T-510116_24-48-45-49-f7-fd_193102.mp4,pendiente,fuera_alcance,Acción distinta al ocultamiento de mercancía por cliente,10.0,14.2,640,480,142
+VENTA_SOSPECHOSA_004,venta_sospechosa,T-510375_24-48-45-49-f7-fd_170027.mp4,pendiente,fuera_alcance,Acción distinta al ocultamiento de mercancía por cliente,10.0,30.2,640,480,302
+VENTA_SOSPECHOSA_005,venta_sospechosa,T-510577_24-48-45-49-f7-fd_113049.mp4,pendiente,fuera_alcance,Acción distinta al ocultamiento de mercancía por cliente,10.0,24.2,640,480,242
+VENTA_SOSPECHOSA_006,venta_sospechosa,T-510668_24-48-45-49-f7-fd_170057.mp4,pendiente,fuera_alcance,Acción distinta al ocultamiento de mercancía por cliente,10.0,13.2,640,480,132
+VENTA_SOSPECHOSA_007,venta_sospechosa,T-510670_24-48-45-49-f7-fd_170057.mp4,pendiente,fuera_alcance,Acción distinta al ocultamiento de mercancía por cliente,10.0,12.2,640,480,122
+VENTA_SOSPECHOSA_008,venta_sospechosa,T-510782_24-48-45-49-f7-fd_210103.mp4,pendiente,fuera_alcance,Acción distinta al ocultamiento de mercancía por cliente,10.0,13.2,640,480,132
+VENTA_SOSPECHOSA_009,venta_sospechosa,T-510826_24-48-45-49-f7-fd_230106.mp4,pendiente,fuera_alcance,Acción distinta al ocultamiento de mercancía por cliente,10.0,15.2,640,480,152
+VENTA_SOSPECHOSA_010,venta_sospechosa,T-510845_24-48-45-49-f7-fd_233108.mp4,pendiente,fuera_alcance,Acción distinta al ocultamiento de mercancía por cliente,10.0,18.2,640,480,182
+VENTA_SOSPECHOSA_011,venta_sospechosa,T-510953_24-48-45-49-f7-fd_123020.mp4,pendiente,fuera_alcance,Acción distinta al ocultamiento de mercancía por cliente,10.0,17.2,640,480,172
+VENTA_SOSPECHOSA_012,venta_sospechosa,T-511091_24-48-45-49-f7-fd_180028.mp4,pendiente,fuera_alcance,Acción distinta al ocultamiento de mercancía por cliente,10.0,17.2,640,480,172
+VENTA_SOSPECHOSA_013,venta_sospechosa,T-511140_24-48-45-49-f7-fd_190029.mp4,pendiente,fuera_alcance,Acción distinta al ocultamiento de mercancía por cliente,10.0,12.2,640,480,122
+VENTA_SOSPECHOSA_014,venta_sospechosa,T-511206_24-48-45-49-f7-fd_213034.mp4,pendiente,fuera_alcance,Acción distinta al ocultamiento de mercancía por cliente,10.0,20.2,640,480,202
+VENTA_SOSPECHOSA_015,venta_sospechosa,T-511320_24-48-45-49-f7-fd_120050.mp4,pendiente,fuera_alcance,Acción distinta al ocultamiento de mercancía por cliente,10.0,17.2,640,480,172
+VENTA_SOSPECHOSA_016,venta_sospechosa,T-511557_24-48-45-49-f7-fd_210103.mp4,pendiente,fuera_alcance,Acción distinta al ocultamiento de mercancía por cliente,10.0,26.2,640,480,262
+VENTA_SOSPECHOSA_017,venta_sospechosa,T-511597_24-48-45-49-f7-fd_220105.mp4,pendiente,fuera_alcance,Acción distinta al ocultamiento de mercancía por cliente,10.0,17.2,640,480,172
+VENTA_SOSPECHOSA_018,venta_sospechosa,T-511643_24-48-45-49-f7-fd_233108.mp4,pendiente,fuera_alcance,Acción distinta al ocultamiento de mercancía por cliente,10.0,22.2,640,480,222
+VENTA_SOSPECHOSA_019,venta_sospechosa,T-511670_24-48-45-49-f7-fd_090014.mp4,pendiente,fuera_alcance,Acción distinta al ocultamiento de mercancía por cliente,10.0,25.2,640,480,252
+VENTA_SOSPECHOSA_020,venta_sospechosa,T-511690_24-48-45-49-f7-fd_103016.mp4,pendiente,fuera_alcance,Acción distinta al ocultamiento de mercancía por cliente,10.0,27.2,640,480,272
+VENTA_SOSPECHOSA_021,venta_sospechosa,T-511771_24-48-45-49-f7-fd_133022.mp4,pendiente,fuera_alcance,Acción distinta al ocultamiento de mercancía por cliente,10.0,12.2,640,480,122
+VENTA_SOSPECHOSA_022,venta_sospechosa,T-511940_24-48-45-49-f7-fd_183030.mp4,pendiente,fuera_alcance,Acción distinta al ocultamiento de mercancía por cliente,10.0,10.2,640,480,102
+VENTA_SOSPECHOSA_023,venta_sospechosa,T-512099_24-48-45-49-f7-fd_223036.mp4,pendiente,fuera_alcance,Acción distinta al ocultamiento de mercancía por cliente,10.0,18.2,640,480,182
+VENTA_SOSPECHOSA_024,venta_sospechosa,T-521162_24-48-45-78-26-61_130031.mp4,pendiente,fuera_alcance,Acción distinta al ocultamiento de mercancía por cliente,5.0,11.4,640,480,57
+VENTA_SOSPECHOSA_025,venta_sospechosa,T-521248_24-48-45-78-26-61_163038.mp4,pendiente,fuera_alcance,Acción distinta al ocultamiento de mercancía por cliente,5.0,15.4,640,480,77
+VENTA_SOSPECHOSA_026,venta_sospechosa,T-521325_24-48-45-78-26-61_133102.mp4,pendiente,fuera_alcance,Acción distinta al ocultamiento de mercancía por cliente,5.0,39.4,640,480,197
+VENTA_SOSPECHOSA_027,venta_sospechosa,T-521364_24-48-45-78-26-61_163107.mp4,pendiente,fuera_alcance,Acción distinta al ocultamiento de mercancía por cliente,5.0,47.4,640,480,237
+VENTA_SOSPECHOSA_028,venta_sospechosa,T-521398_24-48-45-78-26-61_173109.mp4,pendiente,fuera_alcance,Acción distinta al ocultamiento de mercancía por cliente,5.0,45.4,640,480,227
+VENTA_SOSPECHOSA_029,venta_sospechosa,T-521415_24-48-45-78-26-61_180109.mp4,pendiente,fuera_alcance,Acción distinta al ocultamiento de mercancía por cliente,5.0,45.4,640,480,227
+VENTA_SOSPECHOSA_030,venta_sospechosa,T-521543_24-48-45-78-26-61_123030.mp4,pendiente,fuera_alcance,Acción distinta al ocultamiento de mercancía por cliente,5.0,33.4,640,480,167
+VENTA_SOSPECHOSA_031,venta_sospechosa,T-521590_24-48-45-78-26-61_150034.mp4,pendiente,fuera_alcance,Acción distinta al ocultamiento de mercancía por cliente,5.0,10.4,640,480,52
+VENTA_SOSPECHOSA_032,venta_sospechosa,T-521647_24-48-45-78-26-61_180038.mp4,pendiente,fuera_alcance,Acción distinta al ocultamiento de mercancía por cliente,5.0,13.4,640,480,67
+VENTA_SOSPECHOSA_033,venta_sospechosa,T-521667_24-48-45-78-26-61_190040.mp4,pendiente,fuera_alcance,Acción distinta al ocultamiento de mercancía por cliente,5.0,42.4,640,480,212
+VENTA_SOSPECHOSA_034,venta_sospechosa,T-521699_24-48-45-78-26-61_203043.mp4,pendiente,fuera_alcance,Acción distinta al ocultamiento de mercancía por cliente,5.0,33.4,640,480,167
+VENTA_SOSPECHOSA_035,venta_sospechosa,T-521960_24-48-45-78-26-61_133030.mp4,pendiente,fuera_alcance,Acción distinta al ocultamiento de mercancía por cliente,5.0,15.4,640,480,77
+VENTA_SOSPECHOSA_036,venta_sospechosa,T-521962_24-48-45-78-26-61_140031.mp4,pendiente,fuera_alcance,Acción distinta al ocultamiento de mercancía por cliente,5.0,10.4,640,480,52
+VENTA_SOSPECHOSA_037,venta_sospechosa,T-521996_24-48-45-78-26-61_160034.mp4,pendiente,fuera_alcance,Acción distinta al ocultamiento de mercancía por cliente,5.0,11.4,640,480,57
+VENTA_SOSPECHOSA_038,venta_sospechosa,T-522035_24-48-45-78-26-61_183037.mp4,pendiente,fuera_alcance,Acción distinta al ocultamiento de mercancía por cliente,5.0,15.4,640,480,77
+VENTA_SOSPECHOSA_039,venta_sospechosa,T-522097_24-48-45-78-26-61_220043.mp4,pendiente,fuera_alcance,Acción distinta al ocultamiento de mercancía por cliente,5.0,18.4,640,480,92
+VENTA_SOSPECHOSA_040,venta_sospechosa,T-522157_24-48-45-78-26-61_133100.mp4,pendiente,fuera_alcance,Acción distinta al ocultamiento de mercancía por cliente,5.0,40.4,640,480,202
+VENTA_SOSPECHOSA_041,venta_sospechosa,T-522180_24-48-45-78-26-61_150102.mp4,pendiente,fuera_alcance,Acción distinta al ocultamiento de mercancía por cliente,5.0,30.4,640,480,152
+VENTA_SOSPECHOSA_042,venta_sospechosa,T-522181_24-48-45-78-26-61_150102.mp4,pendiente,fuera_alcance,Acción distinta al ocultamiento de mercancía por cliente,5.0,25.4,640,480,127
+VENTA_SOSPECHOSA_043,venta_sospechosa,T-522327_24-48-45-78-26-61_223113.mp4,pendiente,fuera_alcance,Acción distinta al ocultamiento de mercancía por cliente,5.0,31.4,640,480,157
+VENTA_SOSPECHOSA_044,venta_sospechosa,T-522499_24-48-45-78-26-61_180036.mp4,pendiente,fuera_alcance,Acción distinta al ocultamiento de mercancía por cliente,5.0,13.4,640,480,67
+VENTA_SOSPECHOSA_045,venta_sospechosa,T-522500_24-48-45-78-26-61_180036.mp4,pendiente,fuera_alcance,Acción distinta al ocultamiento de mercancía por cliente,5.0,56.4,640,480,282
+VENTA_SOSPECHOSA_046,venta_sospechosa,T-522501_24-48-45-78-26-61_180036.mp4,pendiente,fuera_alcance,Acción distinta al ocultamiento de mercancía por cliente,5.0,42.4,640,480,212
+VENTA_SOSPECHOSA_047,venta_sospechosa,T-522503_24-48-45-78-26-61_180036.mp4,pendiente,fuera_alcance,Acción distinta al ocultamiento de mercancía por cliente,5.0,22.4,640,480,112
+VENTA_SOSPECHOSA_048,venta_sospechosa,T-522511_24-48-45-78-26-61_180036.mp4,pendiente,fuera_alcance,Acción distinta al ocultamiento de mercancía por cliente,5.0,55.4,640,480,277
+VENTA_SOSPECHOSA_049,venta_sospechosa,T-522537_24-48-45-78-26-61_190038.mp4,pendiente,fuera_alcance,Acción distinta al ocultamiento de mercancía por cliente,5.0,30.4,640,480,152
+VENTA_SOSPECHOSA_050,venta_sospechosa,T-522542_24-48-45-78-26-61_193038.mp4,pendiente,fuera_alcance,Acción distinta al ocultamiento de mercancía por cliente,5.0,15.4,640,480,77
+VENTA_SOSPECHOSA_051,venta_sospechosa,T-522562_24-48-45-78-26-61_200039.mp4,pendiente,fuera_alcance,Acción distinta al ocultamiento de mercancía por cliente,5.0,14.4,640,480,72
+VENTA_SOSPECHOSA_052,venta_sospechosa,T-522609_24-48-45-78-26-61_210041.mp4,pendiente,fuera_alcance,Acción distinta al ocultamiento de mercancía por cliente,5.0,43.4,640,480,217
+VENTA_SOSPECHOSA_053,venta_sospechosa,T-509723_24-48-45-49-f7-fd_143023.mp4,pendiente,fuera_alcance,Acción distinta al ocultamiento de mercancía por cliente,10.0,25.2,640,480,252
+VENTA_SOSPECHOSA_054,venta_sospechosa,T-509734_24-48-45-49-f7-fd_150024.mp4,pendiente,fuera_alcance,Acción distinta al ocultamiento de mercancía por cliente,10.0,18.2,640,480,182
+VENTA_SOSPECHOSA_055,venta_sospechosa,T-510164_24-48-45-49-f7-fd_210104.mp4,pendiente,fuera_alcance,Acción distinta al ocultamiento de mercancía por cliente,10.0,22.2,640,480,222
+VENTA_SOSPECHOSA_056,venta_sospechosa,T-510637_24-48-45-49-f7-fd_153055.mp4,pendiente,fuera_alcance,Acción distinta al ocultamiento de mercancía por cliente,10.0,17.2,640,480,172
+VENTA_SOSPECHOSA_057,venta_sospechosa,T-510707_24-48-45-49-f7-fd_183059.mp4,pendiente,fuera_alcance,Acción distinta al ocultamiento de mercancía por cliente,10.0,34.2,640,480,342
+VENTA_SOSPECHOSA_058,venta_sospechosa,T-510846_24-48-45-49-f7-fd_233108.mp4,pendiente,fuera_alcance,Acción distinta al ocultamiento de mercancía por cliente,10.0,31.2,640,480,312
+VENTA_SOSPECHOSA_059,venta_sospechosa,T-510959_24-48-45-49-f7-fd_130021.mp4,pendiente,fuera_alcance,Acción distinta al ocultamiento de mercancía por cliente,10.0,13.2,640,480,132
+VENTA_SOSPECHOSA_060,venta_sospechosa,T-511063_24-48-45-49-f7-fd_170027.mp4,pendiente,fuera_alcance,Acción distinta al ocultamiento de mercancía por cliente,10.0,29.2,640,480,292
+VENTA_SOSPECHOSA_061,venta_sospechosa,T-511084_24-48-45-49-f7-fd_173027.mp4,pendiente,fuera_alcance,Acción distinta al ocultamiento de mercancía por cliente,10.0,29.2,640,480,292
+VENTA_SOSPECHOSA_062,venta_sospechosa,T-511111_24-48-45-49-f7-fd_183029.mp4,pendiente,fuera_alcance,Acción distinta al ocultamiento de mercancía por cliente,10.0,11.2,640,480,112
+VENTA_SOSPECHOSA_063,venta_sospechosa,T-511197_24-48-45-49-f7-fd_210033.mp4,pendiente,fuera_alcance,Acción distinta al ocultamiento de mercancía por cliente,10.0,27.2,640,480,272
+VENTA_SOSPECHOSA_064,venta_sospechosa,T-511225_24-48-45-49-f7-fd_213034.mp4,pendiente,fuera_alcance,Acción distinta al ocultamiento de mercancía por cliente,10.0,10.2,640,480,102
+VENTA_SOSPECHOSA_065,venta_sospechosa,T-511433_24-48-45-49-f7-fd_173058.mp4,pendiente,fuera_alcance,Acción distinta al ocultamiento de mercancía por cliente,10.0,21.2,640,480,212
+VENTA_SOSPECHOSA_066,venta_sospechosa,T-511739_24-48-45-49-f7-fd_123020.mp4,pendiente,fuera_alcance,Acción distinta al ocultamiento de mercancía por cliente,10.0,11.2,640,480,112
+VENTA_SOSPECHOSA_067,venta_sospechosa,T-511815_24-48-45-49-f7-fd_153025.mp4,pendiente,fuera_alcance,Acción distinta al ocultamiento de mercancía por cliente,10.0,34.2,640,480,342
+VENTA_SOSPECHOSA_068,venta_sospechosa,T-511911_24-48-45-49-f7-fd_180029.mp4,pendiente,fuera_alcance,Acción distinta al ocultamiento de mercancía por cliente,10.0,32.2,640,480,322
+VENTA_SOSPECHOSA_069,venta_sospechosa,T-511950_24-48-45-49-f7-fd_190031.mp4,pendiente,fuera_alcance,Acción distinta al ocultamiento de mercancía por cliente,10.0,25.2,640,480,252
+VENTA_SOSPECHOSA_070,venta_sospechosa,T-512025_24-48-45-49-f7-fd_210034.mp4,pendiente,fuera_alcance,Acción distinta al ocultamiento de mercancía por cliente,10.0,30.2,640,480,302
+VENTA_SOSPECHOSA_071,venta_sospechosa,T-512122_24-48-45-49-f7-fd_230037.mp4,pendiente,fuera_alcance,Acción distinta al ocultamiento de mercancía por cliente,10.0,20.2,640,480,202
+VENTA_SOSPECHOSA_072,venta_sospechosa,T-512146_24-48-45-49-f7-fd_233038.mp4,pendiente,fuera_alcance,Acción distinta al ocultamiento de mercancía por cliente,10.0,26.2,640,480,262
+VENTA_SOSPECHOSA_073,venta_sospechosa,T-521107_24-48-45-78-26-61_100027.mp4,pendiente,fuera_alcance,Acción distinta al ocultamiento de mercancía por cliente,5.0,17.4,640,480,87
+VENTA_SOSPECHOSA_074,venta_sospechosa,T-521133_24-48-45-78-26-61_110028.mp4,pendiente,fuera_alcance,Acción distinta al ocultamiento de mercancía por cliente,5.0,18.4,640,480,92
+VENTA_SOSPECHOSA_075,venta_sospechosa,T-521144_24-48-45-78-26-61_120030.mp4,pendiente,fuera_alcance,Acción distinta al ocultamiento de mercancía por cliente,5.0,56.4,640,480,282
+VENTA_SOSPECHOSA_076,venta_sospechosa,T-521167_24-48-45-78-26-61_133032.mp4,pendiente,fuera_alcance,Acción distinta al ocultamiento de mercancía por cliente,5.0,26.4,640,480,132
+VENTA_SOSPECHOSA_077,venta_sospechosa,T-521173_24-48-45-78-26-61_133032.mp4,pendiente,fuera_alcance,Acción distinta al ocultamiento de mercancía por cliente,5.0,30.4,640,480,152
+VENTA_SOSPECHOSA_078,venta_sospechosa,T-521181_24-48-45-78-26-61_140033.mp4,pendiente,fuera_alcance,Acción distinta al ocultamiento de mercancía por cliente,5.0,55.4,640,480,277
+VENTA_SOSPECHOSA_079,venta_sospechosa,T-521188_24-48-45-78-26-61_140033.mp4,pendiente,fuera_alcance,Acción distinta al ocultamiento de mercancía por cliente,5.0,47.4,640,480,237
+VENTA_SOSPECHOSA_080,venta_sospechosa,T-521195_24-48-45-78-26-61_143034.mp4,pendiente,fuera_alcance,Acción distinta al ocultamiento de mercancía por cliente,5.0,32.4,640,480,162
+VENTA_SOSPECHOSA_081,venta_sospechosa,T-521202_24-48-45-78-26-61_143034.mp4,pendiente,fuera_alcance,Acción distinta al ocultamiento de mercancía por cliente,5.0,17.4,640,480,87
+VENTA_SOSPECHOSA_082,venta_sospechosa,T-521216_24-48-45-78-26-61_150035.mp4,pendiente,fuera_alcance,Acción distinta al ocultamiento de mercancía por cliente,5.0,29.4,640,480,147
+VENTA_SOSPECHOSA_083,venta_sospechosa,T-521225_24-48-45-78-26-61_150035.mp4,pendiente,fuera_alcance,Acción distinta al ocultamiento de mercancía por cliente,5.0,47.4,640,480,237
+VENTA_SOSPECHOSA_084,venta_sospechosa,T-521233_24-48-45-78-26-61_153036.mp4,pendiente,fuera_alcance,Acción distinta al ocultamiento de mercancía por cliente,5.0,11.4,640,480,57
+VENTA_SOSPECHOSA_085,venta_sospechosa,T-521240_24-48-45-78-26-61_153036.mp4,pendiente,fuera_alcance,Acción distinta al ocultamiento de mercancía por cliente,5.0,52.4,640,480,262
+VENTA_SOSPECHOSA_086,venta_sospechosa,T-521330_24-48-45-78-26-61_140103.mp4,pendiente,fuera_alcance,Acción distinta al ocultamiento de mercancía por cliente,5.0,14.4,640,480,72
+VENTA_SOSPECHOSA_087,venta_sospechosa,T-521331_24-48-45-78-26-61_140103.mp4,pendiente,fuera_alcance,Acción distinta al ocultamiento de mercancía por cliente,5.0,35.4,640,480,177
+VENTA_SOSPECHOSA_088,venta_sospechosa,T-521335_24-48-45-78-26-61_140103.mp4,pendiente,fuera_alcance,Acción distinta al ocultamiento de mercancía por cliente,5.0,22.4,640,480,112
+VENTA_SOSPECHOSA_089,venta_sospechosa,T-521346_24-48-45-78-26-61_150105.mp4,pendiente,fuera_alcance,Acción distinta al ocultamiento de mercancía por cliente,5.0,25.4,640,480,127
+VENTA_SOSPECHOSA_090,venta_sospechosa,T-521356_24-48-45-78-26-61_153106.mp4,pendiente,fuera_alcance,Acción distinta al ocultamiento de mercancía por cliente,5.0,50.4,640,480,252
+VENTA_SOSPECHOSA_091,venta_sospechosa,T-521365_24-48-45-78-26-61_163107.mp4,pendiente,fuera_alcance,Acción distinta al ocultamiento de mercancía por cliente,5.0,35.4,640,480,177
+VENTA_SOSPECHOSA_092,venta_sospechosa,T-521386_24-48-45-78-26-61_170108.mp4,pendiente,fuera_alcance,Acción distinta al ocultamiento de mercancía por cliente,5.0,56.4,640,480,282
+VENTA_SOSPECHOSA_093,venta_sospechosa,T-521404_24-48-45-78-26-61_173109.mp4,pendiente,fuera_alcance,Acción distinta al ocultamiento de mercancía por cliente,5.0,50.4,640,480,252
+VENTA_SOSPECHOSA_094,venta_sospechosa,T-521465_24-48-45-78-26-61_203113.mp4,pendiente,fuera_alcance,Acción distinta al ocultamiento de mercancía por cliente,5.0,30.4,640,480,152
+VENTA_SOSPECHOSA_095,venta_sospechosa,T-521479_24-48-45-78-26-61_093026.mp4,pendiente,fuera_alcance,Acción distinta al ocultamiento de mercancía por cliente,5.0,14.4,640,480,72
+VENTA_SOSPECHOSA_096,venta_sospechosa,T-521537_24-48-45-78-26-61_123030.mp4,pendiente,fuera_alcance,Acción distinta al ocultamiento de mercancía por cliente,5.0,10.4,640,480,52
+VENTA_SOSPECHOSA_097,venta_sospechosa,T-521577_24-48-45-78-26-61_143033.mp4,pendiente,fuera_alcance,Acción distinta al ocultamiento de mercancía por cliente,5.0,56.4,640,480,282
+VENTA_SOSPECHOSA_098,venta_sospechosa,T-521591_24-48-45-78-26-61_150034.mp4,pendiente,fuera_alcance,Acción distinta al ocultamiento de mercancía por cliente,5.0,21.4,640,480,107
+VENTA_SOSPECHOSA_099,venta_sospechosa,T-521743_24-48-45-78-26-61_103057.mp4,pendiente,fuera_alcance,Acción distinta al ocultamiento de mercancía por cliente,5.0,58.4,640,480,292
+VENTA_SOSPECHOSA_100,venta_sospechosa,T-521939_24-48-45-78-26-61_123028.mp4,pendiente,fuera_alcance,Acción distinta al ocultamiento de mercancía por cliente,5.0,30.4,640,480,152
+VENTA_SOSPECHOSA_101,venta_sospechosa,T-522186_24-48-45-78-26-61_153103.mp4,pendiente,fuera_alcance,Acción distinta al ocultamiento de mercancía por cliente,5.0,42.4,640,480,212
+VENTA_SOSPECHOSA_102,venta_sospechosa,T-522255_24-48-45-78-26-61_190108.mp4,pendiente,fuera_alcance,Acción distinta al ocultamiento de mercancía por cliente,5.0,32.4,640,480,162
+VENTA_SOSPECHOSA_103,venta_sospechosa,T-522393_24-48-45-78-26-61_130028.mp4,pendiente,fuera_alcance,Acción distinta al ocultamiento de mercancía por cliente,5.0,16.4,640,480,82
+VENTA_SOSPECHOSA_104,venta_sospechosa,T-522593_24-48-45-78-26-61_203040.mp4,pendiente,fuera_alcance,Acción distinta al ocultamiento de mercancía por cliente,5.0,28.4,640,480,142
+VENTA_SOSPECHOSA_105,venta_sospechosa,T-510996_24-48-45-49-f7-fd_143023.mp4,pendiente,fuera_alcance,Acción distinta al ocultamiento de mercancía por cliente,10.0,11.2,640,480,112
+VENTA_SOSPECHOSA_106,venta_sospechosa,T-511105_24-48-45-49-f7-fd_183029.mp4,pendiente,fuera_alcance,Acción distinta al ocultamiento de mercancía por cliente,10.0,14.2,640,480,142
+VENTA_SOSPECHOSA_107,venta_sospechosa,T-511649_24-48-45-49-f7-fd_233108.mp4,pendiente,fuera_alcance,Acción distinta al ocultamiento de mercancía por cliente,10.0,20.2,640,480,202
+VENTA_SOSPECHOSA_108,venta_sospechosa,T-511796_24-48-45-49-f7-fd_150024.mp4,pendiente,fuera_alcance,Acción distinta al ocultamiento de mercancía por cliente,10.0,18.2,640,480,182
+VENTA_SOSPECHOSA_109,venta_sospechosa,T-512021_24-48-45-49-f7-fd_203033.mp4,pendiente,fuera_alcance,Acción distinta al ocultamiento de mercancía por cliente,10.0,11.2,640,480,112
+VENTA_SOSPECHOSA_110,venta_sospechosa,T-521390_24-48-45-78-26-61_170108.mp4,pendiente,fuera_alcance,Acción distinta al ocultamiento de mercancía por cliente,5.0,33.4,640,480,167
+VENTA_SOSPECHOSA_111,venta_sospechosa,T-521626_24-48-45-78-26-61_173037.mp4,pendiente,fuera_alcance,Acción distinta al ocultamiento de mercancía por cliente,5.0,42.4,640,480,212
+VENTA_SOSPECHOSA_112,venta_sospechosa,T-521789_24-48-45-78-26-61_140102.mp4,pendiente,fuera_alcance,Acción distinta al ocultamiento de mercancía por cliente,5.0,16.4,640,480,82
+VENTA_SOSPECHOSA_113,venta_sospechosa,T-521961_24-48-45-78-26-61_133030.mp4,pendiente,fuera_alcance,Acción distinta al ocultamiento de mercancía por cliente,5.0,43.4,640,480,217
+VENTA_SOSPECHOSA_114,venta_sospechosa,T-522042_24-48-45-78-26-61_190038.mp4,pendiente,fuera_alcance,Acción distinta al ocultamiento de mercancía por cliente,5.0,38.4,640,480,192
+VENTA_SOSPECHOSA_115,venta_sospechosa,T-522106_24-48-45-78-26-61_090053.mp4,pendiente,fuera_alcance,Acción distinta al ocultamiento de mercancía por cliente,5.0,14.4,640,480,72
+VENTA_SOSPECHOSA_116,venta_sospechosa,T-522544_24-48-45-78-26-61_193038.mp4,pendiente,fuera_alcance,Acción distinta al ocultamiento de mercancía por cliente,5.0,31.4,640,480,157
+VENTA_SOSPECHOSA_117,venta_sospechosa,T-509646_24-48-45-49-f7-fd_110018.mp4,pendiente,fuera_alcance,Acción distinta al ocultamiento de mercancía por cliente,10.0,22.2,640,480,222
+VENTA_SOSPECHOSA_118,venta_sospechosa,T-510017_24-48-45-49-f7-fd_163057.mp4,pendiente,fuera_alcance,Acción distinta al ocultamiento de mercancía por cliente,10.0,14.2,640,480,142
+VENTA_SOSPECHOSA_119,venta_sospechosa,T-510028_24-48-45-49-f7-fd_170058.mp4,pendiente,fuera_alcance,Acción distinta al ocultamiento de mercancía por cliente,10.0,13.2,640,480,132
+VENTA_SOSPECHOSA_120,venta_sospechosa,T-510123_24-48-45-49-f7-fd_200103.mp4,pendiente,fuera_alcance,Acción distinta al ocultamiento de mercancía por cliente,10.0,23.2,640,480,232
+VENTA_SOSPECHOSA_121,venta_sospechosa,T-510582_24-48-45-49-f7-fd_120050.mp4,pendiente,fuera_alcance,Acción distinta al ocultamiento de mercancía por cliente,10.0,13.2,640,480,132
+VENTA_SOSPECHOSA_122,venta_sospechosa,T-511146_24-48-45-49-f7-fd_193030.mp4,pendiente,fuera_alcance,Acción distinta al ocultamiento de mercancía por cliente,10.0,15.2,640,480,152
+VENTA_SOSPECHOSA_123,venta_sospechosa,T-511847_24-48-45-49-f7-fd_163027.mp4,pendiente,fuera_alcance,Acción distinta al ocultamiento de mercancía por cliente,10.0,21.2,640,480,212
+VENTA_SOSPECHOSA_124,venta_sospechosa,T-512074_24-48-45-49-f7-fd_220035.mp4,pendiente,fuera_alcance,Acción distinta al ocultamiento de mercancía por cliente,10.0,31.2,640,480,312
+VENTA_SOSPECHOSA_125,venta_sospechosa,T-521171_24-48-45-78-26-61_133032.mp4,pendiente,fuera_alcance,Acción distinta al ocultamiento de mercancía por cliente,5.0,50.4,640,480,252
+VENTA_SOSPECHOSA_126,venta_sospechosa,T-521247_24-48-45-78-26-61_160037.mp4,pendiente,fuera_alcance,Acción distinta al ocultamiento de mercancía por cliente,5.0,15.4,640,480,77
+VENTA_SOSPECHOSA_127,venta_sospechosa,T-521515_24-48-45-78-26-61_110028.mp4,pendiente,fuera_alcance,Acción distinta al ocultamiento de mercancía por cliente,5.0,33.4,640,480,167
+VENTA_SOSPECHOSA_128,venta_sospechosa,T-521614_24-48-45-78-26-61_163036.mp4,pendiente,fuera_alcance,Acción distinta al ocultamiento de mercancía por cliente,5.0,29.4,640,480,147
