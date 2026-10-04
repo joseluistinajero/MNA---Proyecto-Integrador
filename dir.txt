@@ -1,0 +1,654 @@
+ El volumen de la unidad C es Windows-SSD
+ El n£mero de serie del volumen es: D6EA-43D9
+
+ Directorio de C:\dev\MNA---Proyecto-Integrador
+
+30/09/2026  08:46 a. m.    <DIR>          .
+24/09/2026  06:32 p. m.    <DIR>          ..
+29/09/2026  12:52 p. m.             5,149 .gitignore
+29/09/2026  12:44 p. m.    <DIR>          Datos
+30/09/2026  08:46 a. m.                 0 dir.txt
+29/09/2026  12:41 p. m.    <DIR>          Documentacion
+29/09/2026  12:41 p. m.    <DIR>          Notebooks
+20/09/2026  12:27 p. m.             5,114 README.md
+               3 archivos         10,263 bytes
+
+ Directorio de C:\dev\MNA---Proyecto-Integrador\.git
+
+30/09/2026  08:46 a. m.    <DIR>          ..
+29/09/2026  12:56 p. m.                56 COMMIT_EDITMSG
+20/09/2026  12:48 p. m.               357 config
+19/09/2026  06:26 p. m.                73 description
+29/09/2026  02:13 p. m.               121 FETCH_HEAD
+29/09/2026  12:56 p. m.    <DIR>          gk
+20/09/2026  12:47 p. m.                21 HEAD
+19/09/2026  06:26 p. m.    <DIR>          hooks
+29/09/2026  12:56 p. m.             1,004 index
+19/09/2026  06:26 p. m.    <DIR>          info
+19/09/2026  06:26 p. m.    <DIR>          logs
+29/09/2026  02:13 p. m.    <DIR>          objects
+29/09/2026  12:56 p. m.                41 ORIG_HEAD
+19/09/2026  06:26 p. m.               112 packed-refs
+19/09/2026  06:26 p. m.    <DIR>          refs
+               8 archivos          1,785 bytes
+
+ Directorio de C:\dev\MNA---Proyecto-Integrador\.git\gk
+
+29/09/2026  12:56 p. m.    <DIR>          .
+29/09/2026  12:56 p. m.               957 config
+               1 archivos            957 bytes
+
+ Directorio de C:\dev\MNA---Proyecto-Integrador\.git\hooks
+
+19/09/2026  06:26 p. m.    <DIR>          .
+19/09/2026  06:26 p. m.               478 applypatch-msg.sample
+19/09/2026  06:26 p. m.             1,972 commit-msg.sample
+19/09/2026  06:26 p. m.             4,611 fsmonitor-watchman.sample
+19/09/2026  06:26 p. m.               189 post-update.sample
+19/09/2026  06:26 p. m.               424 pre-applypatch.sample
+19/09/2026  06:26 p. m.             1,649 pre-commit.sample
+19/09/2026  06:26 p. m.               416 pre-merge-commit.sample
+19/09/2026  06:26 p. m.             1,374 pre-push.sample
+19/09/2026  06:26 p. m.             4,898 pre-rebase.sample
+19/09/2026  06:26 p. m.               544 pre-receive.sample
+19/09/2026  06:26 p. m.             1,492 prepare-commit-msg.sample
+19/09/2026  06:26 p. m.             2,783 push-to-checkout.sample
+19/09/2026  06:26 p. m.             2,308 sendemail-validate.sample
+19/09/2026  06:26 p. m.             3,650 update.sample
+              14 archivos         26,788 bytes
+
+ Directorio de C:\dev\MNA---Proyecto-Integrador\.git\info
+
+19/09/2026  06:26 p. m.    <DIR>          .
+19/09/2026  06:26 p. m.               240 exclude
+               1 archivos            240 bytes
+
+ Directorio de C:\dev\MNA---Proyecto-Integrador\.git\logs
+
+19/09/2026  06:26 p. m.    <DIR>          .
+29/09/2026  12:56 p. m.             7,696 HEAD
+19/09/2026  06:26 p. m.    <DIR>          refs
+               1 archivos          7,696 bytes
+
+ Directorio de C:\dev\MNA---Proyecto-Integrador\.git\logs\refs
+
+19/09/2026  06:26 p. m.    <DIR>          .
+19/09/2026  06:26 p. m.    <DIR>          ..
+20/09/2026  12:48 p. m.    <DIR>          heads
+19/09/2026  09:00 p. m.    <DIR>          remotes
+               0 archivos              0 bytes
+
+ Directorio de C:\dev\MNA---Proyecto-Integrador\.git\logs\refs\heads
+
+20/09/2026  12:48 p. m.    <DIR>          .
+19/09/2026  06:26 p. m.    <DIR>          ..
+29/09/2026  12:56 p. m.             1,253 main
+               1 archivos          1,253 bytes
+
+ Directorio de C:\dev\MNA---Proyecto-Integrador\.git\logs\refs\remotes
+
+19/09/2026  09:00 p. m.    <DIR>          .
+19/09/2026  06:26 p. m.    <DIR>          ..
+20/09/2026  12:52 p. m.    <DIR>          origin
+               0 archivos              0 bytes
+
+ Directorio de C:\dev\MNA---Proyecto-Integrador\.git\logs\refs\remotes\origin
+
+20/09/2026  12:52 p. m.    <DIR>          .
+19/09/2026  09:00 p. m.    <DIR>          ..
+19/09/2026  06:26 p. m.               211 HEAD
+29/09/2026  12:56 p. m.               903 main
+               2 archivos          1,114 bytes
+
+ Directorio de C:\dev\MNA---Proyecto-Integrador\.git\objects
+
+29/09/2026  02:13 p. m.    <DIR>          .
+19/09/2026  08:40 p. m.    <DIR>          01
+19/09/2026  07:12 p. m.    <DIR>          0b
+20/09/2026  12:29 p. m.    <DIR>          10
+19/09/2026  08:04 p. m.    <DIR>          12
+20/09/2026  11:38 a. m.    <DIR>          19
+29/09/2026  12:56 p. m.    <DIR>          1b
+20/09/2026  12:35 p. m.    <DIR>          1e
+20/09/2026  12:10 p. m.    <DIR>          23
+22/09/2026  12:03 p. m.    <DIR>          2d
+29/09/2026  12:47 p. m.    <DIR>          35
+20/09/2026  11:45 a. m.    <DIR>          36
+19/09/2026  07:45 p. m.    <DIR>          40
+22/09/2026  12:03 p. m.    <DIR>          46
+20/09/2026  12:17 p. m.    <DIR>          4d
+22/09/2026  12:03 p. m.    <DIR>          4e
+29/09/2026  12:56 p. m.    <DIR>          50
+22/09/2026  12:03 p. m.    <DIR>          56
+20/09/2026  12:09 p. m.    <DIR>          57
+19/09/2026  07:45 p. m.    <DIR>          58
+20/09/2026  12:10 p. m.    <DIR>          5f
+29/09/2026  12:53 p. m.    <DIR>          63
+20/09/2026  12:30 p. m.    <DIR>          6c
+29/09/2026  12:56 p. m.    <DIR>          72
+20/09/2026  12:17 p. m.    <DIR>          77
+29/09/2026  12:56 p. m.    <DIR>          7d
+20/09/2026  12:17 p. m.    <DIR>          85
+20/09/2026  12:11 p. m.    <DIR>          88
+29/09/2026  12:47 p. m.    <DIR>          8a
+29/09/2026  12:53 p. m.    <DIR>          8b
+20/09/2026  12:29 p. m.    <DIR>          8e
+20/09/2026  12:43 p. m.    <DIR>          8f
+20/09/2026  12:36 p. m.    <DIR>          95
+29/09/2026  12:56 p. m.    <DIR>          97
+22/09/2026  12:03 p. m.    <DIR>          99
+20/09/2026  12:09 p. m.    <DIR>          9b
+20/09/2026  11:45 a. m.    <DIR>          9c
+29/09/2026  12:47 p. m.    <DIR>          a1
+22/09/2026  12:03 p. m.    <DIR>          a5
+20/09/2026  12:09 p. m.    <DIR>          a6
+29/09/2026  12:56 p. m.    <DIR>          b4
+22/09/2026  12:03 p. m.    <DIR>          c1
+19/09/2026  08:36 p. m.    <DIR>          c2
+29/09/2026  12:47 p. m.    <DIR>          c3
+20/09/2026  12:43 p. m.    <DIR>          c8
+29/09/2026  12:53 p. m.    <DIR>          cc
+20/09/2026  12:43 p. m.    <DIR>          cf
+20/09/2026  11:52 a. m.    <DIR>          d9
+20/09/2026  12:30 p. m.    <DIR>          e4
+19/09/2026  07:29 p. m.    <DIR>          eb
+20/09/2026  12:30 p. m.    <DIR>          ec
+29/09/2026  12:47 p. m.    <DIR>          f0
+20/09/2026  12:11 p. m.    <DIR>          f4
+22/09/2026  12:03 p. m.    <DIR>          f7
+20/09/2026  11:45 a. m.    <DIR>          fd
+19/09/2026  06:26 p. m.    <DIR>          info
+19/09/2026  06:26 p. m.    <DIR>          pack
+               0 archivos              0 bytes
+
+ Directorio de C:\dev\MNA---Proyecto-Integrador\.git\objects\01
+
+19/09/2026  08:40 p. m.    <DIR>          .
+29/09/2026  02:13 p. m.    <DIR>          ..
+19/09/2026  08:40 p. m.               199 799875f962a7bd538c8a94cc5939643f85a7f7
+               1 archivos            199 bytes
+
+ Directorio de C:\dev\MNA---Proyecto-Integrador\.git\objects\0b
+
+19/09/2026  07:12 p. m.    <DIR>          .
+29/09/2026  02:13 p. m.    <DIR>          ..
+19/09/2026  07:12 p. m.             2,453 729dbc339a0cff4c1563909b2551cab8714629
+               1 archivos          2,453 bytes
+
+ Directorio de C:\dev\MNA---Proyecto-Integrador\.git\objects\10
+
+20/09/2026  12:29 p. m.    <DIR>          .
+29/09/2026  02:13 p. m.    <DIR>          ..
+20/09/2026  12:29 p. m.               174 7c12af7605a60cb75b586bd62807350cf0cddf
+19/09/2026  07:29 p. m.                88 ba773827de8d00df0dd6688ab88b2268059175
+               2 archivos            262 bytes
+
+ Directorio de C:\dev\MNA---Proyecto-Integrador\.git\objects\12
+
+19/09/2026  08:04 p. m.    <DIR>          .
+29/09/2026  02:13 p. m.    <DIR>          ..
+19/09/2026  08:04 p. m.               931 376c758009fbbc6c869f5e97ecc03bf7949713
+               1 archivos            931 bytes
+
+ Directorio de C:\dev\MNA---Proyecto-Integrador\.git\objects\19
+
+20/09/2026  11:38 a. m.    <DIR>          .
+29/09/2026  02:13 p. m.    <DIR>          ..
+20/09/2026  11:38 a. m.             2,423 474ed371b86b77ac21cb047cf12ea688da228a
+               1 archivos          2,423 bytes
+
+ Directorio de C:\dev\MNA---Proyecto-Integrador\.git\objects\1b
+
+29/09/2026  12:56 p. m.    <DIR>          .
+29/09/2026  02:13 p. m.    <DIR>          ..
+29/09/2026  12:56 p. m.               190 58dc70e17d61c8f5d90bfcbe069c44a09532b4
+               1 archivos            190 bytes
+
+ Directorio de C:\dev\MNA---Proyecto-Integrador\.git\objects\1e
+
+20/09/2026  12:35 p. m.    <DIR>          .
+29/09/2026  02:13 p. m.    <DIR>          ..
+20/09/2026  12:35 p. m.               164 5deba6bc3e8332a042328ebe927304eaaf02dd
+               1 archivos            164 bytes
+
+ Directorio de C:\dev\MNA---Proyecto-Integrador\.git\objects\23
+
+20/09/2026  12:10 p. m.    <DIR>          .
+29/09/2026  02:13 p. m.    <DIR>          ..
+20/09/2026  12:10 p. m.               187 8cfda080394e2ddcf78262d5a58ab0d371761f
+               1 archivos            187 bytes
+
+ Directorio de C:\dev\MNA---Proyecto-Integrador\.git\objects\2d
+
+22/09/2026  12:03 p. m.    <DIR>          .
+29/09/2026  02:13 p. m.    <DIR>          ..
+22/09/2026  12:03 p. m.               831 0a1323f80df09dabf83b3f291fc3701b966051
+               1 archivos            831 bytes
+
+ Directorio de C:\dev\MNA---Proyecto-Integrador\.git\objects\35
+
+29/09/2026  12:47 p. m.    <DIR>          .
+29/09/2026  02:13 p. m.    <DIR>          ..
+22/09/2026  12:03 p. m.               121 5c9da147abac3f13260cb68b003db25bab099f
+29/09/2026  12:47 p. m.             2,812 a85d1c05877a856ab3ba2ed2354916d0f4d0be
+               2 archivos          2,933 bytes
+
+ Directorio de C:\dev\MNA---Proyecto-Integrador\.git\objects\36
+
+20/09/2026  11:45 a. m.    <DIR>          .
+29/09/2026  02:13 p. m.    <DIR>          ..
+20/09/2026  11:45 a. m.                88 7e6c9d30f20b7649bc30dd4485a1c2e2d2795d
+               1 archivos             88 bytes
+
+ Directorio de C:\dev\MNA---Proyecto-Integrador\.git\objects\40
+
+19/09/2026  07:45 p. m.    <DIR>          .
+29/09/2026  02:13 p. m.    <DIR>          ..
+19/09/2026  07:45 p. m.               193 714b15def4f2004c2c04e251b5e00de464666c
+               1 archivos            193 bytes
+
+ Directorio de C:\dev\MNA---Proyecto-Integrador\.git\objects\46
+
+22/09/2026  12:03 p. m.    <DIR>          .
+29/09/2026  02:13 p. m.    <DIR>          ..
+22/09/2026  12:03 p. m.                54 5cbbc9fb21abd626d547aac5afdeeeb69c276a
+               1 archivos             54 bytes
+
+ Directorio de C:\dev\MNA---Proyecto-Integrador\.git\objects\4d
+
+20/09/2026  12:17 p. m.    <DIR>          .
+29/09/2026  02:13 p. m.    <DIR>          ..
+20/09/2026  12:17 p. m.             2,427 cf91af533f30213cd8db920a31701cd8e6b3f2
+               1 archivos          2,427 bytes
+
+ Directorio de C:\dev\MNA---Proyecto-Integrador\.git\objects\4e
+
+22/09/2026  12:03 p. m.    <DIR>          .
+29/09/2026  02:13 p. m.    <DIR>          ..
+22/09/2026  12:03 p. m.                63 52be9f159b8ccf0d06beecd956c3cb211fa6a5
+20/09/2026  12:29 p. m.               127 a06bdc134da8bfd03e036ada7d64fa4ac2b735
+               2 archivos            190 bytes
+
+ Directorio de C:\dev\MNA---Proyecto-Integrador\.git\objects\50
+
+29/09/2026  12:56 p. m.    <DIR>          .
+29/09/2026  02:13 p. m.    <DIR>          ..
+29/09/2026  12:56 p. m.               137 437e1e82e9f71762b79a1dcbab12ca8c77d535
+               1 archivos            137 bytes
+
+ Directorio de C:\dev\MNA---Proyecto-Integrador\.git\objects\56
+
+22/09/2026  12:03 p. m.    <DIR>          .
+29/09/2026  02:13 p. m.    <DIR>          ..
+22/09/2026  12:03 p. m.               825 1a0bc5d84b932706d954e1cc37730c29810426
+               1 archivos            825 bytes
+
+ Directorio de C:\dev\MNA---Proyecto-Integrador\.git\objects\57
+
+20/09/2026  12:09 p. m.    <DIR>          .
+29/09/2026  02:13 p. m.    <DIR>          ..
+20/09/2026  12:09 p. m.             2,421 fc705222fa147669cfadfe2dee36357b933e30
+               1 archivos          2,421 bytes
+
+ Directorio de C:\dev\MNA---Proyecto-Integrador\.git\objects\58
+
+19/09/2026  07:45 p. m.    <DIR>          .
+29/09/2026  02:13 p. m.    <DIR>          ..
+19/09/2026  07:45 p. m.                88 5d993576a84ed484d8c3bdaf6e3f2bde7d90e0
+               1 archivos             88 bytes
+
+ Directorio de C:\dev\MNA---Proyecto-Integrador\.git\objects\5f
+
+20/09/2026  12:10 p. m.    <DIR>          .
+29/09/2026  02:13 p. m.    <DIR>          ..
+20/09/2026  12:10 p. m.                88 f9140f303380b3e394b4c61607aa157bc5cf3d
+               1 archivos             88 bytes
+
+ Directorio de C:\dev\MNA---Proyecto-Integrador\.git\objects\63
+
+29/09/2026  12:53 p. m.    <DIR>          .
+29/09/2026  02:13 p. m.    <DIR>          ..
+29/09/2026  12:53 p. m.               190 3f37b3c879c4a506566eb9883837244f32e810
+               1 archivos            190 bytes
+
+ Directorio de C:\dev\MNA---Proyecto-Integrador\.git\objects\6c
+
+20/09/2026  12:30 p. m.    <DIR>          .
+29/09/2026  02:13 p. m.    <DIR>          ..
+20/09/2026  12:30 p. m.               176 8e5a20b0a0037cfb15802db9d28cc159d08b4b
+               1 archivos            176 bytes
+
+ Directorio de C:\dev\MNA---Proyecto-Integrador\.git\objects\72
+
+29/09/2026  12:56 p. m.    <DIR>          .
+29/09/2026  02:13 p. m.    <DIR>          ..
+29/09/2026  12:56 p. m.                54 f655364d177cebdaccf7b07461658f9cf12548
+               1 archivos             54 bytes
+
+ Directorio de C:\dev\MNA---Proyecto-Integrador\.git\objects\77
+
+20/09/2026  12:17 p. m.    <DIR>          .
+29/09/2026  02:13 p. m.    <DIR>          ..
+20/09/2026  12:17 p. m.                88 306b3452bf42db413bcd9bc7c283f380dcd948
+               1 archivos             88 bytes
+
+ Directorio de C:\dev\MNA---Proyecto-Integrador\.git\objects\7d
+
+29/09/2026  12:56 p. m.    <DIR>          .
+29/09/2026  02:13 p. m.    <DIR>          ..
+29/09/2026  12:56 p. m.               190 4a5abb0ec357f620c84480ae39ae87e81655f5
+               1 archivos            190 bytes
+
+ Directorio de C:\dev\MNA---Proyecto-Integrador\.git\objects\85
+
+20/09/2026  12:17 p. m.    <DIR>          .
+29/09/2026  02:13 p. m.    <DIR>          ..
+20/09/2026  12:17 p. m.               216 3fb00eaa5520b2ac0b4c959cfbe76ecbb81831
+20/09/2026  11:46 a. m.                88 cb9ab8ee792add100d6d968ad78ffa442d1d83
+               2 archivos            304 bytes
+
+ Directorio de C:\dev\MNA---Proyecto-Integrador\.git\objects\88
+
+20/09/2026  12:11 p. m.    <DIR>          .
+29/09/2026  02:13 p. m.    <DIR>          ..
+20/09/2026  12:11 p. m.                88 2dfd30f69b4f89ebb2f97f2ee68cfa2fea618a
+               1 archivos             88 bytes
+
+ Directorio de C:\dev\MNA---Proyecto-Integrador\.git\objects\8a
+
+29/09/2026  12:47 p. m.    <DIR>          .
+29/09/2026  02:13 p. m.    <DIR>          ..
+29/09/2026  12:47 p. m.               193 6de7dce11e3b8cc8cb2bb23cf11ebcb7816297
+               1 archivos            193 bytes
+
+ Directorio de C:\dev\MNA---Proyecto-Integrador\.git\objects\8b
+
+29/09/2026  12:53 p. m.    <DIR>          .
+29/09/2026  02:13 p. m.    <DIR>          ..
+22/09/2026  12:03 p. m.                16 137891791fe96927ad78e64b0aad7bded08bdc
+20/09/2026  12:10 p. m.             2,421 61301e8d04d250fca21b6e882cebd55853b32f
+29/09/2026  12:53 p. m.             2,175 956fff4833a44c7b71572a049be4a8db2f4b9e
+               3 archivos          4,612 bytes
+
+ Directorio de C:\dev\MNA---Proyecto-Integrador\.git\objects\8e
+
+20/09/2026  12:29 p. m.    <DIR>          .
+29/09/2026  02:13 p. m.    <DIR>          ..
+20/09/2026  12:29 p. m.                45 013a281b3d1c6d75d9d260bd9fd824e313de8d
+               1 archivos             45 bytes
+
+ Directorio de C:\dev\MNA---Proyecto-Integrador\.git\objects\8f
+
+20/09/2026  12:43 p. m.    <DIR>          .
+29/09/2026  02:13 p. m.    <DIR>          ..
+20/09/2026  12:43 p. m.                55 88869bc309eb5fa5bedc554477f2741edb41d7
+               1 archivos             55 bytes
+
+ Directorio de C:\dev\MNA---Proyecto-Integrador\.git\objects\95
+
+20/09/2026  12:36 p. m.    <DIR>          .
+29/09/2026  02:13 p. m.    <DIR>          ..
+20/09/2026  12:36 p. m.               221 6929a7e85cab698938debd7b85d47023803f5d
+               1 archivos            221 bytes
+
+ Directorio de C:\dev\MNA---Proyecto-Integrador\.git\objects\97
+
+29/09/2026  12:56 p. m.    <DIR>          .
+29/09/2026  02:13 p. m.    <DIR>          ..
+29/09/2026  12:56 p. m.               150 805622b33a10c494a89094a4f96bc501fe73e6
+               1 archivos            150 bytes
+
+ Directorio de C:\dev\MNA---Proyecto-Integrador\.git\objects\99
+
+22/09/2026  12:03 p. m.    <DIR>          .
+29/09/2026  02:13 p. m.    <DIR>          ..
+22/09/2026  12:03 p. m.                58 6a1aafdab8724c867396d8353de62c125f073b
+               1 archivos             58 bytes
+
+ Directorio de C:\dev\MNA---Proyecto-Integrador\.git\objects\9b
+
+20/09/2026  12:09 p. m.    <DIR>          .
+29/09/2026  02:13 p. m.    <DIR>          ..
+20/09/2026  12:09 p. m.                88 a9013ed2c2e934ed8f45ce12ea871af5b9e764
+               1 archivos             88 bytes
+
+ Directorio de C:\dev\MNA---Proyecto-Integrador\.git\objects\9c
+
+20/09/2026  11:45 a. m.    <DIR>          .
+29/09/2026  02:13 p. m.    <DIR>          ..
+20/09/2026  11:45 a. m.               189 71d227625511593d7cc470c9f06704e191e6d6
+               1 archivos            189 bytes
+
+ Directorio de C:\dev\MNA---Proyecto-Integrador\.git\objects\a1
+
+29/09/2026  12:47 p. m.    <DIR>          .
+29/09/2026  02:13 p. m.    <DIR>          ..
+29/09/2026  12:47 p. m.               394 761df8f856cb5bada29db6e0715c26ef33efb6
+               1 archivos            394 bytes
+
+ Directorio de C:\dev\MNA---Proyecto-Integrador\.git\objects\a5
+
+22/09/2026  12:03 p. m.    <DIR>          .
+29/09/2026  02:13 p. m.    <DIR>          ..
+22/09/2026  12:03 p. m.               191 0447f2126c6abb9f15ed87449189ceb333473f
+               1 archivos            191 bytes
+
+ Directorio de C:\dev\MNA---Proyecto-Integrador\.git\objects\a6
+
+20/09/2026  12:09 p. m.    <DIR>          .
+29/09/2026  02:13 p. m.    <DIR>          ..
+20/09/2026  12:09 p. m.               185 e2838d962ceb0bbc6f4c9ff54709da4f460237
+               1 archivos            185 bytes
+
+ Directorio de C:\dev\MNA---Proyecto-Integrador\.git\objects\b4
+
+29/09/2026  12:56 p. m.    <DIR>          .
+29/09/2026  02:13 p. m.    <DIR>          ..
+19/09/2026  09:04 p. m.               948 258e8b996c87a489bb32ce3175e436f0d9ea63
+29/09/2026  12:56 p. m.               100 8d9b72dbfc439f86d948a0915dff6ac0f82b63
+               2 archivos          1,048 bytes
+
+ Directorio de C:\dev\MNA---Proyecto-Integrador\.git\objects\c1
+
+22/09/2026  12:03 p. m.    <DIR>          .
+29/09/2026  02:13 p. m.    <DIR>          ..
+22/09/2026  12:03 p. m.               154 6e164be6153f94c097cd9abbe0fa5f7dc965f4
+               1 archivos            154 bytes
+
+ Directorio de C:\dev\MNA---Proyecto-Integrador\.git\objects\c2
+
+19/09/2026  08:36 p. m.    <DIR>          .
+29/09/2026  02:13 p. m.    <DIR>          ..
+19/09/2026  08:36 p. m.             2,400 d7fa8b4117dc7bbd5af768d8866495f590a614
+               1 archivos          2,400 bytes
+
+ Directorio de C:\dev\MNA---Proyecto-Integrador\.git\objects\c3
+
+29/09/2026  12:47 p. m.    <DIR>          .
+29/09/2026  02:13 p. m.    <DIR>          ..
+29/09/2026  12:47 p. m.               103 25cfab6af46f7fc33eb4bf757dfb7083bb308e
+19/09/2026  08:37 p. m.               192 fcf8c5b3622d1251f831351442b57085a5a078
+               2 archivos            295 bytes
+
+ Directorio de C:\dev\MNA---Proyecto-Integrador\.git\objects\c8
+
+20/09/2026  12:43 p. m.    <DIR>          .
+29/09/2026  02:13 p. m.    <DIR>          ..
+20/09/2026  12:43 p. m.               132 270c17493ae551ccaf97f72b8b9edf7f4c404b
+               1 archivos            132 bytes
+
+ Directorio de C:\dev\MNA---Proyecto-Integrador\.git\objects\cc
+
+29/09/2026  12:53 p. m.    <DIR>          .
+29/09/2026  02:13 p. m.    <DIR>          ..
+29/09/2026  12:53 p. m.               186 d0af6e3896724df55abb4b30e811d522804dfe
+               1 archivos            186 bytes
+
+ Directorio de C:\dev\MNA---Proyecto-Integrador\.git\objects\cf
+
+20/09/2026  12:43 p. m.    <DIR>          .
+29/09/2026  02:13 p. m.    <DIR>          ..
+20/09/2026  12:43 p. m.               181 8f4e2c3ca987428e1184dbca9f28ce1f18c048
+               1 archivos            181 bytes
+
+ Directorio de C:\dev\MNA---Proyecto-Integrador\.git\objects\d9
+
+20/09/2026  11:52 a. m.    <DIR>          .
+29/09/2026  02:13 p. m.    <DIR>          ..
+20/09/2026  11:52 a. m.               214 367fcdd80c1c1bf1a7ebe541e557af9fffd0d4
+               1 archivos            214 bytes
+
+ Directorio de C:\dev\MNA---Proyecto-Integrador\.git\objects\e4
+
+20/09/2026  12:30 p. m.    <DIR>          .
+29/09/2026  02:13 p. m.    <DIR>          ..
+19/09/2026  07:44 p. m.             2,491 523da361c83839d2b1fbb5a006fd3758076710
+20/09/2026  12:30 p. m.               130 b4bbc01d54663be39f20ca13d33545c64bb82c
+               2 archivos          2,621 bytes
+
+ Directorio de C:\dev\MNA---Proyecto-Integrador\.git\objects\eb
+
+19/09/2026  07:29 p. m.    <DIR>          .
+29/09/2026  02:13 p. m.    <DIR>          ..
+19/09/2026  07:29 p. m.               187 80cd53f3a63b1f5cdaefacb02921a008b2b482
+               1 archivos            187 bytes
+
+ Directorio de C:\dev\MNA---Proyecto-Integrador\.git\objects\ec
+
+20/09/2026  12:30 p. m.    <DIR>          .
+29/09/2026  02:13 p. m.    <DIR>          ..
+20/09/2026  12:30 p. m.                62 14055688cb0855a338b7aa6ed70c48b31e7070
+               1 archivos             62 bytes
+
+ Directorio de C:\dev\MNA---Proyecto-Integrador\.git\objects\f0
+
+29/09/2026  12:47 p. m.    <DIR>          .
+29/09/2026  02:13 p. m.    <DIR>          ..
+29/09/2026  12:47 p. m.               190 a482a3d9dd9b842a01aba7c6b5796f059c5095
+29/09/2026  12:47 p. m.               100 a98326cfc08d4c7096a820f678804c90afa202
+               2 archivos            290 bytes
+
+ Directorio de C:\dev\MNA---Proyecto-Integrador\.git\objects\f4
+
+20/09/2026  12:11 p. m.    <DIR>          .
+29/09/2026  02:13 p. m.    <DIR>          ..
+20/09/2026  12:11 p. m.             2,460 75654baeab3ba35c8a3167f93642b2c2cea745
+               1 archivos          2,460 bytes
+
+ Directorio de C:\dev\MNA---Proyecto-Integrador\.git\objects\f7
+
+22/09/2026  12:03 p. m.    <DIR>          .
+29/09/2026  02:13 p. m.    <DIR>          ..
+22/09/2026  12:03 p. m.               840 6d664b280f286297fbe1fd14f80a29e7d8a895
+               1 archivos            840 bytes
+
+ Directorio de C:\dev\MNA---Proyecto-Integrador\.git\objects\fd
+
+20/09/2026  11:45 a. m.    <DIR>          .
+29/09/2026  02:13 p. m.    <DIR>          ..
+20/09/2026  11:45 a. m.             2,425 77d310a7cdccdb134878b8046155918497ab54
+               1 archivos          2,425 bytes
+
+ Directorio de C:\dev\MNA---Proyecto-Integrador\.git\objects\info
+
+19/09/2026  06:26 p. m.    <DIR>          .
+29/09/2026  02:13 p. m.    <DIR>          ..
+29/09/2026  02:14 p. m.    <DIR>          commit-graphs
+               0 archivos              0 bytes
+
+ Directorio de C:\dev\MNA---Proyecto-Integrador\.git\objects\info\commit-graphs
+
+29/09/2026  02:14 p. m.    <DIR>          .
+19/09/2026  06:26 p. m.    <DIR>          ..
+29/09/2026  02:14 p. m.               123 commit-graph-chain
+20/09/2026  12:34 p. m.             2,204 graph-a1b439d7ade8f520958eb7c521cae5bbf2be794a.graph
+29/09/2026  12:56 p. m.             1,582 graph-acb97bbf58a5bdea20a759c015e91ef1d666c66b.graph
+29/09/2026  02:14 p. m.             1,269 graph-bc90d4703d2a4e8d37a11ce08404c829ce9f5713.graph
+               4 archivos          5,178 bytes
+
+ Directorio de C:\dev\MNA---Proyecto-Integrador\.git\objects\pack
+
+19/09/2026  06:26 p. m.    <DIR>          .
+29/09/2026  02:13 p. m.    <DIR>          ..
+19/09/2026  06:26 p. m.             1,408 pack-cd4199c8451b5f56459a6ee0fbfa86a9f7065149.idx
+19/09/2026  06:26 p. m.             9,356 pack-cd4199c8451b5f56459a6ee0fbfa86a9f7065149.pack
+19/09/2026  06:26 p. m.               100 pack-cd4199c8451b5f56459a6ee0fbfa86a9f7065149.rev
+               3 archivos         10,864 bytes
+
+ Directorio de C:\dev\MNA---Proyecto-Integrador\.git\refs
+
+19/09/2026  06:26 p. m.    <DIR>          .
+29/09/2026  12:56 p. m.    <DIR>          heads
+19/09/2026  09:00 p. m.    <DIR>          remotes
+19/09/2026  06:26 p. m.    <DIR>          tags
+               0 archivos              0 bytes
+
+ Directorio de C:\dev\MNA---Proyecto-Integrador\.git\refs\heads
+
+29/09/2026  12:56 p. m.    <DIR>          .
+19/09/2026  06:26 p. m.    <DIR>          ..
+29/09/2026  12:56 p. m.                41 main
+               1 archivos             41 bytes
+
+ Directorio de C:\dev\MNA---Proyecto-Integrador\.git\refs\remotes
+
+19/09/2026  09:00 p. m.    <DIR>          .
+19/09/2026  06:26 p. m.    <DIR>          ..
+29/09/2026  02:13 p. m.    <DIR>          origin
+               0 archivos              0 bytes
+
+ Directorio de C:\dev\MNA---Proyecto-Integrador\.git\refs\remotes\origin
+
+29/09/2026  02:13 p. m.    <DIR>          .
+19/09/2026  09:00 p. m.    <DIR>          ..
+19/09/2026  06:26 p. m.                30 HEAD
+29/09/2026  12:56 p. m.                41 main
+               2 archivos             71 bytes
+
+ Directorio de C:\dev\MNA---Proyecto-Integrador\.git\refs\tags
+
+19/09/2026  06:26 p. m.    <DIR>          .
+19/09/2026  06:26 p. m.    <DIR>          ..
+               0 archivos              0 bytes
+
+ Directorio de C:\dev\MNA---Proyecto-Integrador\Datos
+
+29/09/2026  12:44 p. m.    <DIR>          .
+30/09/2026  08:46 a. m.    <DIR>          ..
+29/09/2026  12:41 p. m.                 2 datos.txt
+29/09/2026  12:54 p. m.    <DIR>          Preparacion_Datasets
+               1 archivos              2 bytes
+
+ Directorio de C:\dev\MNA---Proyecto-Integrador\Datos\Preparacion_Datasets
+
+29/09/2026  12:54 p. m.    <DIR>          .
+29/09/2026  12:44 p. m.    <DIR>          ..
+29/09/2026  12:16 p. m.               942 dataset_manifest.csv
+29/09/2026  12:29 p. m.             7,894 Dataset_manifest_README.md
+29/09/2026  12:55 p. m.    <DIR>          scripts
+               2 archivos          8,836 bytes
+
+ Directorio de C:\dev\MNA---Proyecto-Integrador\Datos\Preparacion_Datasets\scripts
+
+29/09/2026  12:55 p. m.    <DIR>          .
+29/09/2026  12:54 p. m.    <DIR>          ..
+29/09/2026  12:55 p. m.               196 README.md
+               1 archivos            196 bytes
+
+ Directorio de C:\dev\MNA---Proyecto-Integrador\Documentacion
+
+29/09/2026  12:41 p. m.    <DIR>          .
+30/09/2026  08:46 a. m.    <DIR>          ..
+29/09/2026  12:41 p. m.                 2 documentaci¢n.txt
+               1 archivos              2 bytes
+
+ Directorio de C:\dev\MNA---Proyecto-Integrador\Notebooks
+
+29/09/2026  12:41 p. m.    <DIR>          .
+30/09/2026  08:46 a. m.    <DIR>          ..
+29/09/2026  12:41 p. m.                 2 notebooks.txt
+               1 archivos              2 bytes
+
+     Total de archivos en la lista:
+             111 archivos        113,338 bytes
+             225 dirs  201,763,639,296 bytes libres
