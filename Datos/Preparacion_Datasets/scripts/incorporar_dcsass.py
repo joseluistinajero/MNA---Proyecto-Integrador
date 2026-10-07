@@ -12,128 +12,227 @@ MANIFEST_PATH = Path(
 )
 
 DCSASS_DIR = Path(
-    "/opt/workspace/datasets/Anomaly Detection Dataset UCF"
+    "/opt/workspace/datasets/"
+    "Anomaly Detection Dataset UCF/"
+    "Shoplifting_Clips"
 )
 
 OUTPUT_DIR = Path(
     "/opt/workspace/datasets/procesados/clips_4s"
 )
 
+ETIQUETAS_MODELO = {
+    "ocultamiento",
+    "sin_ocultamiento",
+}
 
-def construir_nombre_clip(row):
-    dataset = str(row["dataset"]).strip()
-    video_id = str(row["video_id"]).strip()
-    clip_id = str(row["clip_id"]).strip()
 
-    def limpiar(valor):
-        return (
-            valor
-            .replace("/", "_")
-            .replace("\\", "_")
-            .replace(" ", "_")
-        )
-
+def limpiar(valor):
     return (
-        f"{limpiar(dataset)}__"
-        f"{limpiar(video_id)}__"
-        f"{limpiar(clip_id)}.mp4"
+        str(valor)
+        .strip()
+        .replace("/", "_")
+        .replace("\\", "_")
+        .replace(" ", "_")
     )
+
+
+def construir_nombre_salida(row):
+    return (
+        f"{limpiar(row['dataset'])}__"
+        f"{limpiar(row['video_id'])}__"
+        f"{limpiar(row['clip_id'])}.mp4"
+    )
+
+
+def construir_ruta_origen(row):
+    carpeta = f"{str(row['video_id']).strip()}.mp4"
+    archivo = str(row["video_origen"]).strip()
+
+    return DCSASS_DIR / carpeta / archivo
 
 
 def main():
     parser = argparse.ArgumentParser(
         description=(
-            "Incorpora al dataset unificado los clips DCSASS "
-            "ya existentes."
+            "Selecciona e incorpora clips DCSASS "
+            "al dataset operativo clips_4s."
         )
     )
 
     parser.add_argument(
         "--execute",
         action="store_true",
-        help="Copia realmente los archivos. Sin esta opción solo hace dry-run."
+        help="Realiza la copia. Sin esta opción solo hace dry-run."
     )
 
     args = parser.parse_args()
-
-    modo = "EJECUCIÓN" if args.execute else "DRY-RUN"
-
-    print("=" * 80)
-    print(f"INCORPORACIÓN DE DCSASS - {modo}")
-    print("=" * 80)
 
     if not MANIFEST_PATH.exists():
         print("ERROR: no existe el manifiesto.")
         sys.exit(1)
 
-    if not DCSASS_DIR.exists():
-        print("ERROR: no existe la carpeta fuente DCSASS.")
-        sys.exit(1)
-
     df = pd.read_csv(MANIFEST_PATH)
 
-    # -----------------------------------------------------
-    # Seleccionar exclusivamente DCSASS
-    # -----------------------------------------------------
-
-    df = df[
-        df["dataset"].astype(str).str.strip() == "DCSASS"
+    dcsass = df[
+        df["dataset"]
+        .astype(str)
+        .str.strip()
+        .eq("DCSASS")
     ].copy()
 
-    print(f"Registros DCSASS en el manifiesto: {len(df)}")
+    dcsass["etiqueta"] = (
+        dcsass["etiqueta"]
+        .astype(str)
+        .str.strip()
+    )
 
-    if df.empty:
-        print("ERROR: no hay registros DCSASS en el manifiesto.")
-        sys.exit(1)
+    # -----------------------------------------------------
+    # Validar corrección temporal
+    # -----------------------------------------------------
+
+    inicio = pd.to_numeric(
+        dcsass["inicio_s"],
+        errors="coerce"
+    )
+
+    fin = pd.to_numeric(
+        dcsass["fin_s"],
+        errors="coerce"
+    )
+
+    patron_temporal_correcto = (
+        inicio.eq(0)
+        & fin.eq(4)
+    )
+
+    # -----------------------------------------------------
+    # Selección binaria
+    # -----------------------------------------------------
+
+    seleccion = dcsass[
+        dcsass["etiqueta"].isin(ETIQUETAS_MODELO)
+    ].copy()
+
+    excluidos = dcsass[
+        ~dcsass["etiqueta"].isin(ETIQUETAS_MODELO)
+    ].copy()
 
     # -----------------------------------------------------
     # Construir rutas
     # -----------------------------------------------------
 
-    df["ruta_origen"] = df["video_origen"].apply(
-        lambda nombre: DCSASS_DIR / str(nombre).strip()
-    )
-
-    df["nombre_clip"] = df.apply(
-        construir_nombre_clip,
+    seleccion["ruta_origen"] = seleccion.apply(
+        construir_ruta_origen,
         axis=1
     )
 
-    df["ruta_salida"] = df["nombre_clip"].apply(
+    seleccion["nombre_salida"] = seleccion.apply(
+        construir_nombre_salida,
+        axis=1
+    )
+
+    seleccion["ruta_salida"] = seleccion[
+        "nombre_salida"
+    ].apply(
         lambda nombre: OUTPUT_DIR / nombre
+    )
+
+    seleccion["origen_existe"] = seleccion[
+        "ruta_origen"
+    ].apply(
+        lambda p: p.is_file()
+    )
+
+    seleccion["destino_existe"] = seleccion[
+        "ruta_salida"
+    ].apply(
+        lambda p: p.exists()
     )
 
     # -----------------------------------------------------
     # Validaciones
     # -----------------------------------------------------
 
-    df["origen_existe"] = df["ruta_origen"].apply(
-        lambda p: p.exists()
+    faltantes = seleccion[
+        ~seleccion["origen_existe"]
+    ]
+
+    destinos_existentes = seleccion[
+        seleccion["destino_existe"]
+    ]
+
+    nombres_duplicados = seleccion[
+        seleccion["nombre_salida"].duplicated(
+            keep=False
+        )
+    ]
+
+    print("=" * 80)
+    print("INCORPORACIÓN DCSASS A clips_4s")
+    print("=" * 80)
+
+    print(f"Registros DCSASS:                 {len(dcsass)}")
+    print(
+        f"DCSASS con patrón temporal 0-4:  "
+        f"{patron_temporal_correcto.sum()}"
+    )
+    print(f"Clips elegibles:                  {len(seleccion)}")
+    print(f"Clips excluidos:                  {len(excluidos)}")
+
+    print()
+    print("ETIQUETAS ELEGIBLES")
+    print("-" * 80)
+
+    print(
+        seleccion["etiqueta"]
+        .value_counts()
+        .to_string()
     )
 
-    faltantes = df[~df["origen_existe"]]
+    print()
+    print("ETIQUETAS EXCLUIDAS")
+    print("-" * 80)
 
-    duplicados = df[
-        df["nombre_clip"].duplicated(keep=False)
-    ]
-
-    ya_existentes = df[
-        df["ruta_salida"].apply(lambda p: p.exists())
-    ]
+    if excluidos.empty:
+        print("Ninguna")
+    else:
+        print(
+            excluidos["etiqueta"]
+            .value_counts()
+            .to_string()
+        )
 
     print()
     print("VALIDACIÓN")
     print("-" * 80)
 
-    print(f"Clips DCSASS esperados:          {len(df)}")
-    print(f"Archivos fuente encontrados:     {df['origen_existe'].sum()}")
     print(f"Archivos fuente faltantes:       {len(faltantes)}")
-    print(f"Nombres de salida duplicados:    {len(duplicados)}")
-    print(f"Destinos que ya existen:         {len(ya_existentes)}")
+    print(f"Nombres de salida duplicados:    {len(nombres_duplicados)}")
+    print(f"Destinos que ya existen:         {len(destinos_existentes)}")
+
+    # -----------------------------------------------------
+    # Condiciones obligatorias
+    # -----------------------------------------------------
+
+    if len(dcsass) != 784:
+        print("ERROR: se esperaban 784 registros DCSASS.")
+        sys.exit(1)
+
+    if patron_temporal_correcto.sum() != 784:
+        print(
+            "ERROR: los 784 registros DCSASS "
+            "deben tener inicio_s=0 y fin_s=4."
+        )
+        sys.exit(1)
+
+    if len(seleccion) != 783:
+        print("ERROR: se esperaban 783 clips elegibles.")
+        sys.exit(1)
 
     if not faltantes.empty:
         print()
-        print("ARCHIVOS FUENTE NO ENCONTRADOS")
+        print("ARCHIVOS FALTANTES")
         print("-" * 80)
 
         print(
@@ -141,50 +240,40 @@ def main():
                 [
                     "video_id",
                     "video_origen",
-                    "ruta_origen"
+                    "ruta_origen",
                 ]
             ].to_string(index=False)
         )
 
-    if not duplicados.empty:
-        print()
-        print("NOMBRES DUPLICADOS")
-        print("-" * 80)
+        sys.exit(1)
 
+    if not nombres_duplicados.empty:
+        print("ERROR: existen nombres de salida duplicados.")
+        sys.exit(1)
+
+    if not destinos_existentes.empty:
         print(
-            duplicados[
-                [
-                    "video_id",
-                    "clip_id",
-                    "nombre_clip"
-                ]
-            ].to_string(index=False)
+            "ERROR: algunos archivos DCSASS "
+            "ya existen en clips_4s."
         )
-
-    # -----------------------------------------------------
-    # Detener si hay errores
-    # -----------------------------------------------------
-
-    if not faltantes.empty or not duplicados.empty:
-        print()
-        print("RESULTADO: VALIDACIÓN NO SUPERADA")
         sys.exit(1)
 
     # -----------------------------------------------------
-    # Mostrar primeros ejemplos
+    # Ejemplos
     # -----------------------------------------------------
 
     print()
-    print("PRIMEROS 10 ARCHIVOS")
+    print("PRIMEROS 10 CLIPS A COPIAR")
     print("-" * 80)
 
     print(
-        df[
+        seleccion[
             [
                 "video_id",
                 "video_origen",
                 "clip_id",
-                "nombre_clip"
+                "etiqueta",
+                "nombre_salida",
             ]
         ]
         .head(10)
@@ -199,7 +288,7 @@ def main():
         print()
         print("=" * 80)
         print("DRY-RUN COMPLETADO")
-        print("No se copió ningún archivo DCSASS.")
+        print("No se copió ningún archivo.")
         print("=" * 80)
         return
 
@@ -215,23 +304,18 @@ def main():
     copiados = 0
     fallidos = 0
 
-    for _, row in df.iterrows():
-        origen = row["ruta_origen"]
-        destino = row["ruta_salida"]
-
+    for _, row in seleccion.iterrows():
         try:
             shutil.copy2(
-                origen,
-                destino
+                row["ruta_origen"],
+                row["ruta_salida"]
             )
-
             copiados += 1
-            print(f"[OK] {destino.name}")
 
         except Exception as e:
             fallidos += 1
             print(
-                f"[ERROR] {destino.name}: {e}"
+                f"[ERROR] {row['nombre_salida']}: {e}"
             )
 
     print()
@@ -239,9 +323,9 @@ def main():
     print("RESULTADO")
     print("=" * 80)
 
-    print(f"Clips esperados: {len(df)}")
-    print(f"Copiados:        {copiados}")
-    print(f"Fallidos:        {fallidos}")
+    print(f"Esperados: {len(seleccion)}")
+    print(f"Copiados:  {copiados}")
+    print(f"Fallidos:  {fallidos}")
 
     if fallidos:
         sys.exit(1)
