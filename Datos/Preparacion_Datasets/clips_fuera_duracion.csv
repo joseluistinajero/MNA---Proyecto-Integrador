@@ -1,0 +1,11 @@
+dataset,video_id_manifest,video_origen,clip_id,inicio_s,fin_s,duracion_clip_s,duracion_s,exceso_s,etiqueta,fuente
+MNNIT,shoplifting-2,shoplifting-2.mp4,MNNIT_002,8,12,4,11.367,0.6329999999999991,ocultamiento,MNNIT_h264
+MNNIT,shoplifting-22,shoplifting-22.mp4,MNNIT_022,7,11,4,10.867,0.13299999999999912,ocultamiento,MNNIT_h264
+MNNIT,shoplifting-55,shoplifting-55.mp4,MNNIT_054,7,11,4,10.5,0.5,ocultamiento,MNNIT_h264
+MNNIT,shoplifting-58,shoplifting-58.mp4,MNNIT_057,7,11,4,10.667,0.3330000000000002,ocultamiento,MNNIT_h264
+MNNIT,shoplifting-61,shoplifting-61.mp4,MNNIT_060,7,11,4,10.267,0.7330000000000005,ocultamiento,MNNIT_h264
+MNNIT,shoplifting-70,shoplifting-70.mp4,MNNIT_069,7,11,4,10.867,0.13299999999999912,ocultamiento,MNNIT_h264
+MNNIT,shoplifting-73,shoplifting-73.mp4,MNNIT_072,7,11,4,10.767,0.23300000000000054,ocultamiento,MNNIT_h264
+MNNIT,shoplifting-91,shoplifting-91.mp4,MNNIT_090,6,10,4,8.733,1.2669999999999995,ocultamiento,MNNIT_h264
+MNNIT,normal-21,normal-21.mp4,MNNIT_113,7,11,4,10.767,0.23300000000000054,sin_ocultamiento,MNNIT_h264
+MNNIT,normal-23,normal-23.mp4,MNNIT_115,7,11,4,10.6,0.40000000000000036,sin_ocultamiento,MNNIT_h264

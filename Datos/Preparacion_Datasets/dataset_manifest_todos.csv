@@ -1,0 +1,975 @@
+dataset,video_id,video_origen,clip_id,inicio_s,fin_s,etiqueta,persona_id,evento_id,nota
+CCTV_YOLO,CCTV_001,not_shoplifting1.mp4,CCTV_001,2,6,sin_ocultamiento,P001_AJ,,
+CCTV_YOLO,CCTV_002,not_shoplifting2.mp4,CCTV_002,2,6,sin_ocultamiento,P002_AJ,,
+CCTV_YOLO,CCTV_003,not_shoplifting3.mp4,CCTV_003,2,6,sin_ocultamiento,P003_AJ,,
+CCTV_YOLO,CCTV_004,not_shoplifting4.mp4,CCTV_004,2,6,sin_ocultamiento,P004_AJ,,
+CCTV_YOLO,CCTV_005,shoplifting1.mp4,CCTV_005,2,6,ocultamiento,P001_AJ,,
+CCTV_YOLO,CCTV_006,shoplifting2.mp4,CCTV_006,2,6,ocultamiento,P002_AJ,,
+CCTV_YOLO,CCTV_007,shoplifting3.mp4,CCTV_007,2,6,ocultamiento,P003_AJ,,
+CCTV_YOLO,CCTV_008,shoplifting4.mp4,CCTV_008,2,6,ocultamiento,P004_AJ,,
+MNNIT,shoplifting-1,shoplifting-1.mp4,MNNIT_001,4,8,ocultamiento,P001,,
+MNNIT,shoplifting-2,shoplifting-2.mp4,MNNIT_002,7.2,11.2,ocultamiento,P002,,
+MNNIT,shoplifting-3,shoplifting-3.mp4,MNNIT_003,4,8,ocultamiento,P003,,
+MNNIT,shoplifting-4,shoplifting-4.mp4,MNNIT_004,4,8,ocultamiento,P002,,
+MNNIT,shoplifting-5,shoplifting-5.mp4,MNNIT_005,3,7,ocultamiento,P004,,
+MNNIT,shoplifting-6,shoplifting-6.mp4,MNNIT_006,3,7,ocultamiento,P005,,
+MNNIT,shoplifting-7,shoplifting-7.mp4,MNNIT_007,4,8,ocultamiento,P004,,
+MNNIT,shoplifting-8,shoplifting-8.mp4,MNNIT_008,6,10,ocultamiento,P006,,
+MNNIT,shoplifting-9,shoplifting-9.mp4,MNNIT_009,0,4,ocultamiento,P006,,
+MNNIT,shoplifting-10,shoplifting-10.mp4,MNNIT_010,1,5,ocultamiento,P007,,
+MNNIT,shoplifting-11,shoplifting-11.mp4,MNNIT_011,2,6,ocultamiento,P007,,
+MNNIT,shoplifting-12,shoplifting-12.mp4,MNNIT_012,1,5,ocultamiento,P007,,
+MNNIT,shoplifting-13,shoplifting-13.mp4,MNNIT_013,4,8,ocultamiento,P007,,
+MNNIT,shoplifting-14,shoplifting-14.mp4,MNNIT_014,0,4,ocultamiento,P008,,
+MNNIT,shoplifting-15,shoplifting-15.mp4,MNNIT_015,3,7,ocultamiento,P008,,
+MNNIT,shoplifting-16,shoplifting-16.mp4,MNNIT_016,5,9,ocultamiento,P001,,
+MNNIT,shoplifting-17,shoplifting-17.mp4,MNNIT_017,0,4,ocultamiento,P001,,
+MNNIT,shoplifting-18,shoplifting-18.mp4,MNNIT_018,6,10,ocultamiento,P001,,
+MNNIT,shoplifting-19,shoplifting-19.mp4,MNNIT_019,6,10,ocultamiento,P001,,
+MNNIT,shoplifting-20,shoplifting-20.mp4,MNNIT_020,4,8,ocultamiento,P001,,
+MNNIT,shoplifting-21,shoplifting-21.mp4,MNNIT_021,6,10,ocultamiento,P006,,
+MNNIT,shoplifting-22,shoplifting-22.mp4,MNNIT_022,6.7,10.7,ocultamiento,P008,,
+MNNIT,shoplifting-23,shoplifting-23.mp4,MNNIT_023,4,8,ocultamiento,P001,,
+MNNIT,shoplifting-24,shoplifting-24.mp4,MNNIT_024,6,10,ocultamiento,P009,,
+MNNIT,shoplifting-25,shoplifting-25.mp4,MNNIT_025,5,9,ocultamiento,P001,,
+MNNIT,shoplifting-26,shoplifting-26.mp4,MNNIT_026,4,8,ocultamiento,P004,,
+MNNIT,shoplifting-27,shoplifting-27.mp4,MNNIT_027,4,8,ocultamiento,P004,,
+MNNIT,shoplifting-28,shoplifting-28.mp4,MNNIT_028,5,9,ocultamiento,P004,,
+MNNIT,shoplifting-29,shoplifting-29.mp4,MNNIT_029,4,8,ocultamiento,P006,,
+MNNIT,shoplifting-30,shoplifting-30.mp4,MNNIT_030,6,10,ocultamiento,P002,,
+MNNIT,shoplifting-31,shoplifting-31.mp4,MNNIT_031,5,9,ocultamiento,P002,,
+MNNIT,shoplifting-32,shoplifting-32.mp4,MNNIT_032,4,8,ocultamiento,P003,,
+MNNIT,shoplifting-33,shoplifting-33.mp4,MNNIT_033,4,8,ocultamiento,P010,,
+MNNIT,shoplifting-34,shoplifting-34.mp4,MNNIT_034,4,8,ocultamiento,P010,,
+MNNIT,shoplifting-35,shoplifting-35.mp4,MNNIT_035,3,7,ocultamiento,P010,,
+MNNIT,shoplifting-36,shoplifting-36.mp4,MNNIT_036,3,7,ocultamiento,P010,,
+MNNIT,shoplifting-37,shoplifting-37.mp4,MNNIT_037,1,5,ocultamiento,P002,,
+MNNIT,shoplifting-38,shoplifting-38.mp4,MNNIT_038,1,5,ocultamiento,P002,,
+MNNIT,shoplifting-39,shoplifting-39.mp4,MNNIT_039,7,11,ocultamiento,P003,,
+MNNIT,shoplifting-40,shoplifting-40.mp4,MNNIT_040,5,9,ocultamiento,P003,,
+MNNIT,shoplifting-41,shoplifting-41.mp4,MNNIT_041,1,5,ocultamiento,P009,,
+MNNIT,shoplifting-42,shoplifting-42.mp4,MNNIT_042,0,4,ocultamiento,P009,,
+MNNIT,shoplifting-43,shoplifting-43.mp4,MNNIT_043,7,11,ocultamiento,P009,,
+MNNIT,shoplifting-44,shoplifting-44.mp4,MNNIT_044,3,7,ocultamiento,P009,,
+MNNIT,shoplifting-45,shoplifting-45.mp4,MNNIT_045,2,6,ocultamiento,P005,,
+MNNIT,shoplifting-46,shoplifting-46.mp4,MNNIT_046,0,4,ocultamiento,P005,,
+MNNIT,shoplifting-47,shoplifting-47.mp4,MNNIT_047,0,4,ocultamiento,P005,,
+MNNIT,shoplifting-48,shoplifting-48.mp4,MNNIT_048,0,4,ocultamiento,P005,,
+MNNIT,shoplifting-50,shoplifting-50.mp4,MNNIT_049,4,8,ocultamiento,P011,,
+MNNIT,shoplifting-51,shoplifting-51.mp4,MNNIT_050,6,10,ocultamiento,P004,,
+MNNIT,shoplifting-52,shoplifting-52.mp4,MNNIT_051,1,5,ocultamiento,P006,,
+MNNIT,shoplifting-53,shoplifting-53.mp4,MNNIT_052,4,8,ocultamiento,P006,,
+MNNIT,shoplifting-54,shoplifting-54.mp4,MNNIT_053,5,9,ocultamiento,P006,,
+MNNIT,shoplifting-55,shoplifting-55.mp4,MNNIT_054,6.4,10.4,ocultamiento,P006,,
+MNNIT,shoplifting-56,shoplifting-56.mp4,MNNIT_055,7,11,ocultamiento,P006,,
+MNNIT,shoplifting-57,shoplifting-57.mp4,MNNIT_056,4,8,ocultamiento,P006,,
+MNNIT,shoplifting-58,shoplifting-58.mp4,MNNIT_057,6.5,10.5,ocultamiento,P006,,
+MNNIT,shoplifting-59,shoplifting-59.mp4,MNNIT_058,6,10,ocultamiento,P006,,
+MNNIT,shoplifting-60,shoplifting-60.mp4,MNNIT_059,1,5,ocultamiento,P007,,
+MNNIT,shoplifting-61,shoplifting-61.mp4,MNNIT_060,6.1,10.1,ocultamiento,P007,,
+MNNIT,shoplifting-62,shoplifting-62.mp4,MNNIT_061,3,7,ocultamiento,P007,,
+MNNIT,shoplifting-63,shoplifting-63.mp4,MNNIT_062,5,9,ocultamiento,P007,,
+MNNIT,shoplifting-64,shoplifting-64.mp4,MNNIT_063,1,5,ocultamiento,P007,,
+MNNIT,shoplifting-65,shoplifting-65.mp4,MNNIT_064,6,10,ocultamiento,P007,,
+MNNIT,shoplifting-66,shoplifting-66.mp4,MNNIT_065,4,8,ocultamiento,P007,,
+MNNIT,shoplifting-67,shoplifting-67.mp4,MNNIT_066,5,9,ocultamiento,P007,,
+MNNIT,shoplifting-68,shoplifting-68.mp4,MNNIT_067,6,10,ocultamiento,P007,,
+MNNIT,shoplifting-69,shoplifting-69.mp4,MNNIT_068,5,9,ocultamiento,P007,,
+MNNIT,shoplifting-70,shoplifting-70.mp4,MNNIT_069,6.7,10.7,ocultamiento,P007,,
+MNNIT,shoplifting-71,shoplifting-71.mp4,MNNIT_070,5,9,ocultamiento,P008,,
+MNNIT,shoplifting-72,shoplifting-72.mp4,MNNIT_071,3,7,ocultamiento,P008,,
+MNNIT,shoplifting-73,shoplifting-73.mp4,MNNIT_072,6.6,10.6,ocultamiento,P008,,
+MNNIT,shoplifting-74,shoplifting-74.mp4,MNNIT_073,6,10,ocultamiento,P008,,
+MNNIT,shoplifting-75,shoplifting-75.mp4,MNNIT_074,2,6,ocultamiento,P008,,
+MNNIT,shoplifting-76,shoplifting-76.mp4,MNNIT_075,2,6,ocultamiento,P008,,
+MNNIT,shoplifting-77,shoplifting-77.mp4,MNNIT_076,5,9,ocultamiento,P008,,
+MNNIT,shoplifting-78,shoplifting-78.mp4,MNNIT_077,4,8,ocultamiento,P008,,
+MNNIT,shoplifting-79,shoplifting-79.mp4,MNNIT_078,4,8,ocultamiento,P001,,
+MNNIT,shoplifting-80,shoplifting-80.mp4,MNNIT_079,5,9,ocultamiento,P001,,
+MNNIT,shoplifting-81,shoplifting-81.mp4,MNNIT_080,3,7,ocultamiento,P001,,
+MNNIT,shoplifting-82,shoplifting-82.mp4,MNNIT_081,1,5,ocultamiento,P001,,
+MNNIT,shoplifting-83,shoplifting-83.mp4,MNNIT_082,5,9,ocultamiento,P001,,
+MNNIT,shoplifting-84,shoplifting-84.mp4,MNNIT_083,5,9,ocultamiento,P001,,
+MNNIT,shoplifting-85,shoplifting-85.mp4,MNNIT_084,4,8,ocultamiento,P001,,
+MNNIT,shoplifting-86,shoplifting-86.mp4,MNNIT_085,4,8,ocultamiento,P001,,
+MNNIT,shoplifting-87,shoplifting-87.mp4,MNNIT_086,3,7,ocultamiento,P001,,
+MNNIT,shoplifting-88,shoplifting-88.mp4,MNNIT_087,6,10,ocultamiento,P012,,
+MNNIT,shoplifting-89,shoplifting-89.mp4,MNNIT_088,8,12,ocultamiento,P012,,
+MNNIT,shoplifting-90,shoplifting-90.mp4,MNNIT_089,8,12,ocultamiento,P012,,
+MNNIT,shoplifting-91,shoplifting-91.mp4,MNNIT_090,4.6,8.6,ocultamiento,P013,,
+MNNIT,shoplifting-92,shoplifting-92.mp4,MNNIT_091,3,7,ocultamiento,P014,,
+MNNIT,shoplifting-93,shoplifting-93.mp4,MNNIT_092,6,10,ocultamiento,P014,,
+MNNIT,normal-1,normal-1.mp4,MNNIT_093,0,4,sin_ocultamiento,P0NA,,
+MNNIT,normal-2,normal-2.mp4,MNNIT_094,3,7,sin_ocultamiento,P006,,
+MNNIT,normal-3,normal-3.mp4,MNNIT_095,1,5,sin_ocultamiento,P007,,
+MNNIT,normal-4,normal-4.mp4,MNNIT_096,6,10,sin_ocultamiento,P007,,
+MNNIT,normal-5,normal-5.mp4,MNNIT_097,7,11,sin_ocultamiento,P007,,
+MNNIT,normal-6,normal-6.mp4,MNNIT_098,2,6,sin_ocultamiento,P008,,
+MNNIT,normal-7,normal-7.mp4,MNNIT_099,7,11,sin_ocultamiento,P001,,
+MNNIT,normal-8,normal-8.mp4,MNNIT_100,5,9,sin_ocultamiento,P001,,
+MNNIT,normal-9,normal-9.mp4,MNNIT_101,6,10,sin_ocultamiento,P001,,
+MNNIT,normal-10,normal-10.mp4,MNNIT_102,2,6,sin_ocultamiento,P001,,
+MNNIT,normal-11,normal-11.mp4,MNNIT_103,5,9,sin_ocultamiento,P010,,
+MNNIT,normal-12,normal-12.mp4,MNNIT_104,0,4,sin_ocultamiento,P009,,
+MNNIT,normal-13,normal-13.mp4,MNNIT_105,0,4,sin_ocultamiento,P0NA,,
+MNNIT,normal-14,normal-14.mp4,MNNIT_106,2,6,sin_ocultamiento,P010,,
+MNNIT,normal-15,normal-15.mp4,MNNIT_107,4,8,sin_ocultamiento,P009,,
+MNNIT,normal-16,normal-16.mp4,MNNIT_108,7,11,sin_ocultamiento,P004,,
+MNNIT,normal-17,normal-17.mp4,MNNIT_109,7,11,sin_ocultamiento,P006,,
+MNNIT,normal-18,normal-18.mp4,MNNIT_110,0,4,sin_ocultamiento,P006,,
+MNNIT,normal-19,normal-19.mp4,MNNIT_111,2,6,sin_ocultamiento,P006,,
+MNNIT,normal-20,normal-20.mp4,MNNIT_112,6,10,sin_ocultamiento,P006,,
+MNNIT,normal-21,normal-21.mp4,MNNIT_113,6.6,10.6,sin_ocultamiento,P007,,
+MNNIT,normal-22,normal-22.mp4,MNNIT_114,5,9,sin_ocultamiento,P007,,
+MNNIT,normal-23,normal-23.mp4,MNNIT_115,6.5,10.5,sin_ocultamiento,P002,,
+MNNIT,normal-24,normal-24.mp4,MNNIT_116,0,4,sin_ocultamiento,P006,,"Equivocado, si hay ocultamiento"
+MNNIT,normal-25,normal-25.mp4,MNNIT_117,0,4,sin_ocultamiento,P0NA,,
+MNNIT,normal-26,normal-26.mp4,MNNIT_118,0,4,sin_ocultamiento,P002,,
+MNNIT,normal-27,normal-27.mp4,MNNIT_119,0,4,sin_ocultamiento,P009,,
+MNNIT,normal-28,normal-28.mp4,MNNIT_120,0,4,sin_ocultamiento,P0NA,,
+MNNIT,normal-29,normal-29.mp4,MNNIT_121,0,4,sin_ocultamiento,P0NA,,
+MNNIT,normal-30,normal-30.mp4,MNNIT_122,2,6,sin_ocultamiento,P003,,
+MNNIT,normal-31,normal-31.mp4,MNNIT_123,2,6,sin_ocultamiento,P010,,
+MNNIT,normal-32,normal-32.mp4,MNNIT_124,1,5,sin_ocultamiento,P010,,
+MNNIT,normal-33,normal-33.mp4,MNNIT_125,2,6,sin_ocultamiento,P010,,
+MNNIT,normal-34,normal-34.mp4,MNNIT_126,1,5,sin_ocultamiento,P010,,
+MNNIT,normal-35,normal-35.mp4,MNNIT_127,4,8,sin_ocultamiento,P002,,
+MNNIT,normal-36,normal-36.mp4,MNNIT_128,5,9,sin_ocultamiento,P002,,
+MNNIT,normal-37,normal-37.mp4,MNNIT_129,6,10,sin_ocultamiento,P003,,
+MNNIT,normal-38,normal-38.mp4,MNNIT_130,3,7,sin_ocultamiento,P003,,
+MNNIT,normal-39,normal-39.mp4,MNNIT_131,0,4,sin_ocultamiento,P0NA,,
+MNNIT,normal-40,normal-40.mp4,MNNIT_132,1,5,sin_ocultamiento,P004,,
+MNNIT,normal-41,normal-41.mp4,MNNIT_133,4,8,sin_ocultamiento,P009,,
+MNNIT,normal-42,normal-42.mp4,MNNIT_134,1,5,sin_ocultamiento,P009,,
+MNNIT,normal-43,normal-43.mp4,MNNIT_135,3,7,sin_ocultamiento,P005,,
+MNNIT,normal-44,normal-44.mp4,MNNIT_136,2,6,sin_ocultamiento,P006,,
+MNNIT,normal-45,normal-45.mp4,MNNIT_137,1,5,sin_ocultamiento,P006,,"Equivocado, si hay ocultamiento, sirven los primeros segundos"
+MNNIT,normal-46,normal-46.mp4,MNNIT_138,0,4,sin_ocultamiento,P006,,"Equivocado, si hay ocultamiento, sirven los ultimos segundos"
+MNNIT,normal-47,normal-47.mp4,MNNIT_139,5,9,sin_ocultamiento,P006,,"Equivocado, si hay ocultamiento, sirven los primeros segundos"
+MNNIT,normal-48,normal-48.mp4,MNNIT_140,0,4,sin_ocultamiento,P006,,"Equivocado, si hay ocultamiento, sirven los ultimos segundos"
+MNNIT,normal-49,normal-49.mp4,MNNIT_141,5,9,sin_ocultamiento,P006,,"Equivocado, si hay ocultamiento, sirven los primeros segundos"
+MNNIT,normal-50,normal-50.mp4,MNNIT_142,1,5,sin_ocultamiento,P006,,"Equivocado, si hay ocultamiento, sirven los primeros segundos"
+MNNIT,normal-51,normal-51.mp4,MNNIT_143,0,4,sin_ocultamiento,P006,,"Equivocado, si hay ocultamiento, sirven los primeros segundos"
+MNNIT,normal-52,normal-52.mp4,MNNIT_144,0,4,sin_ocultamiento,P006,,
+MNNIT,normal-53,normal-53.mp4,MNNIT_145,2,6,sin_ocultamiento,P006,,
+MNNIT,normal-54,normal-54.mp4,MNNIT_146,0,4,sin_ocultamiento,P007,,
+MNNIT,normal-55,normal-55.mp4,MNNIT_147,7,11,sin_ocultamiento,P007,,
+MNNIT,normal-56,normal-56.mp4,MNNIT_148,1,5,sin_ocultamiento,P007,,
+MNNIT,normal-57,normal-57.mp4,MNNIT_149,7,11,sin_ocultamiento,P007,,
+MNNIT,normal-58,normal-58.mp4,MNNIT_150,3,7,sin_ocultamiento,P007,,
+MNNIT,normal-59,normal-59.mp4,MNNIT_151,4,8,sin_ocultamiento,P007,,
+MNNIT,normal-60,normal-60.mp4,MNNIT_152,5,9,sin_ocultamiento,P007,,
+MNNIT,normal-61,normal-61.mp4,MNNIT_153,5,9,sin_ocultamiento,P007,,
+MNNIT,normal-62,normal-62.mp4,MNNIT_154,5,9,sin_ocultamiento,P007,,
+MNNIT,normal-63,normal-63.mp4,MNNIT_155,6,10,sin_ocultamiento,P007,,
+MNNIT,normal-64,normal-64.mp4,MNNIT_156,2,6,sin_ocultamiento,P007,,
+MNNIT,normal-65,normal-65.mp4,MNNIT_157,6,10,sin_ocultamiento,P008,,
+MNNIT,normal-66,normal-66.mp4,MNNIT_158,1,5,sin_ocultamiento,P008,,
+MNNIT,normal-67,normal-67.mp4,MNNIT_159,3,7,sin_ocultamiento,P008,,
+MNNIT,normal-68,normal-68.mp4,MNNIT_160,1,5,sin_ocultamiento,P008,,
+MNNIT,normal-69,normal-69.mp4,MNNIT_161,4,8,sin_ocultamiento,P008,,
+MNNIT,normal-70,normal-70.mp4,MNNIT_162,4,8,sin_ocultamiento,P001,,
+MNNIT,normal-71,normal-71.mp4,MNNIT_163,4,8,sin_ocultamiento,P001,,
+MNNIT,normal-72,normal-72.mp4,MNNIT_164,3,7,sin_ocultamiento,P001,,
+MNNIT,normal-73,normal-73.mp4,MNNIT_165,3,7,sin_ocultamiento,P001,,
+MNNIT,normal-74,normal-74.mp4,MNNIT_166,2,6,sin_ocultamiento,P001,,
+MNNIT,normal-75,normal-75.mp4,MNNIT_167,4,8,sin_ocultamiento,P001,,
+MNNIT,normal-76,normal-76.mp4,MNNIT_168,3,7,sin_ocultamiento,P001,,
+MNNIT,normal-77,normal-77.mp4,MNNIT_169,4,8,sin_ocultamiento,P001,,
+MNNIT,normal-78,normal-78.mp4,MNNIT_170,3,7,sin_ocultamiento,P001,,
+MNNIT,normal-79,normal-79.mp4,MNNIT_171,4,8,sin_ocultamiento,P001,,
+MNNIT,normal-80,normal-80.mp4,MNNIT_172,3,7,sin_ocultamiento,P001,,
+MNNIT,normal-81,normal-81.mp4,MNNIT_173,3,7,sin_ocultamiento,P001,,
+MNNIT,normal-82,normal-82.mp4,MNNIT_174,5,9,sin_ocultamiento,P001,,
+MNNIT,normal-83,normal-83.mp4,MNNIT_175,6,10,sin_ocultamiento,P001,,
+MNNIT,normal-84,normal-84.mp4,MNNIT_176,6,10,sin_ocultamiento,P001,,
+MNNIT,normal-85,normal-85.mp4,MNNIT_177,5,9,sin_ocultamiento,P010,,
+MNNIT,normal-86,normal-86.mp4,MNNIT_178,2,6,sin_ocultamiento,P010,,
+MNNIT,normal-87,normal-87.mp4,MNNIT_179,6,10,sin_ocultamiento,P010,,
+MNNIT,normal-88,normal-88.mp4,MNNIT_180,0,4,sin_ocultamiento,P003,,
+MNNIT,normal-89,normal-89.mp4,MNNIT_181,4,8,sin_ocultamiento,P012,,
+MNNIT,normal-90,normal-90.mp4,MNNIT_182,2,6,sin_ocultamiento,P014,,
+DCSASS,Shoplifting001_x264,Shoplifting001_x264_0.mp4,Shoplifting001_x264_0,0,3,sin_ocultamiento,PNA,,
+DCSASS,Shoplifting001_x264,Shoplifting001_x264_2.mp4,Shoplifting001_x264_2,0,3,sin_ocultamiento,PNA,,
+DCSASS,Shoplifting001_x264,Shoplifting001_x264_3.mp4,Shoplifting001_x264_3,0,3,sin_ocultamiento,P001_1,,
+DCSASS,Shoplifting001_x264,Shoplifting001_x264_4.mp4,Shoplifting001_x264_4,0,3,sin_ocultamiento,P001_1,,
+DCSASS,Shoplifting001_x264,Shoplifting001_x264_6.mp4,Shoplifting001_x264_6,0,3,sin_ocultamiento,P001_2,,
+DCSASS,Shoplifting001_x264,Shoplifting001_x264_7.mp4,Shoplifting001_x264_7,0,3,sin_ocultamiento,P001_2,,
+DCSASS,Shoplifting001_x264,Shoplifting001_x264_8.mp4,Shoplifting001_x264_8,0,3,sin_ocultamiento,P001_2,,
+DCSASS,Shoplifting001_x264,Shoplifting001_x264_9.mp4,Shoplifting001_x264_9,0,3,sin_ocultamiento,P001_1,,
+DCSASS,Shoplifting001_x264,Shoplifting001_x264_11.mp4,Shoplifting001_x264_11,0,3,sin_ocultamiento,P001_1,,
+DCSASS,Shoplifting001_x264,Shoplifting001_x264_13.mp4,Shoplifting001_x264_13,0,3,ocultamiento,P001_1,,
+DCSASS,Shoplifting001_x264,Shoplifting001_x264_15.mp4,Shoplifting001_x264_15,0,3,ocultamiento,P001_2,,
+DCSASS,Shoplifting001_x264,Shoplifting001_x264_16.mp4,Shoplifting001_x264_16,0,3,no_determinado,P001_2,,
+DCSASS,Shoplifting001_x264,Shoplifting001_x264_17.mp4,Shoplifting001_x264_17,0,3,sin_ocultamiento,P001_2,,
+DCSASS,Shoplifting001_x264,Shoplifting001_x264_19.mp4,Shoplifting001_x264_19,0,3,sin_ocultamiento,PNA,,
+DCSASS,Shoplifting001_x264,Shoplifting001_x264_20.mp4,Shoplifting001_x264_20,0,3,sin_ocultamiento,PNA,,
+DCSASS,Shoplifting001_x264,Shoplifting001_x264_22.mp4,Shoplifting001_x264_22,0,3,sin_ocultamiento,PNA,,
+DCSASS,Shoplifting001_x264,Shoplifting001_x264_23.mp4,Shoplifting001_x264_23,0,3,sin_ocultamiento,PNA,,
+DCSASS,Shoplifting001_x264,Shoplifting001_x264_24.mp4,Shoplifting001_x264_24,0,3,sin_ocultamiento,PNA,,
+DCSASS,Shoplifting001_x264,Shoplifting001_x264_25.mp4,Shoplifting001_x264_25,0,3,sin_ocultamiento,PNA,,
+DCSASS,Shoplifting001_x264,Shoplifting001_x264_26.mp4,Shoplifting001_x264_26,0,3,sin_ocultamiento,PNA,,
+DCSASS,Shoplifting001_x264,Shoplifting001_x264_29.mp4,Shoplifting001_x264_29,0,3,sin_ocultamiento,PNA,,
+DCSASS,Shoplifting001_x264,Shoplifting001_x264_30.mp4,Shoplifting001_x264_30,0,3,sin_ocultamiento,PNA,,
+DCSASS,Shoplifting005_x264,Shoplifting005_x264_1.mp4,Shoplifting005_x264_1,0,3,sin_ocultamiento,P005_1,,
+DCSASS,Shoplifting005_x264,Shoplifting005_x264_2.mp4,Shoplifting005_x264_2,0,3,sin_ocultamiento,P005_1,,
+DCSASS,Shoplifting005_x264,Shoplifting005_x264_4.mp4,Shoplifting005_x264_4,0,3,sin_ocultamiento,P005_1,,
+DCSASS,Shoplifting005_x264,Shoplifting005_x264_9.mp4,Shoplifting005_x264_9,0,3,sin_ocultamiento,P005_1,,
+DCSASS,Shoplifting005_x264,Shoplifting005_x264_11.mp4,Shoplifting005_x264_11,0,3,sin_ocultamiento,P005_1,,
+DCSASS,Shoplifting005_x264,Shoplifting005_x264_14.mp4,Shoplifting005_x264_14,0,3,ocultamiento,P005_1,,
+DCSASS,Shoplifting005_x264,Shoplifting005_x264_16.mp4,Shoplifting005_x264_16,0,3,ocultamiento,P005_1,,
+DCSASS,Shoplifting005_x264,Shoplifting005_x264_18.mp4,Shoplifting005_x264_18,0,3,ocultamiento,P005_1,,
+DCSASS,Shoplifting005_x264,Shoplifting005_x264_21.mp4,Shoplifting005_x264_21,0,3,sin_ocultamiento,P005_1,,
+DCSASS,Shoplifting005_x264,Shoplifting005_x264_23.mp4,Shoplifting005_x264_23,0,3,sin_ocultamiento,P005_1,,
+DCSASS,Shoplifting005_x264,Shoplifting005_x264_24.mp4,Shoplifting005_x264_24,0,3,sin_ocultamiento,P005_1,,
+DCSASS,Shoplifting005_x264,Shoplifting005_x264_25.mp4,Shoplifting005_x264_25,0,3,sin_ocultamiento,P005_1,,
+DCSASS,Shoplifting005_x264,Shoplifting005_x264_27.mp4,Shoplifting005_x264_27,0,3,sin_ocultamiento,PNA,,
+DCSASS,Shoplifting005_x264,Shoplifting005_x264_29.mp4,Shoplifting005_x264_29,0,3,sin_ocultamiento,PNA,,
+DCSASS,Shoplifting005_x264,Shoplifting005_x264_31.mp4,Shoplifting005_x264_31,0,3,sin_ocultamiento,PNA,,
+DCSASS,Shoplifting006_x264,Shoplifting006_x264_0.mp4,Shoplifting006_x264_0,0,3,sin_ocultamiento,P006_1,,
+DCSASS,Shoplifting006_x264,Shoplifting006_x264_3.mp4,Shoplifting006_x264_3,0,3,sin_ocultamiento,P006_1,,
+DCSASS,Shoplifting006_x264,Shoplifting006_x264_5.mp4,Shoplifting006_x264_5,0,3,sin_ocultamiento,P006_1,,
+DCSASS,Shoplifting006_x264,Shoplifting006_x264_7.mp4,Shoplifting006_x264_7,0,3,sin_ocultamiento,P006_1,,
+DCSASS,Shoplifting006_x264,Shoplifting006_x264_9.mp4,Shoplifting006_x264_9,0,3,sin_ocultamiento,P006_1,,
+DCSASS,Shoplifting006_x264,Shoplifting006_x264_10.mp4,Shoplifting006_x264_10,0,3,sin_ocultamiento,P006_1,,
+DCSASS,Shoplifting006_x264,Shoplifting006_x264_11.mp4,Shoplifting006_x264_11,0,3,sin_ocultamiento,P006_1,,
+DCSASS,Shoplifting006_x264,Shoplifting006_x264_12.mp4,Shoplifting006_x264_12,0,3,sin_ocultamiento,P006_1,,
+DCSASS,Shoplifting006_x264,Shoplifting006_x264_13.mp4,Shoplifting006_x264_13,0,3,sin_ocultamiento,P006_1,,
+DCSASS,Shoplifting006_x264,Shoplifting006_x264_15.mp4,Shoplifting006_x264_15,0,3,sin_ocultamiento,P006_1,,
+DCSASS,Shoplifting006_x264,Shoplifting006_x264_19.mp4,Shoplifting006_x264_19,0,3,ocultamiento,P006_1,,
+DCSASS,Shoplifting006_x264,Shoplifting006_x264_21.mp4,Shoplifting006_x264_21,0,3,sin_ocultamiento,PNA,,
+DCSASS,Shoplifting006_x264,Shoplifting006_x264_22.mp4,Shoplifting006_x264_22,0,3,sin_ocultamiento,PNA,,
+DCSASS,Shoplifting006_x264,Shoplifting006_x264_24.mp4,Shoplifting006_x264_24,0,3,sin_ocultamiento,PNA,,
+DCSASS,Shoplifting006_x264,Shoplifting006_x264_28.mp4,Shoplifting006_x264_28,0,3,ocultamiento,P006_1,,
+DCSASS,Shoplifting006_x264,Shoplifting006_x264_29.mp4,Shoplifting006_x264_29,0,3,ocultamiento,P006_1,,
+DCSASS,Shoplifting009_x264,Shoplifting009_x264_0.mp4,Shoplifting009_x264_0,0,3,sin_ocultamiento,P009_1,,
+DCSASS,Shoplifting009_x264,Shoplifting009_x264_4.mp4,Shoplifting009_x264_4,0,3,ocultamiento,P009_1,,
+DCSASS,Shoplifting009_x264,Shoplifting009_x264_6.mp4,Shoplifting009_x264_6,0,3,sin_ocultamiento,P009_1,,
+DCSASS,Shoplifting009_x264,Shoplifting009_x264_11.mp4,Shoplifting009_x264_11,0,3,sin_ocultamiento,P009_1,,
+DCSASS,Shoplifting009_x264,Shoplifting009_x264_12.mp4,Shoplifting009_x264_12,0,3,sin_ocultamiento,P009_1,,
+DCSASS,Shoplifting009_x264,Shoplifting009_x264_14.mp4,Shoplifting009_x264_14,0,3,sin_ocultamiento,P009_1,,
+DCSASS,Shoplifting009_x264,Shoplifting009_x264_15.mp4,Shoplifting009_x264_15,0,3,sin_ocultamiento,P009_1,,
+DCSASS,Shoplifting009_x264,Shoplifting009_x264_16.mp4,Shoplifting009_x264_16,0,3,sin_ocultamiento,P009_2,,
+DCSASS,Shoplifting009_x264,Shoplifting009_x264_21.mp4,Shoplifting009_x264_21,0,3,sin_ocultamiento,P009_2,,
+DCSASS,Shoplifting009_x264,Shoplifting009_x264_23.mp4,Shoplifting009_x264_23,0,3,ocultamiento,P009_2,,
+DCSASS,Shoplifting009_x264,Shoplifting009_x264_24.mp4,Shoplifting009_x264_24,0,3,sin_ocultamiento,P009_3,,
+DCSASS,Shoplifting009_x264,Shoplifting009_x264_25.mp4,Shoplifting009_x264_25,0,3,sin_ocultamiento,P009_3,,
+DCSASS,Shoplifting009_x264,Shoplifting009_x264_26.mp4,Shoplifting009_x264_26,0,3,sin_ocultamiento,P009_3,,
+DCSASS,Shoplifting009_x264,Shoplifting009_x264_27.mp4,Shoplifting009_x264_27,0,3,sin_ocultamiento,P009_3,,
+DCSASS,Shoplifting009_x264,Shoplifting009_x264_29.mp4,Shoplifting009_x264_29,0,3,ocultamiento,P009_3,,
+DCSASS,Shoplifting009_x264,Shoplifting009_x264_30.mp4,Shoplifting009_x264_30,0,3,ocultamiento,P009_3,,
+DCSASS,Shoplifting009_x264,Shoplifting009_x264_31.mp4,Shoplifting009_x264_31,0,3,ocultamiento,P009_3,,
+DCSASS,Shoplifting010_x264,Shoplifting010_x264_0.mp4,Shoplifting010_x264_0,0,3,sin_ocultamiento,PNA,,
+DCSASS,Shoplifting010_x264,Shoplifting010_x264_1.mp4,Shoplifting010_x264_1,0,3,sin_ocultamiento,PNA,,
+DCSASS,Shoplifting010_x264,Shoplifting010_x264_2.mp4,Shoplifting010_x264_2,0,3,sin_ocultamiento,PNA,,
+DCSASS,Shoplifting010_x264,Shoplifting010_x264_3.mp4,Shoplifting010_x264_3,0,3,sin_ocultamiento,PNA,,
+DCSASS,Shoplifting010_x264,Shoplifting010_x264_4.mp4,Shoplifting010_x264_4,0,3,sin_ocultamiento,PNA,,
+DCSASS,Shoplifting010_x264,Shoplifting010_x264_5.mp4,Shoplifting010_x264_5,0,3,sin_ocultamiento,PNA,,
+DCSASS,Shoplifting010_x264,Shoplifting010_x264_6.mp4,Shoplifting010_x264_6,0,3,sin_ocultamiento,PNA,,
+DCSASS,Shoplifting010_x264,Shoplifting010_x264_7.mp4,Shoplifting010_x264_7,0,3,sin_ocultamiento,PNA,,
+DCSASS,Shoplifting010_x264,Shoplifting010_x264_8.mp4,Shoplifting010_x264_8,0,3,sin_ocultamiento,PNA,,
+DCSASS,Shoplifting010_x264,Shoplifting010_x264_9.mp4,Shoplifting010_x264_9,0,3,sin_ocultamiento,PNA,,
+DCSASS,Shoplifting010_x264,Shoplifting010_x264_10.mp4,Shoplifting010_x264_10,0,3,sin_ocultamiento,P010_1,,
+DCSASS,Shoplifting010_x264,Shoplifting010_x264_11.mp4,Shoplifting010_x264_11,0,3,sin_ocultamiento,P010_1,,
+DCSASS,Shoplifting010_x264,Shoplifting010_x264_12.mp4,Shoplifting010_x264_12,0,3,ocultamiento,P010_1,,
+DCSASS,Shoplifting010_x264,Shoplifting010_x264_13.mp4,Shoplifting010_x264_13,0,3,ocultamiento,P010_1,,
+DCSASS,Shoplifting010_x264,Shoplifting010_x264_14.mp4,Shoplifting010_x264_14,0,3,ocultamiento,P010_1,,
+DCSASS,Shoplifting010_x264,Shoplifting010_x264_15.mp4,Shoplifting010_x264_15,0,3,sin_ocultamiento,P010_1,,
+DCSASS,Shoplifting010_x264,Shoplifting010_x264_16.mp4,Shoplifting010_x264_16,0,3,sin_ocultamiento,P010_1,,
+DCSASS,Shoplifting010_x264,Shoplifting010_x264_17.mp4,Shoplifting010_x264_17,0,3,sin_ocultamiento,P010_1,,
+DCSASS,Shoplifting010_x264,Shoplifting010_x264_18.mp4,Shoplifting010_x264_18,0,3,sin_ocultamiento,P010_1,,
+DCSASS,Shoplifting010_x264,Shoplifting010_x264_19.mp4,Shoplifting010_x264_19,0,3,sin_ocultamiento,P010_1,,
+DCSASS,Shoplifting010_x264,Shoplifting010_x264_20.mp4,Shoplifting010_x264_20,0,3,sin_ocultamiento,P010_1,,
+DCSASS,Shoplifting010_x264,Shoplifting010_x264_21.mp4,Shoplifting010_x264_21,0,3,sin_ocultamiento,P010_1,,
+DCSASS,Shoplifting010_x264,Shoplifting010_x264_22.mp4,Shoplifting010_x264_22,0,3,sin_ocultamiento,P010_1,,
+DCSASS,Shoplifting010_x264,Shoplifting010_x264_23.mp4,Shoplifting010_x264_23,0,3,sin_ocultamiento,P010_1,,
+DCSASS,Shoplifting010_x264,Shoplifting010_x264_24.mp4,Shoplifting010_x264_24,0,3,sin_ocultamiento,P010_1,,
+DCSASS,Shoplifting010_x264,Shoplifting010_x264_25.mp4,Shoplifting010_x264_25,0,3,ocultamiento,P010_1,,
+DCSASS,Shoplifting010_x264,Shoplifting010_x264_26.mp4,Shoplifting010_x264_26,0,3,ocultamiento,P010_1,,
+DCSASS,Shoplifting010_x264,Shoplifting010_x264_27.mp4,Shoplifting010_x264_27,0,3,sin_ocultamiento,P010_1,,
+DCSASS,Shoplifting010_x264,Shoplifting010_x264_28.mp4,Shoplifting010_x264_28,0,3,sin_ocultamiento,P010_1,,
+DCSASS,Shoplifting010_x264,Shoplifting010_x264_29.mp4,Shoplifting010_x264_29,0,3,ocultamiento,P010_1,,
+DCSASS,Shoplifting010_x264,Shoplifting010_x264_30.mp4,Shoplifting010_x264_30,0,3,ocultamiento,P010_1,,
+DCSASS,Shoplifting010_x264,Shoplifting010_x264_31.mp4,Shoplifting010_x264_31,0,3,sin_ocultamiento,P010_1,,
+DCSASS,Shoplifting013_x264,Shoplifting013_x264_0.mp4,Shoplifting013_x264_0,0,3,sin_ocultamiento,P013_1,,
+DCSASS,Shoplifting013_x264,Shoplifting013_x264_4.mp4,Shoplifting013_x264_4,0,3,ocultamiento,P013_1,,
+DCSASS,Shoplifting013_x264,Shoplifting013_x264_5.mp4,Shoplifting013_x264_5,0,3,ocultamiento,P013_1,,
+DCSASS,Shoplifting013_x264,Shoplifting013_x264_6.mp4,Shoplifting013_x264_6,0,3,ocultamiento,P013_1,,
+DCSASS,Shoplifting013_x264,Shoplifting013_x264_7.mp4,Shoplifting013_x264_7,0,3,ocultamiento,P013_1,,
+DCSASS,Shoplifting013_x264,Shoplifting013_x264_8.mp4,Shoplifting013_x264_8,0,3,ocultamiento,P013_1,,
+DCSASS,Shoplifting013_x264,Shoplifting013_x264_9.mp4,Shoplifting013_x264_9,0,3,ocultamiento,P013_1,,
+DCSASS,Shoplifting013_x264,Shoplifting013_x264_11.mp4,Shoplifting013_x264_11,0,3,ocultamiento,P013_1,,
+DCSASS,Shoplifting013_x264,Shoplifting013_x264_12.mp4,Shoplifting013_x264_12,0,3,ocultamiento,P013_1,,
+DCSASS,Shoplifting013_x264,Shoplifting013_x264_13.mp4,Shoplifting013_x264_13,0,3,ocultamiento,P013_1,,
+DCSASS,Shoplifting013_x264,Shoplifting013_x264_15.mp4,Shoplifting013_x264_15,0,3,ocultamiento,P013_1,,
+DCSASS,Shoplifting013_x264,Shoplifting013_x264_16.mp4,Shoplifting013_x264_16,0,3,ocultamiento,P013_1,,
+DCSASS,Shoplifting013_x264,Shoplifting013_x264_18.mp4,Shoplifting013_x264_18,0,3,ocultamiento,P013_1,,
+DCSASS,Shoplifting013_x264,Shoplifting013_x264_19.mp4,Shoplifting013_x264_19,0,3,ocultamiento,P013_1,,
+DCSASS,Shoplifting013_x264,Shoplifting013_x264_20.mp4,Shoplifting013_x264_20,0,3,ocultamiento,P013_1,,
+DCSASS,Shoplifting013_x264,Shoplifting013_x264_21.mp4,Shoplifting013_x264_21,0,3,ocultamiento,P013_1,,
+DCSASS,Shoplifting013_x264,Shoplifting013_x264_22.mp4,Shoplifting013_x264_22,0,3,ocultamiento,P013_1,,
+DCSASS,Shoplifting013_x264,Shoplifting013_x264_23.mp4,Shoplifting013_x264_23,0,3,ocultamiento,P013_1,,
+DCSASS,Shoplifting013_x264,Shoplifting013_x264_24.mp4,Shoplifting013_x264_24,0,3,ocultamiento,P013_1,,
+DCSASS,Shoplifting013_x264,Shoplifting013_x264_25.mp4,Shoplifting013_x264_25,0,3,ocultamiento,P013_1,,
+DCSASS,Shoplifting013_x264,Shoplifting013_x264_26.mp4,Shoplifting013_x264_26,0,3,ocultamiento,P013_1,,
+DCSASS,Shoplifting013_x264,Shoplifting013_x264_27.mp4,Shoplifting013_x264_27,0,3,ocultamiento,P013_1,,
+DCSASS,Shoplifting013_x264,Shoplifting013_x264_28.mp4,Shoplifting013_x264_28,0,3,ocultamiento,P013_1,,
+DCSASS,Shoplifting013_x264,Shoplifting013_x264_29.mp4,Shoplifting013_x264_29,0,3,ocultamiento,P013_1,,
+DCSASS,Shoplifting013_x264,Shoplifting013_x264_30.mp4,Shoplifting013_x264_30,0,3,ocultamiento,P013_1,,
+DCSASS,Shoplifting013_x264,Shoplifting013_x264_31.mp4,Shoplifting013_x264_31,0,3,ocultamiento,P013_1,,
+DCSASS,Shoplifting015_x264,Shoplifting015_x264_0.mp4,Shoplifting015_x264_0,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting015_x264,Shoplifting015_x264_1.mp4,Shoplifting015_x264_1,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting015_x264,Shoplifting015_x264_2.mp4,Shoplifting015_x264_2,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting015_x264,Shoplifting015_x264_3.mp4,Shoplifting015_x264_3,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting015_x264,Shoplifting015_x264_4.mp4,Shoplifting015_x264_4,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting015_x264,Shoplifting015_x264_5.mp4,Shoplifting015_x264_5,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting015_x264,Shoplifting015_x264_6.mp4,Shoplifting015_x264_6,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting015_x264,Shoplifting015_x264_7.mp4,Shoplifting015_x264_7,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting015_x264,Shoplifting015_x264_8.mp4,Shoplifting015_x264_8,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting015_x264,Shoplifting015_x264_9.mp4,Shoplifting015_x264_9,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting015_x264,Shoplifting015_x264_10.mp4,Shoplifting015_x264_10,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting015_x264,Shoplifting015_x264_11.mp4,Shoplifting015_x264_11,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting015_x264,Shoplifting015_x264_12.mp4,Shoplifting015_x264_12,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting015_x264,Shoplifting015_x264_13.mp4,Shoplifting015_x264_13,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting015_x264,Shoplifting015_x264_14.mp4,Shoplifting015_x264_14,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting015_x264,Shoplifting015_x264_15.mp4,Shoplifting015_x264_15,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting015_x264,Shoplifting015_x264_16.mp4,Shoplifting015_x264_16,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting015_x264,Shoplifting015_x264_17.mp4,Shoplifting015_x264_17,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting015_x264,Shoplifting015_x264_18.mp4,Shoplifting015_x264_18,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting015_x264,Shoplifting015_x264_19.mp4,Shoplifting015_x264_19,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting015_x264,Shoplifting015_x264_20.mp4,Shoplifting015_x264_20,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting015_x264,Shoplifting015_x264_21.mp4,Shoplifting015_x264_21,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting015_x264,Shoplifting015_x264_22.mp4,Shoplifting015_x264_22,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting015_x264,Shoplifting015_x264_23.mp4,Shoplifting015_x264_23,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting015_x264,Shoplifting015_x264_24.mp4,Shoplifting015_x264_24,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting015_x264,Shoplifting015_x264_25.mp4,Shoplifting015_x264_25,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting015_x264,Shoplifting015_x264_26.mp4,Shoplifting015_x264_26,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting015_x264,Shoplifting015_x264_27.mp4,Shoplifting015_x264_27,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting015_x264,Shoplifting015_x264_28.mp4,Shoplifting015_x264_28,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting015_x264,Shoplifting015_x264_29.mp4,Shoplifting015_x264_29,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting015_x264,Shoplifting015_x264_30.mp4,Shoplifting015_x264_30,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting015_x264,Shoplifting015_x264_31.mp4,Shoplifting015_x264_31,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting016_x264,Shoplifting016_x264_0.mp4,Shoplifting016_x264_0,0,3,sin_ocultamiento,P016_1,,
+DCSASS,Shoplifting016_x264,Shoplifting016_x264_1.mp4,Shoplifting016_x264_1,0,3,sin_ocultamiento,P016_1,,
+DCSASS,Shoplifting016_x264,Shoplifting016_x264_2.mp4,Shoplifting016_x264_2,0,3,sin_ocultamiento,P016_1,,
+DCSASS,Shoplifting016_x264,Shoplifting016_x264_3.mp4,Shoplifting016_x264_3,0,3,sin_ocultamiento,P016_1,,
+DCSASS,Shoplifting016_x264,Shoplifting016_x264_4.mp4,Shoplifting016_x264_4,0,3,sin_ocultamiento,P016_1,,
+DCSASS,Shoplifting016_x264,Shoplifting016_x264_5.mp4,Shoplifting016_x264_5,0,3,sin_ocultamiento,P016_1,,
+DCSASS,Shoplifting016_x264,Shoplifting016_x264_6.mp4,Shoplifting016_x264_6,0,3,sin_ocultamiento,P016_1,,
+DCSASS,Shoplifting016_x264,Shoplifting016_x264_7.mp4,Shoplifting016_x264_7,0,3,sin_ocultamiento,P016_1,,
+DCSASS,Shoplifting016_x264,Shoplifting016_x264_8.mp4,Shoplifting016_x264_8,0,3,sin_ocultamiento,P016_1,,
+DCSASS,Shoplifting016_x264,Shoplifting016_x264_9.mp4,Shoplifting016_x264_9,0,3,sin_ocultamiento,P016_1,,
+DCSASS,Shoplifting016_x264,Shoplifting016_x264_10.mp4,Shoplifting016_x264_10,0,3,sin_ocultamiento,P016_1,,
+DCSASS,Shoplifting016_x264,Shoplifting016_x264_11.mp4,Shoplifting016_x264_11,0,3,sin_ocultamiento,P016_1,,
+DCSASS,Shoplifting016_x264,Shoplifting016_x264_12.mp4,Shoplifting016_x264_12,0,3,sin_ocultamiento,P016_1,,
+DCSASS,Shoplifting016_x264,Shoplifting016_x264_13.mp4,Shoplifting016_x264_13,0,3,sin_ocultamiento,P016_1,,
+DCSASS,Shoplifting016_x264,Shoplifting016_x264_14.mp4,Shoplifting016_x264_14,0,3,sin_ocultamiento,P016_1,,
+DCSASS,Shoplifting016_x264,Shoplifting016_x264_15.mp4,Shoplifting016_x264_15,0,3,sin_ocultamiento,P016_1,,
+DCSASS,Shoplifting016_x264,Shoplifting016_x264_16.mp4,Shoplifting016_x264_16,0,3,sin_ocultamiento,P016_1,,
+DCSASS,Shoplifting016_x264,Shoplifting016_x264_17.mp4,Shoplifting016_x264_17,0,3,sin_ocultamiento,P016_1,,
+DCSASS,Shoplifting016_x264,Shoplifting016_x264_18.mp4,Shoplifting016_x264_18,0,3,sin_ocultamiento,P016_1,,
+DCSASS,Shoplifting016_x264,Shoplifting016_x264_19.mp4,Shoplifting016_x264_19,0,3,sin_ocultamiento,P016_1,,
+DCSASS,Shoplifting016_x264,Shoplifting016_x264_20.mp4,Shoplifting016_x264_20,0,3,sin_ocultamiento,P016_1,,
+DCSASS,Shoplifting016_x264,Shoplifting016_x264_21.mp4,Shoplifting016_x264_21,0,3,ocultamiento,P016_1,,
+DCSASS,Shoplifting016_x264,Shoplifting016_x264_22.mp4,Shoplifting016_x264_22,0,3,ocultamiento,P016_1,,
+DCSASS,Shoplifting016_x264,Shoplifting016_x264_23.mp4,Shoplifting016_x264_23,0,3,ocultamiento,P016_1,,
+DCSASS,Shoplifting016_x264,Shoplifting016_x264_24.mp4,Shoplifting016_x264_24,0,3,sin_ocultamiento,P016_1,,
+DCSASS,Shoplifting016_x264,Shoplifting016_x264_25.mp4,Shoplifting016_x264_25,0,3,sin_ocultamiento,P016_1,,
+DCSASS,Shoplifting016_x264,Shoplifting016_x264_26.mp4,Shoplifting016_x264_26,0,3,sin_ocultamiento,P016_1,,
+DCSASS,Shoplifting016_x264,Shoplifting016_x264_27.mp4,Shoplifting016_x264_27,0,3,sin_ocultamiento,P016_1,,
+DCSASS,Shoplifting016_x264,Shoplifting016_x264_28.mp4,Shoplifting016_x264_28,0,3,sin_ocultamiento,P016_1,,
+DCSASS,Shoplifting016_x264,Shoplifting016_x264_29.mp4,Shoplifting016_x264_29,0,3,sin_ocultamiento,P016_1,,
+DCSASS,Shoplifting016_x264,Shoplifting016_x264_30.mp4,Shoplifting016_x264_30,0,3,sin_ocultamiento,P016_1,,
+DCSASS,Shoplifting016_x264,Shoplifting016_x264_31.mp4,Shoplifting016_x264_31,0,3,sin_ocultamiento,P016_1,,
+DCSASS,Shoplifting018_x264,Shoplifting018_x264_0.mp4,Shoplifting018_x264_0,0,3,sin_ocultamiento,P018_1,,
+DCSASS,Shoplifting018_x264,Shoplifting018_x264_1.mp4,Shoplifting018_x264_1,0,3,sin_ocultamiento,P018_1,,
+DCSASS,Shoplifting018_x264,Shoplifting018_x264_3.mp4,Shoplifting018_x264_3,0,3,sin_ocultamiento,P018_1,,
+DCSASS,Shoplifting018_x264,Shoplifting018_x264_4.mp4,Shoplifting018_x264_4,0,3,sin_ocultamiento,P018_1,,
+DCSASS,Shoplifting018_x264,Shoplifting018_x264_6.mp4,Shoplifting018_x264_6,0,3,ocultamiento,P018_1,,
+DCSASS,Shoplifting018_x264,Shoplifting018_x264_7.mp4,Shoplifting018_x264_7,0,3,ocultamiento,P018_1,,
+DCSASS,Shoplifting018_x264,Shoplifting018_x264_8.mp4,Shoplifting018_x264_8,0,3,ocultamiento,P018_1,,
+DCSASS,Shoplifting018_x264,Shoplifting018_x264_10.mp4,Shoplifting018_x264_10,0,3,ocultamiento,P018_1,,
+DCSASS,Shoplifting018_x264,Shoplifting018_x264_13.mp4,Shoplifting018_x264_13,0,3,sin_ocultamiento,P018_1,,
+DCSASS,Shoplifting018_x264,Shoplifting018_x264_15.mp4,Shoplifting018_x264_15,0,3,sin_ocultamiento,P018_1,,
+DCSASS,Shoplifting018_x264,Shoplifting018_x264_19.mp4,Shoplifting018_x264_19,0,3,sin_ocultamiento,P018_1,,
+DCSASS,Shoplifting018_x264,Shoplifting018_x264_21.mp4,Shoplifting018_x264_21,0,3,ocultamiento,P018_1,,
+DCSASS,Shoplifting018_x264,Shoplifting018_x264_22.mp4,Shoplifting018_x264_22,0,3,ocultamiento,P018_1,,
+DCSASS,Shoplifting018_x264,Shoplifting018_x264_23.mp4,Shoplifting018_x264_23,0,3,ocultamiento,P018_1,,
+DCSASS,Shoplifting018_x264,Shoplifting018_x264_24.mp4,Shoplifting018_x264_24,0,3,ocultamiento,P018_1,,
+DCSASS,Shoplifting018_x264,Shoplifting018_x264_29.mp4,Shoplifting018_x264_29,0,3,sin_ocultamiento,P018_1,,
+DCSASS,Shoplifting018_x264,Shoplifting018_x264_31.mp4,Shoplifting018_x264_31,0,3,sin_ocultamiento,P018_1,,
+DCSASS,Shoplifting021_x264,Shoplifting021_x264_0.mp4,Shoplifting021_x264_0,0,3,sin_ocultamiento,P021_1,,
+DCSASS,Shoplifting021_x264,Shoplifting021_x264_1.mp4,Shoplifting021_x264_1,0,3,sin_ocultamiento,P021_1,,
+DCSASS,Shoplifting021_x264,Shoplifting021_x264_2.mp4,Shoplifting021_x264_2,0,3,sin_ocultamiento,P021_1,,
+DCSASS,Shoplifting021_x264,Shoplifting021_x264_3.mp4,Shoplifting021_x264_3,0,3,sin_ocultamiento,P021_1,,
+DCSASS,Shoplifting021_x264,Shoplifting021_x264_4.mp4,Shoplifting021_x264_4,0,3,sin_ocultamiento,P021_1,,
+DCSASS,Shoplifting021_x264,Shoplifting021_x264_5.mp4,Shoplifting021_x264_5,0,3,sin_ocultamiento,P021_1,,
+DCSASS,Shoplifting021_x264,Shoplifting021_x264_6.mp4,Shoplifting021_x264_6,0,3,sin_ocultamiento,P021_1,,
+DCSASS,Shoplifting021_x264,Shoplifting021_x264_7.mp4,Shoplifting021_x264_7,0,3,sin_ocultamiento,P021_1,,
+DCSASS,Shoplifting021_x264,Shoplifting021_x264_8.mp4,Shoplifting021_x264_8,0,3,sin_ocultamiento,P021_1,,
+DCSASS,Shoplifting021_x264,Shoplifting021_x264_9.mp4,Shoplifting021_x264_9,0,3,sin_ocultamiento,P021_1,,
+DCSASS,Shoplifting021_x264,Shoplifting021_x264_10.mp4,Shoplifting021_x264_10,0,3,sin_ocultamiento,P021_1,,
+DCSASS,Shoplifting021_x264,Shoplifting021_x264_11.mp4,Shoplifting021_x264_11,0,3,sin_ocultamiento,P021_1,,
+DCSASS,Shoplifting021_x264,Shoplifting021_x264_12.mp4,Shoplifting021_x264_12,0,3,sin_ocultamiento,P021_1,,
+DCSASS,Shoplifting021_x264,Shoplifting021_x264_13.mp4,Shoplifting021_x264_13,0,3,sin_ocultamiento,P021_1,,
+DCSASS,Shoplifting021_x264,Shoplifting021_x264_14.mp4,Shoplifting021_x264_14,0,3,sin_ocultamiento,P021_1,,
+DCSASS,Shoplifting021_x264,Shoplifting021_x264_15.mp4,Shoplifting021_x264_15,0,3,sin_ocultamiento,P021_1,,
+DCSASS,Shoplifting021_x264,Shoplifting021_x264_16.mp4,Shoplifting021_x264_16,0,3,sin_ocultamiento,P021_1,,
+DCSASS,Shoplifting021_x264,Shoplifting021_x264_17.mp4,Shoplifting021_x264_17,0,3,sin_ocultamiento,P021_1,,
+DCSASS,Shoplifting021_x264,Shoplifting021_x264_18.mp4,Shoplifting021_x264_18,0,3,sin_ocultamiento,P021_1,,
+DCSASS,Shoplifting021_x264,Shoplifting021_x264_19.mp4,Shoplifting021_x264_19,0,3,sin_ocultamiento,P021_1,,
+DCSASS,Shoplifting021_x264,Shoplifting021_x264_20.mp4,Shoplifting021_x264_20,0,3,sin_ocultamiento,P021_1,,
+DCSASS,Shoplifting021_x264,Shoplifting021_x264_21.mp4,Shoplifting021_x264_21,0,3,sin_ocultamiento,P021_1,,
+DCSASS,Shoplifting021_x264,Shoplifting021_x264_22.mp4,Shoplifting021_x264_22,0,3,sin_ocultamiento,P021_1,,
+DCSASS,Shoplifting021_x264,Shoplifting021_x264_23.mp4,Shoplifting021_x264_23,0,3,ocultamiento,P021_1,,
+DCSASS,Shoplifting021_x264,Shoplifting021_x264_24.mp4,Shoplifting021_x264_24,0,3,ocultamiento,P021_1,,
+DCSASS,Shoplifting021_x264,Shoplifting021_x264_25.mp4,Shoplifting021_x264_25,0,3,sin_ocultamiento,P021_1,,
+DCSASS,Shoplifting021_x264,Shoplifting021_x264_26.mp4,Shoplifting021_x264_26,0,3,sin_ocultamiento,P021_1,,
+DCSASS,Shoplifting021_x264,Shoplifting021_x264_27.mp4,Shoplifting021_x264_27,0,3,sin_ocultamiento,P021_1,,
+DCSASS,Shoplifting021_x264,Shoplifting021_x264_28.mp4,Shoplifting021_x264_28,0,3,sin_ocultamiento,P021_1,,
+DCSASS,Shoplifting021_x264,Shoplifting021_x264_29.mp4,Shoplifting021_x264_29,0,3,sin_ocultamiento,P021_1,,
+DCSASS,Shoplifting021_x264,Shoplifting021_x264_30.mp4,Shoplifting021_x264_30,0,3,sin_ocultamiento,P021_1,,
+DCSASS,Shoplifting021_x264,Shoplifting021_x264_31.mp4,Shoplifting021_x264_31,0,3,sin_ocultamiento,P021_1,,
+DCSASS,Shoplifting022_x264,Shoplifting022_x264_0.mp4,Shoplifting022_x264_0,0,3,sin_ocultamiento,PNA,,
+DCSASS,Shoplifting022_x264,Shoplifting022_x264_1.mp4,Shoplifting022_x264_1,0,3,sin_ocultamiento,PNA,,
+DCSASS,Shoplifting022_x264,Shoplifting022_x264_2.mp4,Shoplifting022_x264_2,0,3,sin_ocultamiento,PNA,,
+DCSASS,Shoplifting022_x264,Shoplifting022_x264_3.mp4,Shoplifting022_x264_3,0,3,sin_ocultamiento,P022_1,,
+DCSASS,Shoplifting022_x264,Shoplifting022_x264_4.mp4,Shoplifting022_x264_4,0,3,sin_ocultamiento,P022_1,,
+DCSASS,Shoplifting022_x264,Shoplifting022_x264_5.mp4,Shoplifting022_x264_5,0,3,ocultamiento,P022_1,,
+DCSASS,Shoplifting022_x264,Shoplifting022_x264_6.mp4,Shoplifting022_x264_6,0,3,ocultamiento,P022_1,,
+DCSASS,Shoplifting022_x264,Shoplifting022_x264_7.mp4,Shoplifting022_x264_7,0,3,sin_ocultamiento,P022_1,,
+DCSASS,Shoplifting022_x264,Shoplifting022_x264_8.mp4,Shoplifting022_x264_8,0,3,sin_ocultamiento,P022_1,,
+DCSASS,Shoplifting022_x264,Shoplifting022_x264_9.mp4,Shoplifting022_x264_9,0,3,sin_ocultamiento,P022_1,,
+DCSASS,Shoplifting022_x264,Shoplifting022_x264_10.mp4,Shoplifting022_x264_10,0,3,sin_ocultamiento,P022_1,,
+DCSASS,Shoplifting022_x264,Shoplifting022_x264_11.mp4,Shoplifting022_x264_11,0,3,sin_ocultamiento,P022_1,,
+DCSASS,Shoplifting022_x264,Shoplifting022_x264_12.mp4,Shoplifting022_x264_12,0,3,sin_ocultamiento,P022_1,,
+DCSASS,Shoplifting022_x264,Shoplifting022_x264_13.mp4,Shoplifting022_x264_13,0,3,sin_ocultamiento,P022_1,,
+DCSASS,Shoplifting022_x264,Shoplifting022_x264_14.mp4,Shoplifting022_x264_14,0,3,sin_ocultamiento,P022_1,,
+DCSASS,Shoplifting022_x264,Shoplifting022_x264_15.mp4,Shoplifting022_x264_15,0,3,sin_ocultamiento,P022_1,,
+DCSASS,Shoplifting022_x264,Shoplifting022_x264_16.mp4,Shoplifting022_x264_16,0,3,sin_ocultamiento,P022_1,,
+DCSASS,Shoplifting022_x264,Shoplifting022_x264_17.mp4,Shoplifting022_x264_17,0,3,sin_ocultamiento,P022_1,,
+DCSASS,Shoplifting022_x264,Shoplifting022_x264_18.mp4,Shoplifting022_x264_18,0,3,sin_ocultamiento,P022_1,,
+DCSASS,Shoplifting022_x264,Shoplifting022_x264_19.mp4,Shoplifting022_x264_19,0,3,sin_ocultamiento,P022_1,,
+DCSASS,Shoplifting022_x264,Shoplifting022_x264_20.mp4,Shoplifting022_x264_20,0,3,sin_ocultamiento,P022_1,,
+DCSASS,Shoplifting022_x264,Shoplifting022_x264_21.mp4,Shoplifting022_x264_21,0,3,sin_ocultamiento,P022_1,,
+DCSASS,Shoplifting022_x264,Shoplifting022_x264_22.mp4,Shoplifting022_x264_22,0,3,sin_ocultamiento,P022_1,,
+DCSASS,Shoplifting022_x264,Shoplifting022_x264_23.mp4,Shoplifting022_x264_23,0,3,sin_ocultamiento,P022_1,,
+DCSASS,Shoplifting022_x264,Shoplifting022_x264_24.mp4,Shoplifting022_x264_24,0,3,sin_ocultamiento,P022_1,,
+DCSASS,Shoplifting022_x264,Shoplifting022_x264_25.mp4,Shoplifting022_x264_25,0,3,sin_ocultamiento,P022_1,,
+DCSASS,Shoplifting022_x264,Shoplifting022_x264_26.mp4,Shoplifting022_x264_26,0,3,sin_ocultamiento,P022_1,,
+DCSASS,Shoplifting022_x264,Shoplifting022_x264_27.mp4,Shoplifting022_x264_27,0,3,sin_ocultamiento,P022_1,,
+DCSASS,Shoplifting022_x264,Shoplifting022_x264_28.mp4,Shoplifting022_x264_28,0,3,sin_ocultamiento,P022_1,,
+DCSASS,Shoplifting022_x264,Shoplifting022_x264_29.mp4,Shoplifting022_x264_29,0,3,sin_ocultamiento,P022_1,,
+DCSASS,Shoplifting022_x264,Shoplifting022_x264_30.mp4,Shoplifting022_x264_30,0,3,sin_ocultamiento,P022_1,,
+DCSASS,Shoplifting022_x264,Shoplifting022_x264_31.mp4,Shoplifting022_x264_31,0,3,sin_ocultamiento,P022_1,,
+DCSASS,Shoplifting024_x264,Shoplifting024_x264_0.mp4,Shoplifting024_x264_0,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting024_x264,Shoplifting024_x264_1.mp4,Shoplifting024_x264_1,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting024_x264,Shoplifting024_x264_2.mp4,Shoplifting024_x264_2,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting024_x264,Shoplifting024_x264_3.mp4,Shoplifting024_x264_3,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting024_x264,Shoplifting024_x264_4.mp4,Shoplifting024_x264_4,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting024_x264,Shoplifting024_x264_5.mp4,Shoplifting024_x264_5,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting024_x264,Shoplifting024_x264_6.mp4,Shoplifting024_x264_6,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting024_x264,Shoplifting024_x264_7.mp4,Shoplifting024_x264_7,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting024_x264,Shoplifting024_x264_8.mp4,Shoplifting024_x264_8,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting024_x264,Shoplifting024_x264_9.mp4,Shoplifting024_x264_9,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting024_x264,Shoplifting024_x264_10.mp4,Shoplifting024_x264_10,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting024_x264,Shoplifting024_x264_11.mp4,Shoplifting024_x264_11,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting024_x264,Shoplifting024_x264_12.mp4,Shoplifting024_x264_12,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting024_x264,Shoplifting024_x264_13.mp4,Shoplifting024_x264_13,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting024_x264,Shoplifting024_x264_14.mp4,Shoplifting024_x264_14,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting024_x264,Shoplifting024_x264_15.mp4,Shoplifting024_x264_15,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting024_x264,Shoplifting024_x264_16.mp4,Shoplifting024_x264_16,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting024_x264,Shoplifting024_x264_17.mp4,Shoplifting024_x264_17,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting024_x264,Shoplifting024_x264_18.mp4,Shoplifting024_x264_18,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting024_x264,Shoplifting024_x264_19.mp4,Shoplifting024_x264_19,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting024_x264,Shoplifting024_x264_20.mp4,Shoplifting024_x264_20,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting024_x264,Shoplifting024_x264_21.mp4,Shoplifting024_x264_21,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting024_x264,Shoplifting024_x264_22.mp4,Shoplifting024_x264_22,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting024_x264,Shoplifting024_x264_23.mp4,Shoplifting024_x264_23,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting024_x264,Shoplifting024_x264_24.mp4,Shoplifting024_x264_24,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting024_x264,Shoplifting024_x264_25.mp4,Shoplifting024_x264_25,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting024_x264,Shoplifting024_x264_26.mp4,Shoplifting024_x264_26,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting024_x264,Shoplifting024_x264_27.mp4,Shoplifting024_x264_27,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting024_x264,Shoplifting024_x264_28.mp4,Shoplifting024_x264_28,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting024_x264,Shoplifting024_x264_29.mp4,Shoplifting024_x264_29,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting024_x264,Shoplifting024_x264_30.mp4,Shoplifting024_x264_30,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting024_x264,Shoplifting024_x264_31.mp4,Shoplifting024_x264_31,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting025_x264,Shoplifting025_x264_0.mp4,Shoplifting025_x264_0,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting025_x264,Shoplifting025_x264_1.mp4,Shoplifting025_x264_1,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting025_x264,Shoplifting025_x264_2.mp4,Shoplifting025_x264_2,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting025_x264,Shoplifting025_x264_3.mp4,Shoplifting025_x264_3,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting025_x264,Shoplifting025_x264_4.mp4,Shoplifting025_x264_4,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting025_x264,Shoplifting025_x264_5.mp4,Shoplifting025_x264_5,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting025_x264,Shoplifting025_x264_6.mp4,Shoplifting025_x264_6,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting025_x264,Shoplifting025_x264_7.mp4,Shoplifting025_x264_7,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting025_x264,Shoplifting025_x264_8.mp4,Shoplifting025_x264_8,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting025_x264,Shoplifting025_x264_9.mp4,Shoplifting025_x264_9,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting025_x264,Shoplifting025_x264_10.mp4,Shoplifting025_x264_10,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting025_x264,Shoplifting025_x264_11.mp4,Shoplifting025_x264_11,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting025_x264,Shoplifting025_x264_12.mp4,Shoplifting025_x264_12,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting025_x264,Shoplifting025_x264_13.mp4,Shoplifting025_x264_13,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting025_x264,Shoplifting025_x264_14.mp4,Shoplifting025_x264_14,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting025_x264,Shoplifting025_x264_15.mp4,Shoplifting025_x264_15,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting025_x264,Shoplifting025_x264_16.mp4,Shoplifting025_x264_16,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting025_x264,Shoplifting025_x264_17.mp4,Shoplifting025_x264_17,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting025_x264,Shoplifting025_x264_18.mp4,Shoplifting025_x264_18,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting025_x264,Shoplifting025_x264_19.mp4,Shoplifting025_x264_19,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting025_x264,Shoplifting025_x264_20.mp4,Shoplifting025_x264_20,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting025_x264,Shoplifting025_x264_21.mp4,Shoplifting025_x264_21,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting025_x264,Shoplifting025_x264_22.mp4,Shoplifting025_x264_22,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting025_x264,Shoplifting025_x264_23.mp4,Shoplifting025_x264_23,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting025_x264,Shoplifting025_x264_24.mp4,Shoplifting025_x264_24,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting025_x264,Shoplifting025_x264_25.mp4,Shoplifting025_x264_25,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting025_x264,Shoplifting025_x264_26.mp4,Shoplifting025_x264_26,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting025_x264,Shoplifting025_x264_27.mp4,Shoplifting025_x264_27,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting025_x264,Shoplifting025_x264_28.mp4,Shoplifting025_x264_28,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting025_x264,Shoplifting025_x264_29.mp4,Shoplifting025_x264_29,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting025_x264,Shoplifting025_x264_30.mp4,Shoplifting025_x264_30,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting025_x264,Shoplifting025_x264_31.mp4,Shoplifting025_x264_31,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting026_x264,Shoplifting026_x264_0.mp4,Shoplifting026_x264_0,0,3,sin_ocultamiento,P026_1,,
+DCSASS,Shoplifting026_x264,Shoplifting026_x264_1.mp4,Shoplifting026_x264_1,0,3,sin_ocultamiento,P026_1,,
+DCSASS,Shoplifting026_x264,Shoplifting026_x264_2.mp4,Shoplifting026_x264_2,0,3,sin_ocultamiento,P026_1,,
+DCSASS,Shoplifting026_x264,Shoplifting026_x264_3.mp4,Shoplifting026_x264_3,0,3,sin_ocultamiento,P026_1,,
+DCSASS,Shoplifting026_x264,Shoplifting026_x264_4.mp4,Shoplifting026_x264_4,0,3,sin_ocultamiento,P026_1,,
+DCSASS,Shoplifting026_x264,Shoplifting026_x264_5.mp4,Shoplifting026_x264_5,0,3,sin_ocultamiento,P026_1,,
+DCSASS,Shoplifting026_x264,Shoplifting026_x264_6.mp4,Shoplifting026_x264_6,0,3,sin_ocultamiento,P026_1,,
+DCSASS,Shoplifting026_x264,Shoplifting026_x264_7.mp4,Shoplifting026_x264_7,0,3,sin_ocultamiento,P026_1,,
+DCSASS,Shoplifting026_x264,Shoplifting026_x264_8.mp4,Shoplifting026_x264_8,0,3,sin_ocultamiento,P026_1,,
+DCSASS,Shoplifting026_x264,Shoplifting026_x264_9.mp4,Shoplifting026_x264_9,0,3,ocultamiento,P026_1,,
+DCSASS,Shoplifting026_x264,Shoplifting026_x264_10.mp4,Shoplifting026_x264_10,0,3,ocultamiento,P026_1,,
+DCSASS,Shoplifting026_x264,Shoplifting026_x264_11.mp4,Shoplifting026_x264_11,0,3,sin_ocultamiento,P026_1,,
+DCSASS,Shoplifting026_x264,Shoplifting026_x264_12.mp4,Shoplifting026_x264_12,0,3,sin_ocultamiento,P026_1,,
+DCSASS,Shoplifting026_x264,Shoplifting026_x264_13.mp4,Shoplifting026_x264_13,0,3,sin_ocultamiento,P026_1,,
+DCSASS,Shoplifting026_x264,Shoplifting026_x264_14.mp4,Shoplifting026_x264_14,0,3,sin_ocultamiento,P026_1,,
+DCSASS,Shoplifting026_x264,Shoplifting026_x264_15.mp4,Shoplifting026_x264_15,0,3,sin_ocultamiento,P026_1,,
+DCSASS,Shoplifting026_x264,Shoplifting026_x264_16.mp4,Shoplifting026_x264_16,0,3,sin_ocultamiento,P026_1,,
+DCSASS,Shoplifting026_x264,Shoplifting026_x264_17.mp4,Shoplifting026_x264_17,0,3,sin_ocultamiento,P026_1,,
+DCSASS,Shoplifting026_x264,Shoplifting026_x264_18.mp4,Shoplifting026_x264_18,0,3,sin_ocultamiento,P026_1,,
+DCSASS,Shoplifting026_x264,Shoplifting026_x264_19.mp4,Shoplifting026_x264_19,0,3,sin_ocultamiento,P026_1,,
+DCSASS,Shoplifting026_x264,Shoplifting026_x264_20.mp4,Shoplifting026_x264_20,0,3,sin_ocultamiento,P026_1,,
+DCSASS,Shoplifting026_x264,Shoplifting026_x264_21.mp4,Shoplifting026_x264_21,0,3,sin_ocultamiento,P026_1,,
+DCSASS,Shoplifting026_x264,Shoplifting026_x264_22.mp4,Shoplifting026_x264_22,0,3,sin_ocultamiento,P026_1,,
+DCSASS,Shoplifting026_x264,Shoplifting026_x264_23.mp4,Shoplifting026_x264_23,0,3,sin_ocultamiento,P026_1,,
+DCSASS,Shoplifting026_x264,Shoplifting026_x264_24.mp4,Shoplifting026_x264_24,0,3,sin_ocultamiento,P026_1,,
+DCSASS,Shoplifting026_x264,Shoplifting026_x264_25.mp4,Shoplifting026_x264_25,0,3,ocultamiento,P026_1,,
+DCSASS,Shoplifting026_x264,Shoplifting026_x264_26.mp4,Shoplifting026_x264_26,0,3,ocultamiento,P026_1,,
+DCSASS,Shoplifting026_x264,Shoplifting026_x264_27.mp4,Shoplifting026_x264_27,0,3,ocultamiento,P026_1,,
+DCSASS,Shoplifting026_x264,Shoplifting026_x264_28.mp4,Shoplifting026_x264_28,0,3,sin_ocultamiento,P026_1,,
+DCSASS,Shoplifting026_x264,Shoplifting026_x264_29.mp4,Shoplifting026_x264_29,0,3,sin_ocultamiento,P026_1,,
+DCSASS,Shoplifting026_x264,Shoplifting026_x264_30.mp4,Shoplifting026_x264_30,0,3,sin_ocultamiento,P026_1,,
+DCSASS,Shoplifting026_x264,Shoplifting026_x264_31.mp4,Shoplifting026_x264_31,0,3,sin_ocultamiento,P026_1,,
+DCSASS,Shoplifting032_x264,Shoplifting032_x264_0.mp4,Shoplifting032_x264_0,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting032_x264,Shoplifting032_x264_1.mp4,Shoplifting032_x264_1,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting032_x264,Shoplifting032_x264_2.mp4,Shoplifting032_x264_2,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting032_x264,Shoplifting032_x264_3.mp4,Shoplifting032_x264_3,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting032_x264,Shoplifting032_x264_4.mp4,Shoplifting032_x264_4,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting032_x264,Shoplifting032_x264_5.mp4,Shoplifting032_x264_5,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting032_x264,Shoplifting032_x264_6.mp4,Shoplifting032_x264_6,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting032_x264,Shoplifting032_x264_7.mp4,Shoplifting032_x264_7,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting032_x264,Shoplifting032_x264_8.mp4,Shoplifting032_x264_8,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting032_x264,Shoplifting032_x264_9.mp4,Shoplifting032_x264_9,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting032_x264,Shoplifting032_x264_10.mp4,Shoplifting032_x264_10,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting032_x264,Shoplifting032_x264_11.mp4,Shoplifting032_x264_11,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting032_x264,Shoplifting032_x264_12.mp4,Shoplifting032_x264_12,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting032_x264,Shoplifting032_x264_13.mp4,Shoplifting032_x264_13,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting032_x264,Shoplifting032_x264_14.mp4,Shoplifting032_x264_14,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting032_x264,Shoplifting032_x264_15.mp4,Shoplifting032_x264_15,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting032_x264,Shoplifting032_x264_16.mp4,Shoplifting032_x264_16,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting032_x264,Shoplifting032_x264_17.mp4,Shoplifting032_x264_17,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting032_x264,Shoplifting032_x264_18.mp4,Shoplifting032_x264_18,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting032_x264,Shoplifting032_x264_19.mp4,Shoplifting032_x264_19,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting032_x264,Shoplifting032_x264_20.mp4,Shoplifting032_x264_20,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting032_x264,Shoplifting032_x264_21.mp4,Shoplifting032_x264_21,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting032_x264,Shoplifting032_x264_22.mp4,Shoplifting032_x264_22,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting032_x264,Shoplifting032_x264_23.mp4,Shoplifting032_x264_23,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting032_x264,Shoplifting032_x264_24.mp4,Shoplifting032_x264_24,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting032_x264,Shoplifting032_x264_25.mp4,Shoplifting032_x264_25,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting032_x264,Shoplifting032_x264_26.mp4,Shoplifting032_x264_26,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting032_x264,Shoplifting032_x264_27.mp4,Shoplifting032_x264_27,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting032_x264,Shoplifting032_x264_28.mp4,Shoplifting032_x264_28,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting032_x264,Shoplifting032_x264_29.mp4,Shoplifting032_x264_29,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting032_x264,Shoplifting032_x264_30.mp4,Shoplifting032_x264_30,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting032_x264,Shoplifting032_x264_31.mp4,Shoplifting032_x264_31,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting036_x264,Shoplifting036_x264_0.mp4,Shoplifting036_x264_0,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting036_x264,Shoplifting036_x264_1.mp4,Shoplifting036_x264_1,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting036_x264,Shoplifting036_x264_2.mp4,Shoplifting036_x264_2,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting036_x264,Shoplifting036_x264_3.mp4,Shoplifting036_x264_3,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting036_x264,Shoplifting036_x264_4.mp4,Shoplifting036_x264_4,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting036_x264,Shoplifting036_x264_5.mp4,Shoplifting036_x264_5,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting036_x264,Shoplifting036_x264_6.mp4,Shoplifting036_x264_6,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting036_x264,Shoplifting036_x264_7.mp4,Shoplifting036_x264_7,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting036_x264,Shoplifting036_x264_8.mp4,Shoplifting036_x264_8,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting036_x264,Shoplifting036_x264_9.mp4,Shoplifting036_x264_9,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting036_x264,Shoplifting036_x264_10.mp4,Shoplifting036_x264_10,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting036_x264,Shoplifting036_x264_11.mp4,Shoplifting036_x264_11,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting036_x264,Shoplifting036_x264_12.mp4,Shoplifting036_x264_12,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting036_x264,Shoplifting036_x264_13.mp4,Shoplifting036_x264_13,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting036_x264,Shoplifting036_x264_14.mp4,Shoplifting036_x264_14,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting036_x264,Shoplifting036_x264_15.mp4,Shoplifting036_x264_15,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting036_x264,Shoplifting036_x264_16.mp4,Shoplifting036_x264_16,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting036_x264,Shoplifting036_x264_17.mp4,Shoplifting036_x264_17,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting036_x264,Shoplifting036_x264_18.mp4,Shoplifting036_x264_18,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting036_x264,Shoplifting036_x264_19.mp4,Shoplifting036_x264_19,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting036_x264,Shoplifting036_x264_20.mp4,Shoplifting036_x264_20,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting036_x264,Shoplifting036_x264_21.mp4,Shoplifting036_x264_21,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting036_x264,Shoplifting036_x264_22.mp4,Shoplifting036_x264_22,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting036_x264,Shoplifting036_x264_23.mp4,Shoplifting036_x264_23,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting036_x264,Shoplifting036_x264_24.mp4,Shoplifting036_x264_24,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting036_x264,Shoplifting036_x264_25.mp4,Shoplifting036_x264_25,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting036_x264,Shoplifting036_x264_26.mp4,Shoplifting036_x264_26,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting036_x264,Shoplifting036_x264_27.mp4,Shoplifting036_x264_27,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting036_x264,Shoplifting036_x264_28.mp4,Shoplifting036_x264_28,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting036_x264,Shoplifting036_x264_29.mp4,Shoplifting036_x264_29,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting036_x264,Shoplifting036_x264_30.mp4,Shoplifting036_x264_30,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting036_x264,Shoplifting036_x264_31.mp4,Shoplifting036_x264_31,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting037_x264,Shoplifting037_x264_0.mp4,Shoplifting037_x264_0,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting037_x264,Shoplifting037_x264_1.mp4,Shoplifting037_x264_1,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting037_x264,Shoplifting037_x264_2.mp4,Shoplifting037_x264_2,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting037_x264,Shoplifting037_x264_3.mp4,Shoplifting037_x264_3,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting037_x264,Shoplifting037_x264_4.mp4,Shoplifting037_x264_4,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting037_x264,Shoplifting037_x264_5.mp4,Shoplifting037_x264_5,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting037_x264,Shoplifting037_x264_6.mp4,Shoplifting037_x264_6,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting037_x264,Shoplifting037_x264_7.mp4,Shoplifting037_x264_7,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting037_x264,Shoplifting037_x264_8.mp4,Shoplifting037_x264_8,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting037_x264,Shoplifting037_x264_9.mp4,Shoplifting037_x264_9,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting037_x264,Shoplifting037_x264_10.mp4,Shoplifting037_x264_10,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting037_x264,Shoplifting037_x264_11.mp4,Shoplifting037_x264_11,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting037_x264,Shoplifting037_x264_12.mp4,Shoplifting037_x264_12,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting037_x264,Shoplifting037_x264_13.mp4,Shoplifting037_x264_13,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting037_x264,Shoplifting037_x264_14.mp4,Shoplifting037_x264_14,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting037_x264,Shoplifting037_x264_15.mp4,Shoplifting037_x264_15,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting037_x264,Shoplifting037_x264_16.mp4,Shoplifting037_x264_16,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting037_x264,Shoplifting037_x264_17.mp4,Shoplifting037_x264_17,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting037_x264,Shoplifting037_x264_18.mp4,Shoplifting037_x264_18,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting037_x264,Shoplifting037_x264_19.mp4,Shoplifting037_x264_19,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting037_x264,Shoplifting037_x264_20.mp4,Shoplifting037_x264_20,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting037_x264,Shoplifting037_x264_21.mp4,Shoplifting037_x264_21,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting037_x264,Shoplifting037_x264_22.mp4,Shoplifting037_x264_22,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting037_x264,Shoplifting037_x264_23.mp4,Shoplifting037_x264_23,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting037_x264,Shoplifting037_x264_24.mp4,Shoplifting037_x264_24,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting037_x264,Shoplifting037_x264_25.mp4,Shoplifting037_x264_25,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting037_x264,Shoplifting037_x264_26.mp4,Shoplifting037_x264_26,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting037_x264,Shoplifting037_x264_27.mp4,Shoplifting037_x264_27,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting037_x264,Shoplifting037_x264_28.mp4,Shoplifting037_x264_28,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting037_x264,Shoplifting037_x264_29.mp4,Shoplifting037_x264_29,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting037_x264,Shoplifting037_x264_30.mp4,Shoplifting037_x264_30,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting037_x264,Shoplifting037_x264_31.mp4,Shoplifting037_x264_31,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting038_x264,Shoplifting038_x264_0.mp4,Shoplifting038_x264_0,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting038_x264,Shoplifting038_x264_1.mp4,Shoplifting038_x264_1,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting038_x264,Shoplifting038_x264_2.mp4,Shoplifting038_x264_2,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting038_x264,Shoplifting038_x264_3.mp4,Shoplifting038_x264_3,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting038_x264,Shoplifting038_x264_4.mp4,Shoplifting038_x264_4,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting038_x264,Shoplifting038_x264_5.mp4,Shoplifting038_x264_5,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting038_x264,Shoplifting038_x264_6.mp4,Shoplifting038_x264_6,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting038_x264,Shoplifting038_x264_7.mp4,Shoplifting038_x264_7,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting038_x264,Shoplifting038_x264_8.mp4,Shoplifting038_x264_8,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting038_x264,Shoplifting038_x264_9.mp4,Shoplifting038_x264_9,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting038_x264,Shoplifting038_x264_10.mp4,Shoplifting038_x264_10,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting038_x264,Shoplifting038_x264_11.mp4,Shoplifting038_x264_11,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting038_x264,Shoplifting038_x264_12.mp4,Shoplifting038_x264_12,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting038_x264,Shoplifting038_x264_13.mp4,Shoplifting038_x264_13,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting038_x264,Shoplifting038_x264_14.mp4,Shoplifting038_x264_14,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting038_x264,Shoplifting038_x264_15.mp4,Shoplifting038_x264_15,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting038_x264,Shoplifting038_x264_16.mp4,Shoplifting038_x264_16,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting038_x264,Shoplifting038_x264_17.mp4,Shoplifting038_x264_17,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting038_x264,Shoplifting038_x264_18.mp4,Shoplifting038_x264_18,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting038_x264,Shoplifting038_x264_19.mp4,Shoplifting038_x264_19,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting038_x264,Shoplifting038_x264_20.mp4,Shoplifting038_x264_20,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting038_x264,Shoplifting038_x264_21.mp4,Shoplifting038_x264_21,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting038_x264,Shoplifting038_x264_22.mp4,Shoplifting038_x264_22,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting038_x264,Shoplifting038_x264_23.mp4,Shoplifting038_x264_23,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting038_x264,Shoplifting038_x264_24.mp4,Shoplifting038_x264_24,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting038_x264,Shoplifting038_x264_25.mp4,Shoplifting038_x264_25,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting038_x264,Shoplifting038_x264_26.mp4,Shoplifting038_x264_26,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting038_x264,Shoplifting038_x264_27.mp4,Shoplifting038_x264_27,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting038_x264,Shoplifting038_x264_28.mp4,Shoplifting038_x264_28,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting038_x264,Shoplifting038_x264_29.mp4,Shoplifting038_x264_29,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting038_x264,Shoplifting038_x264_30.mp4,Shoplifting038_x264_30,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting038_x264,Shoplifting038_x264_31.mp4,Shoplifting038_x264_31,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting039_x264,Shoplifting039_x264_0.mp4,Shoplifting039_x264_0,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting039_x264,Shoplifting039_x264_1.mp4,Shoplifting039_x264_1,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting039_x264,Shoplifting039_x264_2.mp4,Shoplifting039_x264_2,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting039_x264,Shoplifting039_x264_3.mp4,Shoplifting039_x264_3,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting039_x264,Shoplifting039_x264_4.mp4,Shoplifting039_x264_4,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting039_x264,Shoplifting039_x264_5.mp4,Shoplifting039_x264_5,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting039_x264,Shoplifting039_x264_6.mp4,Shoplifting039_x264_6,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting039_x264,Shoplifting039_x264_7.mp4,Shoplifting039_x264_7,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting039_x264,Shoplifting039_x264_8.mp4,Shoplifting039_x264_8,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting039_x264,Shoplifting039_x264_9.mp4,Shoplifting039_x264_9,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting039_x264,Shoplifting039_x264_10.mp4,Shoplifting039_x264_10,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting039_x264,Shoplifting039_x264_11.mp4,Shoplifting039_x264_11,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting039_x264,Shoplifting039_x264_12.mp4,Shoplifting039_x264_12,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting039_x264,Shoplifting039_x264_13.mp4,Shoplifting039_x264_13,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting039_x264,Shoplifting039_x264_14.mp4,Shoplifting039_x264_14,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting039_x264,Shoplifting039_x264_15.mp4,Shoplifting039_x264_15,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting039_x264,Shoplifting039_x264_16.mp4,Shoplifting039_x264_16,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting039_x264,Shoplifting039_x264_17.mp4,Shoplifting039_x264_17,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting039_x264,Shoplifting039_x264_18.mp4,Shoplifting039_x264_18,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting039_x264,Shoplifting039_x264_19.mp4,Shoplifting039_x264_19,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting039_x264,Shoplifting039_x264_20.mp4,Shoplifting039_x264_20,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting039_x264,Shoplifting039_x264_21.mp4,Shoplifting039_x264_21,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting039_x264,Shoplifting039_x264_22.mp4,Shoplifting039_x264_22,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting039_x264,Shoplifting039_x264_23.mp4,Shoplifting039_x264_23,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting039_x264,Shoplifting039_x264_24.mp4,Shoplifting039_x264_24,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting039_x264,Shoplifting039_x264_25.mp4,Shoplifting039_x264_25,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting039_x264,Shoplifting039_x264_26.mp4,Shoplifting039_x264_26,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting039_x264,Shoplifting039_x264_27.mp4,Shoplifting039_x264_27,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting039_x264,Shoplifting039_x264_28.mp4,Shoplifting039_x264_28,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting039_x264,Shoplifting039_x264_29.mp4,Shoplifting039_x264_29,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting039_x264,Shoplifting039_x264_30.mp4,Shoplifting039_x264_30,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting039_x264,Shoplifting039_x264_31.mp4,Shoplifting039_x264_31,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting042_x264,Shoplifting042_x264_0.mp4,Shoplifting042_x264_0,0,3,sin_ocultamiento,P042_1,,
+DCSASS,Shoplifting042_x264,Shoplifting042_x264_1.mp4,Shoplifting042_x264_1,0,3,sin_ocultamiento,P042_1,,
+DCSASS,Shoplifting042_x264,Shoplifting042_x264_2.mp4,Shoplifting042_x264_2,0,3,sin_ocultamiento,P042_1,,
+DCSASS,Shoplifting042_x264,Shoplifting042_x264_3.mp4,Shoplifting042_x264_3,0,3,sin_ocultamiento,P042_1,,
+DCSASS,Shoplifting042_x264,Shoplifting042_x264_4.mp4,Shoplifting042_x264_4,0,3,sin_ocultamiento,P042_1,,
+DCSASS,Shoplifting042_x264,Shoplifting042_x264_5.mp4,Shoplifting042_x264_5,0,3,sin_ocultamiento,P042_1,,
+DCSASS,Shoplifting042_x264,Shoplifting042_x264_6.mp4,Shoplifting042_x264_6,0,3,sin_ocultamiento,P042_1,,
+DCSASS,Shoplifting042_x264,Shoplifting042_x264_7.mp4,Shoplifting042_x264_7,0,3,sin_ocultamiento,P042_1,,
+DCSASS,Shoplifting042_x264,Shoplifting042_x264_8.mp4,Shoplifting042_x264_8,0,3,sin_ocultamiento,P042_1,,
+DCSASS,Shoplifting042_x264,Shoplifting042_x264_9.mp4,Shoplifting042_x264_9,0,3,sin_ocultamiento,P042_1,,
+DCSASS,Shoplifting042_x264,Shoplifting042_x264_10.mp4,Shoplifting042_x264_10,0,3,sin_ocultamiento,P042_1,,
+DCSASS,Shoplifting042_x264,Shoplifting042_x264_11.mp4,Shoplifting042_x264_11,0,3,sin_ocultamiento,P042_1,,
+DCSASS,Shoplifting042_x264,Shoplifting042_x264_12.mp4,Shoplifting042_x264_12,0,3,sin_ocultamiento,P042_1,,
+DCSASS,Shoplifting042_x264,Shoplifting042_x264_13.mp4,Shoplifting042_x264_13,0,3,sin_ocultamiento,P042_1,,
+DCSASS,Shoplifting042_x264,Shoplifting042_x264_14.mp4,Shoplifting042_x264_14,0,3,sin_ocultamiento,P042_1,,
+DCSASS,Shoplifting042_x264,Shoplifting042_x264_15.mp4,Shoplifting042_x264_15,0,3,sin_ocultamiento,P042_1,,
+DCSASS,Shoplifting042_x264,Shoplifting042_x264_16.mp4,Shoplifting042_x264_16,0,3,sin_ocultamiento,P042_1,,
+DCSASS,Shoplifting042_x264,Shoplifting042_x264_17.mp4,Shoplifting042_x264_17,0,3,sin_ocultamiento,P042_1,,
+DCSASS,Shoplifting042_x264,Shoplifting042_x264_18.mp4,Shoplifting042_x264_18,0,3,ocultamiento,P042_1,,
+DCSASS,Shoplifting042_x264,Shoplifting042_x264_19.mp4,Shoplifting042_x264_19,0,3,ocultamiento,P042_1,,
+DCSASS,Shoplifting042_x264,Shoplifting042_x264_20.mp4,Shoplifting042_x264_20,0,3,sin_ocultamiento,P042_1,,
+DCSASS,Shoplifting042_x264,Shoplifting042_x264_21.mp4,Shoplifting042_x264_21,0,3,sin_ocultamiento,P042_1,,
+DCSASS,Shoplifting042_x264,Shoplifting042_x264_22.mp4,Shoplifting042_x264_22,0,3,sin_ocultamiento,P042_1,,
+DCSASS,Shoplifting042_x264,Shoplifting042_x264_23.mp4,Shoplifting042_x264_23,0,3,sin_ocultamiento,P042_1,,
+DCSASS,Shoplifting042_x264,Shoplifting042_x264_24.mp4,Shoplifting042_x264_24,0,3,sin_ocultamiento,P042_1,,
+DCSASS,Shoplifting042_x264,Shoplifting042_x264_25.mp4,Shoplifting042_x264_25,0,3,sin_ocultamiento,P042_1,,
+DCSASS,Shoplifting042_x264,Shoplifting042_x264_26.mp4,Shoplifting042_x264_26,0,3,sin_ocultamiento,P042_1,,
+DCSASS,Shoplifting042_x264,Shoplifting042_x264_27.mp4,Shoplifting042_x264_27,0,3,sin_ocultamiento,P042_1,,
+DCSASS,Shoplifting042_x264,Shoplifting042_x264_28.mp4,Shoplifting042_x264_28,0,3,sin_ocultamiento,P042_1,,
+DCSASS,Shoplifting042_x264,Shoplifting042_x264_29.mp4,Shoplifting042_x264_29,0,3,sin_ocultamiento,P042_1,,
+DCSASS,Shoplifting042_x264,Shoplifting042_x264_30.mp4,Shoplifting042_x264_30,0,3,sin_ocultamiento,P042_1,,
+DCSASS,Shoplifting042_x264,Shoplifting042_x264_31.mp4,Shoplifting042_x264_31,0,3,sin_ocultamiento,P042_1,,
+DCSASS,Shoplifting045_x264,Shoplifting045_x264_0.mp4,Shoplifting045_x264_0,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting045_x264,Shoplifting045_x264_1.mp4,Shoplifting045_x264_1,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting045_x264,Shoplifting045_x264_2.mp4,Shoplifting045_x264_2,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting045_x264,Shoplifting045_x264_3.mp4,Shoplifting045_x264_3,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting045_x264,Shoplifting045_x264_4.mp4,Shoplifting045_x264_4,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting045_x264,Shoplifting045_x264_5.mp4,Shoplifting045_x264_5,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting045_x264,Shoplifting045_x264_6.mp4,Shoplifting045_x264_6,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting045_x264,Shoplifting045_x264_7.mp4,Shoplifting045_x264_7,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting045_x264,Shoplifting045_x264_8.mp4,Shoplifting045_x264_8,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting045_x264,Shoplifting045_x264_9.mp4,Shoplifting045_x264_9,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting045_x264,Shoplifting045_x264_10.mp4,Shoplifting045_x264_10,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting045_x264,Shoplifting045_x264_11.mp4,Shoplifting045_x264_11,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting045_x264,Shoplifting045_x264_12.mp4,Shoplifting045_x264_12,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting045_x264,Shoplifting045_x264_13.mp4,Shoplifting045_x264_13,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting045_x264,Shoplifting045_x264_14.mp4,Shoplifting045_x264_14,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting045_x264,Shoplifting045_x264_15.mp4,Shoplifting045_x264_15,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting045_x264,Shoplifting045_x264_16.mp4,Shoplifting045_x264_16,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting045_x264,Shoplifting045_x264_17.mp4,Shoplifting045_x264_17,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting045_x264,Shoplifting045_x264_18.mp4,Shoplifting045_x264_18,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting045_x264,Shoplifting045_x264_19.mp4,Shoplifting045_x264_19,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting045_x264,Shoplifting045_x264_20.mp4,Shoplifting045_x264_20,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting045_x264,Shoplifting045_x264_21.mp4,Shoplifting045_x264_21,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting045_x264,Shoplifting045_x264_22.mp4,Shoplifting045_x264_22,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting045_x264,Shoplifting045_x264_23.mp4,Shoplifting045_x264_23,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting045_x264,Shoplifting045_x264_24.mp4,Shoplifting045_x264_24,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting045_x264,Shoplifting045_x264_25.mp4,Shoplifting045_x264_25,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting045_x264,Shoplifting045_x264_26.mp4,Shoplifting045_x264_26,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting045_x264,Shoplifting045_x264_27.mp4,Shoplifting045_x264_27,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting045_x264,Shoplifting045_x264_28.mp4,Shoplifting045_x264_28,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting045_x264,Shoplifting045_x264_29.mp4,Shoplifting045_x264_29,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting045_x264,Shoplifting045_x264_30.mp4,Shoplifting045_x264_30,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting045_x264,Shoplifting045_x264_31.mp4,Shoplifting045_x264_31,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting047_x264,Shoplifting047_x264_0.mp4,Shoplifting047_x264_0,0,3,sin_ocultamiento,PNA,,
+DCSASS,Shoplifting047_x264,Shoplifting047_x264_1.mp4,Shoplifting047_x264_1,0,3,sin_ocultamiento,PNA,,
+DCSASS,Shoplifting047_x264,Shoplifting047_x264_2.mp4,Shoplifting047_x264_2,0,3,sin_ocultamiento,PNA,,
+DCSASS,Shoplifting047_x264,Shoplifting047_x264_3.mp4,Shoplifting047_x264_3,0,3,sin_ocultamiento,PNA,,
+DCSASS,Shoplifting047_x264,Shoplifting047_x264_4.mp4,Shoplifting047_x264_4,0,3,sin_ocultamiento,PNA,,
+DCSASS,Shoplifting047_x264,Shoplifting047_x264_5.mp4,Shoplifting047_x264_5,0,3,sin_ocultamiento,P047_1,,
+DCSASS,Shoplifting047_x264,Shoplifting047_x264_6.mp4,Shoplifting047_x264_6,0,3,sin_ocultamiento,P047_1,,
+DCSASS,Shoplifting047_x264,Shoplifting047_x264_7.mp4,Shoplifting047_x264_7,0,3,sin_ocultamiento,P047_1,,
+DCSASS,Shoplifting047_x264,Shoplifting047_x264_8.mp4,Shoplifting047_x264_8,0,3,sin_ocultamiento,P047_1,,
+DCSASS,Shoplifting047_x264,Shoplifting047_x264_9.mp4,Shoplifting047_x264_9,0,3,sin_ocultamiento,P047_1,,
+DCSASS,Shoplifting047_x264,Shoplifting047_x264_10.mp4,Shoplifting047_x264_10,0,3,sin_ocultamiento,P047_1,,
+DCSASS,Shoplifting047_x264,Shoplifting047_x264_12.mp4,Shoplifting047_x264_12,0,3,sin_ocultamiento,P047_1,,
+DCSASS,Shoplifting047_x264,Shoplifting047_x264_13.mp4,Shoplifting047_x264_13,0,3,sin_ocultamiento,P047_1,,
+DCSASS,Shoplifting047_x264,Shoplifting047_x264_14.mp4,Shoplifting047_x264_14,0,3,sin_ocultamiento,P047_1,,
+DCSASS,Shoplifting047_x264,Shoplifting047_x264_15.mp4,Shoplifting047_x264_15,0,3,sin_ocultamiento,P047_1,,
+DCSASS,Shoplifting047_x264,Shoplifting047_x264_16.mp4,Shoplifting047_x264_16,0,3,ocultamiento,P047_1,,
+DCSASS,Shoplifting047_x264,Shoplifting047_x264_17.mp4,Shoplifting047_x264_17,0,3,sin_ocultamiento,P047_2,,
+DCSASS,Shoplifting047_x264,Shoplifting047_x264_18.mp4,Shoplifting047_x264_18,0,3,sin_ocultamiento,P047_2,,
+DCSASS,Shoplifting047_x264,Shoplifting047_x264_19.mp4,Shoplifting047_x264_19,0,3,sin_ocultamiento,P047_2,,
+DCSASS,Shoplifting047_x264,Shoplifting047_x264_20.mp4,Shoplifting047_x264_20,0,3,sin_ocultamiento,P047_2,,
+DCSASS,Shoplifting047_x264,Shoplifting047_x264_21.mp4,Shoplifting047_x264_21,0,3,sin_ocultamiento,P047_2,,
+DCSASS,Shoplifting047_x264,Shoplifting047_x264_22.mp4,Shoplifting047_x264_22,0,3,sin_ocultamiento,P047_2,,
+DCSASS,Shoplifting047_x264,Shoplifting047_x264_23.mp4,Shoplifting047_x264_23,0,3,sin_ocultamiento,P047_2,,
+DCSASS,Shoplifting047_x264,Shoplifting047_x264_24.mp4,Shoplifting047_x264_24,0,3,ocultamiento,P047_2,,
+DCSASS,Shoplifting047_x264,Shoplifting047_x264_25.mp4,Shoplifting047_x264_25,0,3,ocultamiento,P047_2,,
+DCSASS,Shoplifting047_x264,Shoplifting047_x264_26.mp4,Shoplifting047_x264_26,0,3,sin_ocultamiento,P047_2,,
+DCSASS,Shoplifting047_x264,Shoplifting047_x264_27.mp4,Shoplifting047_x264_27,0,3,sin_ocultamiento,P047_2,,
+DCSASS,Shoplifting047_x264,Shoplifting047_x264_28.mp4,Shoplifting047_x264_28,0,3,ocultamiento,P047_2,,
+DCSASS,Shoplifting047_x264,Shoplifting047_x264_29.mp4,Shoplifting047_x264_29,0,3,sin_ocultamiento,P047_2,,
+DCSASS,Shoplifting047_x264,Shoplifting047_x264_30.mp4,Shoplifting047_x264_30,0,3,ocultamiento,P047_1,,
+DCSASS,Shoplifting047_x264,Shoplifting047_x264_31.mp4,Shoplifting047_x264_31,0,3,ocultamiento,P047_1,,
+DCSASS,Shoplifting048_x264,Shoplifting048_x264_0.mp4,Shoplifting048_x264_0,0,3,ocultamiento,P048_1,,
+DCSASS,Shoplifting048_x264,Shoplifting048_x264_1.mp4,Shoplifting048_x264_1,0,3,ocultamiento,P048_1,,
+DCSASS,Shoplifting048_x264,Shoplifting048_x264_2.mp4,Shoplifting048_x264_2,0,3,ocultamiento,P048_1,,
+DCSASS,Shoplifting048_x264,Shoplifting048_x264_3.mp4,Shoplifting048_x264_3,0,3,sin_ocultamiento,P048_1,,
+DCSASS,Shoplifting048_x264,Shoplifting048_x264_4.mp4,Shoplifting048_x264_4,0,3,sin_ocultamiento,P048_1,,
+DCSASS,Shoplifting048_x264,Shoplifting048_x264_5.mp4,Shoplifting048_x264_5,0,3,sin_ocultamiento,P048_1,,
+DCSASS,Shoplifting048_x264,Shoplifting048_x264_6.mp4,Shoplifting048_x264_6,0,3,sin_ocultamiento,P048_1,,
+DCSASS,Shoplifting048_x264,Shoplifting048_x264_7.mp4,Shoplifting048_x264_7,0,3,sin_ocultamiento,P048_1,,
+DCSASS,Shoplifting048_x264,Shoplifting048_x264_8.mp4,Shoplifting048_x264_8,0,3,sin_ocultamiento,P048_1,,
+DCSASS,Shoplifting048_x264,Shoplifting048_x264_9.mp4,Shoplifting048_x264_9,0,3,sin_ocultamiento,P048_1,,
+DCSASS,Shoplifting048_x264,Shoplifting048_x264_10.mp4,Shoplifting048_x264_10,0,3,ocultamiento,P048_2,,
+DCSASS,Shoplifting048_x264,Shoplifting048_x264_11.mp4,Shoplifting048_x264_11,0,3,ocultamiento,P048_2,,
+DCSASS,Shoplifting048_x264,Shoplifting048_x264_12.mp4,Shoplifting048_x264_12,0,3,ocultamiento,P048_2,,
+DCSASS,Shoplifting048_x264,Shoplifting048_x264_13.mp4,Shoplifting048_x264_13,0,3,sin_ocultamiento,P048_2,,
+DCSASS,Shoplifting048_x264,Shoplifting048_x264_14.mp4,Shoplifting048_x264_14,0,3,sin_ocultamiento,P048_2,,
+DCSASS,Shoplifting048_x264,Shoplifting048_x264_15.mp4,Shoplifting048_x264_15,0,3,sin_ocultamiento,P048_2,,
+DCSASS,Shoplifting048_x264,Shoplifting048_x264_16.mp4,Shoplifting048_x264_16,0,3,sin_ocultamiento,PNA,,
+DCSASS,Shoplifting048_x264,Shoplifting048_x264_17.mp4,Shoplifting048_x264_17,0,3,sin_ocultamiento,PNA,,
+DCSASS,Shoplifting048_x264,Shoplifting048_x264_18.mp4,Shoplifting048_x264_18,0,3,sin_ocultamiento,PNA,,
+DCSASS,Shoplifting048_x264,Shoplifting048_x264_19.mp4,Shoplifting048_x264_19,0,3,sin_ocultamiento,PNA,,
+DCSASS,Shoplifting048_x264,Shoplifting048_x264_20.mp4,Shoplifting048_x264_20,0,3,sin_ocultamiento,PNA,,
+DCSASS,Shoplifting048_x264,Shoplifting048_x264_21.mp4,Shoplifting048_x264_21,0,3,sin_ocultamiento,PNA,,
+DCSASS,Shoplifting048_x264,Shoplifting048_x264_22.mp4,Shoplifting048_x264_22,0,3,sin_ocultamiento,PNA,,
+DCSASS,Shoplifting048_x264,Shoplifting048_x264_23.mp4,Shoplifting048_x264_23,0,3,sin_ocultamiento,PNA,,
+DCSASS,Shoplifting048_x264,Shoplifting048_x264_24.mp4,Shoplifting048_x264_24,0,3,sin_ocultamiento,PNA,,
+DCSASS,Shoplifting048_x264,Shoplifting048_x264_25.mp4,Shoplifting048_x264_25,0,3,sin_ocultamiento,PNA,,
+DCSASS,Shoplifting048_x264,Shoplifting048_x264_26.mp4,Shoplifting048_x264_26,0,3,sin_ocultamiento,PNA,,
+DCSASS,Shoplifting048_x264,Shoplifting048_x264_27.mp4,Shoplifting048_x264_27,0,3,sin_ocultamiento,PNA,,
+DCSASS,Shoplifting048_x264,Shoplifting048_x264_28.mp4,Shoplifting048_x264_28,0,3,sin_ocultamiento,PNA,,
+DCSASS,Shoplifting048_x264,Shoplifting048_x264_29.mp4,Shoplifting048_x264_29,0,3,sin_ocultamiento,PNA,,
+DCSASS,Shoplifting048_x264,Shoplifting048_x264_30.mp4,Shoplifting048_x264_30,0,3,sin_ocultamiento,PNA,,
+DCSASS,Shoplifting048_x264,Shoplifting048_x264_31.mp4,Shoplifting048_x264_31,0,3,sin_ocultamiento,PNA,,
+DCSASS,Shoplifting049_x264,Shoplifting049_x264_0.mp4,Shoplifting049_x264_0,0,3,sin_ocultamiento,PNA,,
+DCSASS,Shoplifting049_x264,Shoplifting049_x264_1.mp4,Shoplifting049_x264_1,0,3,sin_ocultamiento,PNA,,
+DCSASS,Shoplifting049_x264,Shoplifting049_x264_2.mp4,Shoplifting049_x264_2,0,3,sin_ocultamiento,PNA,,
+DCSASS,Shoplifting049_x264,Shoplifting049_x264_3.mp4,Shoplifting049_x264_3,0,3,sin_ocultamiento,PNA,,
+DCSASS,Shoplifting049_x264,Shoplifting049_x264_4.mp4,Shoplifting049_x264_4,0,3,sin_ocultamiento,PNA,,
+DCSASS,Shoplifting049_x264,Shoplifting049_x264_5.mp4,Shoplifting049_x264_5,0,3,sin_ocultamiento,PNA,,
+DCSASS,Shoplifting049_x264,Shoplifting049_x264_6.mp4,Shoplifting049_x264_6,0,3,sin_ocultamiento,PNA,,
+DCSASS,Shoplifting049_x264,Shoplifting049_x264_7.mp4,Shoplifting049_x264_7,0,3,sin_ocultamiento,PNA,,
+DCSASS,Shoplifting049_x264,Shoplifting049_x264_8.mp4,Shoplifting049_x264_8,0,3,sin_ocultamiento,PNA,,
+DCSASS,Shoplifting049_x264,Shoplifting049_x264_9.mp4,Shoplifting049_x264_9,0,3,sin_ocultamiento,PNA,,
+DCSASS,Shoplifting049_x264,Shoplifting049_x264_10.mp4,Shoplifting049_x264_10,0,3,sin_ocultamiento,PNA,,
+DCSASS,Shoplifting049_x264,Shoplifting049_x264_11.mp4,Shoplifting049_x264_11,0,3,sin_ocultamiento,PNA,,
+DCSASS,Shoplifting049_x264,Shoplifting049_x264_12.mp4,Shoplifting049_x264_12,0,3,sin_ocultamiento,PNA,,
+DCSASS,Shoplifting049_x264,Shoplifting049_x264_13.mp4,Shoplifting049_x264_13,0,3,sin_ocultamiento,PNA,,
+DCSASS,Shoplifting049_x264,Shoplifting049_x264_14.mp4,Shoplifting049_x264_14,0,3,sin_ocultamiento,P049_1,,
+DCSASS,Shoplifting049_x264,Shoplifting049_x264_15.mp4,Shoplifting049_x264_15,0,3,sin_ocultamiento,P049_1,,
+DCSASS,Shoplifting049_x264,Shoplifting049_x264_16.mp4,Shoplifting049_x264_16,0,3,sin_ocultamiento,P049_1,,
+DCSASS,Shoplifting049_x264,Shoplifting049_x264_17.mp4,Shoplifting049_x264_17,0,3,sin_ocultamiento,P049_1,,
+DCSASS,Shoplifting049_x264,Shoplifting049_x264_18.mp4,Shoplifting049_x264_18,0,3,sin_ocultamiento,P049_1,,
+DCSASS,Shoplifting049_x264,Shoplifting049_x264_19.mp4,Shoplifting049_x264_19,0,3,sin_ocultamiento,P049_1,,
+DCSASS,Shoplifting049_x264,Shoplifting049_x264_20.mp4,Shoplifting049_x264_20,0,3,ocultamiento,P049_1,,
+DCSASS,Shoplifting049_x264,Shoplifting049_x264_21.mp4,Shoplifting049_x264_21,0,3,ocultamiento,P049_1,,
+DCSASS,Shoplifting049_x264,Shoplifting049_x264_22.mp4,Shoplifting049_x264_22,0,3,ocultamiento,P049_1,,
+DCSASS,Shoplifting049_x264,Shoplifting049_x264_23.mp4,Shoplifting049_x264_23,0,3,sin_ocultamiento,P049_1,,
+DCSASS,Shoplifting049_x264,Shoplifting049_x264_24.mp4,Shoplifting049_x264_24,0,3,sin_ocultamiento,P049_1,,
+DCSASS,Shoplifting049_x264,Shoplifting049_x264_25.mp4,Shoplifting049_x264_25,0,3,sin_ocultamiento,P049_1,,
+DCSASS,Shoplifting049_x264,Shoplifting049_x264_26.mp4,Shoplifting049_x264_26,0,3,sin_ocultamiento,P049_1,,
+DCSASS,Shoplifting049_x264,Shoplifting049_x264_27.mp4,Shoplifting049_x264_27,0,3,sin_ocultamiento,P049_1,,
+DCSASS,Shoplifting049_x264,Shoplifting049_x264_28.mp4,Shoplifting049_x264_28,0,3,sin_ocultamiento,P049_1,,
+DCSASS,Shoplifting049_x264,Shoplifting049_x264_29.mp4,Shoplifting049_x264_29,0,3,sin_ocultamiento,P049_1,,
+DCSASS,Shoplifting049_x264,Shoplifting049_x264_30.mp4,Shoplifting049_x264_30,0,3,sin_ocultamiento,PNA,,
+DCSASS,Shoplifting049_x264,Shoplifting049_x264_31.mp4,Shoplifting049_x264_31,0,3,sin_ocultamiento,PNA,,
+DCSASS,Shoplifting050_x264,Shoplifting050_x264_0.mp4,Shoplifting050_x264_0,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting050_x264,Shoplifting050_x264_1.mp4,Shoplifting050_x264_1,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting050_x264,Shoplifting050_x264_2.mp4,Shoplifting050_x264_2,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting050_x264,Shoplifting050_x264_3.mp4,Shoplifting050_x264_3,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting050_x264,Shoplifting050_x264_4.mp4,Shoplifting050_x264_4,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting050_x264,Shoplifting050_x264_5.mp4,Shoplifting050_x264_5,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting050_x264,Shoplifting050_x264_6.mp4,Shoplifting050_x264_6,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting050_x264,Shoplifting050_x264_7.mp4,Shoplifting050_x264_7,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting050_x264,Shoplifting050_x264_8.mp4,Shoplifting050_x264_8,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting050_x264,Shoplifting050_x264_9.mp4,Shoplifting050_x264_9,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting050_x264,Shoplifting050_x264_10.mp4,Shoplifting050_x264_10,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting050_x264,Shoplifting050_x264_11.mp4,Shoplifting050_x264_11,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting050_x264,Shoplifting050_x264_12.mp4,Shoplifting050_x264_12,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting050_x264,Shoplifting050_x264_13.mp4,Shoplifting050_x264_13,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting050_x264,Shoplifting050_x264_14.mp4,Shoplifting050_x264_14,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting050_x264,Shoplifting050_x264_15.mp4,Shoplifting050_x264_15,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting050_x264,Shoplifting050_x264_16.mp4,Shoplifting050_x264_16,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting050_x264,Shoplifting050_x264_17.mp4,Shoplifting050_x264_17,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting050_x264,Shoplifting050_x264_18.mp4,Shoplifting050_x264_18,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting050_x264,Shoplifting050_x264_19.mp4,Shoplifting050_x264_19,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting050_x264,Shoplifting050_x264_20.mp4,Shoplifting050_x264_20,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting050_x264,Shoplifting050_x264_21.mp4,Shoplifting050_x264_21,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting050_x264,Shoplifting050_x264_22.mp4,Shoplifting050_x264_22,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting050_x264,Shoplifting050_x264_23.mp4,Shoplifting050_x264_23,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting050_x264,Shoplifting050_x264_24.mp4,Shoplifting050_x264_24,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting050_x264,Shoplifting050_x264_25.mp4,Shoplifting050_x264_25,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting050_x264,Shoplifting050_x264_26.mp4,Shoplifting050_x264_26,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting050_x264,Shoplifting050_x264_27.mp4,Shoplifting050_x264_27,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting050_x264,Shoplifting050_x264_28.mp4,Shoplifting050_x264_28,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting050_x264,Shoplifting050_x264_29.mp4,Shoplifting050_x264_29,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting050_x264,Shoplifting050_x264_30.mp4,Shoplifting050_x264_30,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting050_x264,Shoplifting050_x264_31.mp4,Shoplifting050_x264_31,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting053_x264,Shoplifting053_x264_0.mp4,Shoplifting053_x264_0,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting053_x264,Shoplifting053_x264_1.mp4,Shoplifting053_x264_1,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting053_x264,Shoplifting053_x264_2.mp4,Shoplifting053_x264_2,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting053_x264,Shoplifting053_x264_3.mp4,Shoplifting053_x264_3,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting053_x264,Shoplifting053_x264_4.mp4,Shoplifting053_x264_4,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting053_x264,Shoplifting053_x264_5.mp4,Shoplifting053_x264_5,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting053_x264,Shoplifting053_x264_6.mp4,Shoplifting053_x264_6,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting053_x264,Shoplifting053_x264_7.mp4,Shoplifting053_x264_7,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting053_x264,Shoplifting053_x264_8.mp4,Shoplifting053_x264_8,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting053_x264,Shoplifting053_x264_9.mp4,Shoplifting053_x264_9,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting053_x264,Shoplifting053_x264_10.mp4,Shoplifting053_x264_10,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting053_x264,Shoplifting053_x264_11.mp4,Shoplifting053_x264_11,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting053_x264,Shoplifting053_x264_12.mp4,Shoplifting053_x264_12,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting053_x264,Shoplifting053_x264_13.mp4,Shoplifting053_x264_13,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting053_x264,Shoplifting053_x264_14.mp4,Shoplifting053_x264_14,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting053_x264,Shoplifting053_x264_15.mp4,Shoplifting053_x264_15,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting053_x264,Shoplifting053_x264_16.mp4,Shoplifting053_x264_16,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting053_x264,Shoplifting053_x264_17.mp4,Shoplifting053_x264_17,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting053_x264,Shoplifting053_x264_18.mp4,Shoplifting053_x264_18,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting053_x264,Shoplifting053_x264_19.mp4,Shoplifting053_x264_19,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting053_x264,Shoplifting053_x264_20.mp4,Shoplifting053_x264_20,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting053_x264,Shoplifting053_x264_21.mp4,Shoplifting053_x264_21,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting053_x264,Shoplifting053_x264_22.mp4,Shoplifting053_x264_22,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting053_x264,Shoplifting053_x264_23.mp4,Shoplifting053_x264_23,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting053_x264,Shoplifting053_x264_24.mp4,Shoplifting053_x264_24,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting053_x264,Shoplifting053_x264_25.mp4,Shoplifting053_x264_25,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting053_x264,Shoplifting053_x264_26.mp4,Shoplifting053_x264_26,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting053_x264,Shoplifting053_x264_27.mp4,Shoplifting053_x264_27,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting053_x264,Shoplifting053_x264_28.mp4,Shoplifting053_x264_28,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting053_x264,Shoplifting053_x264_29.mp4,Shoplifting053_x264_29,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting053_x264,Shoplifting053_x264_30.mp4,Shoplifting053_x264_30,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting053_x264,Shoplifting053_x264_31.mp4,Shoplifting053_x264_31,0,3,sin_ocultamiento,PNA,,Video completo sin ocultamiento
+DCSASS,Shoplifting054_x264,Shoplifting054_x264_0.mp4,Shoplifting054_x264_0,0,3,sin_ocultamiento,P054_1,,
+DCSASS,Shoplifting054_x264,Shoplifting054_x264_1.mp4,Shoplifting054_x264_1,0,3,sin_ocultamiento,P054_1,,
+DCSASS,Shoplifting054_x264,Shoplifting054_x264_2.mp4,Shoplifting054_x264_2,0,3,sin_ocultamiento,P054_1,,
+DCSASS,Shoplifting054_x264,Shoplifting054_x264_3.mp4,Shoplifting054_x264_3,0,3,sin_ocultamiento,P054_1,,
+DCSASS,Shoplifting054_x264,Shoplifting054_x264_4.mp4,Shoplifting054_x264_4,0,3,sin_ocultamiento,P054_1,,
+DCSASS,Shoplifting054_x264,Shoplifting054_x264_5.mp4,Shoplifting054_x264_5,0,3,sin_ocultamiento,P054_1,,
+DCSASS,Shoplifting054_x264,Shoplifting054_x264_6.mp4,Shoplifting054_x264_6,0,3,sin_ocultamiento,P054_1,,
+DCSASS,Shoplifting054_x264,Shoplifting054_x264_7.mp4,Shoplifting054_x264_7,0,3,sin_ocultamiento,P054_1,,
+DCSASS,Shoplifting054_x264,Shoplifting054_x264_8.mp4,Shoplifting054_x264_8,0,3,sin_ocultamiento,P054_1,,
+DCSASS,Shoplifting054_x264,Shoplifting054_x264_9.mp4,Shoplifting054_x264_9,0,3,sin_ocultamiento,P054_1,,
+DCSASS,Shoplifting054_x264,Shoplifting054_x264_10.mp4,Shoplifting054_x264_10,0,3,sin_ocultamiento,P054_1,,
+DCSASS,Shoplifting054_x264,Shoplifting054_x264_11.mp4,Shoplifting054_x264_11,0,3,sin_ocultamiento,P054_1,,
+DCSASS,Shoplifting054_x264,Shoplifting054_x264_12.mp4,Shoplifting054_x264_12,0,3,sin_ocultamiento,P054_1,,
+DCSASS,Shoplifting054_x264,Shoplifting054_x264_13.mp4,Shoplifting054_x264_13,0,3,sin_ocultamiento,P054_1,,
+DCSASS,Shoplifting054_x264,Shoplifting054_x264_14.mp4,Shoplifting054_x264_14,0,3,sin_ocultamiento,P054_1,,
+DCSASS,Shoplifting054_x264,Shoplifting054_x264_15.mp4,Shoplifting054_x264_15,0,3,sin_ocultamiento,P054_1,,
+DCSASS,Shoplifting054_x264,Shoplifting054_x264_16.mp4,Shoplifting054_x264_16,0,3,sin_ocultamiento,P054_1,,
+DCSASS,Shoplifting054_x264,Shoplifting054_x264_17.mp4,Shoplifting054_x264_17,0,3,sin_ocultamiento,P054_1,,
+DCSASS,Shoplifting054_x264,Shoplifting054_x264_18.mp4,Shoplifting054_x264_18,0,3,sin_ocultamiento,P054_1,,
+DCSASS,Shoplifting054_x264,Shoplifting054_x264_19.mp4,Shoplifting054_x264_19,0,3,sin_ocultamiento,P054_1,,
+DCSASS,Shoplifting054_x264,Shoplifting054_x264_20.mp4,Shoplifting054_x264_20,0,3,sin_ocultamiento,P054_1,,
+DCSASS,Shoplifting054_x264,Shoplifting054_x264_21.mp4,Shoplifting054_x264_21,0,3,sin_ocultamiento,P054_1,,
+DCSASS,Shoplifting054_x264,Shoplifting054_x264_22.mp4,Shoplifting054_x264_22,0,3,sin_ocultamiento,P054_1,,
+DCSASS,Shoplifting054_x264,Shoplifting054_x264_23.mp4,Shoplifting054_x264_23,0,3,ocultamiento,P054_1,,
+DCSASS,Shoplifting054_x264,Shoplifting054_x264_24.mp4,Shoplifting054_x264_24,0,3,ocultamiento,P054_1,,
+DCSASS,Shoplifting054_x264,Shoplifting054_x264_25.mp4,Shoplifting054_x264_25,0,3,sin_ocultamiento,P054_1,,
+DCSASS,Shoplifting054_x264,Shoplifting054_x264_26.mp4,Shoplifting054_x264_26,0,3,sin_ocultamiento,P054_1,,
+DCSASS,Shoplifting054_x264,Shoplifting054_x264_27.mp4,Shoplifting054_x264_27,0,3,sin_ocultamiento,P054_1,,
+DCSASS,Shoplifting054_x264,Shoplifting054_x264_28.mp4,Shoplifting054_x264_28,0,3,sin_ocultamiento,P054_1,,
+DCSASS,Shoplifting054_x264,Shoplifting054_x264_29.mp4,Shoplifting054_x264_29,0,3,sin_ocultamiento,P054_1,,
+DCSASS,Shoplifting054_x264,Shoplifting054_x264_30.mp4,Shoplifting054_x264_30,0,3,sin_ocultamiento,P054_1,,
+DCSASS,Shoplifting054_x264,Shoplifting054_x264_31.mp4,Shoplifting054_x264_31,0,3,sin_ocultamiento,P054_1,,
