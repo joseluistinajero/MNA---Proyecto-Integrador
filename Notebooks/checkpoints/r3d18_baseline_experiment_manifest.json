@@ -1,0 +1,23 @@
+{
+    "experiment": "R3D18_baseline_equipo41",
+    "task": "clasificacion_binaria_ocultamiento",
+    "architecture": "R3D-18",
+    "pretraining": "Kinetics-400",
+    "seed": 41,
+    "best_epoch": 5,
+    "threshold_final": 0.708984375,
+    "artifacts": {
+        "split": {
+            "file": "Datos/Preparacion_Datasets/baseline_split_equipo41.csv",
+            "sha256": "7ed380a00a883c42308670842cbb554881745a455fd4b54cb5fa0ec3ad6d994b"
+        },
+        "checkpoint": {
+            "file": "Notebooks/checkpoints/r3d18_baseline_best.pt",
+            "sha256": "08ad02ad8d10153187343c6a1b781a2a3cd2b686b216f8945c8a20b2b9d477bd"
+        },
+        "test_predictions": {
+            "file": "Notebooks/checkpoints/r3d18_baseline_test_predictions.csv",
+            "sha256": "1319f4af675d275fd209c11202a60bad7b7f4915f8d847b9fa177abfd24999fb"
+        }
+    }
+}
