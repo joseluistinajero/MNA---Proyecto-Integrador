@@ -243,3 +243,8 @@ data_processed/
 # Archivos temporales de procesamiento
 *.tmp
 *.temp
+
+# STG-NF: artefactos derivados y dependencias reproducibles
+Notebooks/Datos/Preparacion_Datasets/RetailS_STGNF_cache/
+Notebooks/Dependencias/STG-NF/
+Notebooks/checkpoints/stgnf_retails/
