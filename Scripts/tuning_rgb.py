@@ -205,7 +205,7 @@ def construir_configuracion_tuning(
     dentro del checkpoint.
     """
 
-    return {
+    config = {
         "schema_version": 1,
         "fase": "tuning",
         "modelo": modelo,
@@ -227,36 +227,62 @@ def construir_configuracion_tuning(
         "metrica_checkpoint": "average_precision"
     }
 
+    # Mantener compatibilidad con H1-H4.
+    # Solo H5 incorpora esta dimensión adicional
+    # en su identidad experimental.
+    if "profundidad_finetuning" in hiperparametros:
+        config["profundidad_finetuning"] = (
+            hiperparametros["profundidad_finetuning"]
+        )
+
+    return config
+
 def crear_optimizador_tuning_rgb(
     modelo,
     hiperparametros
-    ):
+):
     """
     Construye el optimizador AdamW para MC3-18 y
     R(2+1)D-18 conservando dos grupos de learning rate.
+
+    El grupo de representación incluye todos los parámetros
+    entrenables del backbone y excluye el clasificador final.
     """
+
+    parametros_representacion = [
+        parametro
+        for nombre, parametro in modelo.named_parameters()
+        if (
+            parametro.requires_grad
+            and not nombre.startswith("fc.")
+        )
+    ]
+
+    parametros_clasificador = list(
+        modelo.fc.parameters()
+    )
+
+    if not parametros_representacion:
+        raise RuntimeError(
+            "No se encontraron parámetros entrenables "
+            "en la representación."
+        )
 
     return optim.AdamW(
         [
             {
-                "params":
-                    modelo.layer4[1].parameters(),
-                "lr":
-                    hiperparametros[
-                        "lr_representacion"
-                    ],
-                "nombre":
-                    "representacion"
+                "params": parametros_representacion,
+                "lr": hiperparametros[
+                    "lr_representacion"
+                ],
+                "nombre": "representacion"
             },
             {
-                "params":
-                    modelo.fc.parameters(),
-                "lr":
-                    hiperparametros[
-                        "lr_clasificador"
-                    ],
-                "nombre":
-                    "clasificador"
+                "params": parametros_clasificador,
+                "lr": hiperparametros[
+                    "lr_clasificador"
+                ],
+                "nombre": "clasificador"
             }
         ],
         weight_decay=(
@@ -513,6 +539,29 @@ def ejecutar_experimento_tuning_rgb(
         modelo_tuning,
         modelo
     )
+
+    # --------------------------------------------------------
+    # Profundidad adicional de fine-tuning
+    # --------------------------------------------------------
+
+    profundidad_finetuning = hiperparametros.get(
+        "profundidad_finetuning",
+        "bloque_final"
+    )
+
+    if profundidad_finetuning == "layer4_completo":
+
+        for parametro in (
+            modelo_tuning.layer4[0].parameters()
+        ):
+            parametro.requires_grad = True
+
+    elif profundidad_finetuning != "bloque_final":
+
+        raise ValueError(
+            "Profundidad de fine-tuning no reconocida: "
+            f"{profundidad_finetuning}"
+        )
 
     modelo_tuning = modelo_tuning.to(
         device
