@@ -1,0 +1,22 @@
+{
+    "modelo": "RandomForestClassifier",
+    "extractor": "r2plus1d_18_kinetics400",
+    "scoring": "average_precision",
+    "cv": "StratifiedGroupKFold",
+    "n_splits": 5,
+    "n_iter": 20,
+    "seed": 42,
+    "class_weight": "balanced_subsample",
+    "best_score_cv": 0.5206843365580057,
+    "best_params": {
+        "min_samples_leaf": 8,
+        "max_features": 0.1,
+        "max_depth": 6
+    },
+    "n_estimators_fijo": 400,
+    "tiempo_busqueda_s": 39.89006399200116,
+    "tiempo_refit_s": 1.4605052471160889,
+    "n_train": 702,
+    "dim_embedding": 512,
+    "dataset_v2_sha256": "b85d6b55e8c32420a4df5a0fb9a10e558105beee47f1d4a98ad83d63fcbda21e"
+}

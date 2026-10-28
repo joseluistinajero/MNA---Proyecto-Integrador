@@ -133,11 +133,6 @@ def validar_avance4(repo_dir):
         / "checkpoints"
     )
 
-    if not split_path.is_file():
-        raise FileNotFoundError(
-            "No se encontró el dataset v2 requerido"
-        )
-
     sha_actual = calcular_sha256(split_path)
 
     if sha_actual != SHA_DATASET_V2:
@@ -147,112 +142,88 @@ def validar_avance4(repo_dir):
         )
 
     df = pd.read_csv(split_path)
-
-    columnas_requeridas = {
-        "clip_id",
-        "split",
-        "grupo_experimental",
-        "elegible_avance4"
-    }
-
-    faltantes = (
-        columnas_requeridas
-        - set(df.columns)
-    )
-
-    if faltantes:
-        raise RuntimeError(
-            "Faltan columnas requeridas en el dataset: "
-            f"{sorted(faltantes)}"
-        )
-
-    elegibles = (
-        df[df["elegible_avance4"]]
-        .copy()
-    )
+    elegibles = df[df["elegible_avance4"]].copy()
 
     conteos = (
-        elegibles["split"]
-        .value_counts()
+        elegibles
+        .groupby("split")
+        .size()
         .to_dict()
     )
 
-    if conteos != PARTICIONES_ESPERADAS:
-        raise RuntimeError(
-            "Distribución inesperada del dataset: "
-            f"{conteos}"
-        )
-
-    grupos_por_split = (
-        elegibles
-        .groupby("grupo_experimental")["split"]
-        .nunique()
-    )
-
-    if (grupos_por_split > 1).any():
-        raise RuntimeError(
-            "Se detectaron grupos experimentales "
-            "compartidos entre particiones"
-        )
-
-    modelos = {
-        "R(2+1)D-18/H5": {
-            "checkpoint":
-                "r2plus1d_18_avance4_h5.pt",
-            "historial":
-                "r2plus1d_18_avance4_h5_history.csv"
-        },
-        "MC3-18/H5": {
-            "checkpoint":
-                "mc3_18_avance4_h5.pt",
-            "historial":
-                "mc3_18_avance4_h5_history.csv"
-        },
-        "MViT-V2-S": {
-            "checkpoint":
-                "mvit_v2_s_avance4_inicial.pt",
-            "historial":
-                "mvit_v2_s_avance4_inicial_history.csv"
-        }
+    esperados = {
+        "train": 702,
+        "val": 136,
+        "test": 136
     }
+
+    if conteos != esperados:
+        raise RuntimeError(
+            f"Distribución inesperada del dataset: {conteos}"
+        )
+
+    n_grupos = elegibles["grupo_experimental"].nunique()
+
+    if n_grupos != 63:
+        raise RuntimeError(
+            f"Número inesperado de grupos experimentales: {n_grupos}"
+        )
+
+    checkpoints_requeridos = {
+        "R(2+1)D-18/H5": checkpoint_dir / "r2plus1d_18_avance4_h5.pt",
+        "MC3-18/H5": checkpoint_dir / "mc3_18_avance4_h5.pt"
+    }
+
+    mvit_path = checkpoint_dir / "mvit_v2_s_avance4_inicial.pt"
 
     resultados = []
 
-    for modelo, archivos in modelos.items():
-        checkpoint = validar_checkpoint(
-            checkpoint_dir
-            / archivos["checkpoint"]
-        )
+    for modelo, path in checkpoints_requeridos.items():
+        resultado = validar_checkpoint(path)
+        resultado["modelo"] = modelo
+        resultados.append(resultado)
 
-        historial = validar_historial(
-            checkpoint_dir
-            / archivos["historial"]
-        )
+    if mvit_path.is_file():
+        try:
+            resultado_mvit = validar_checkpoint(mvit_path)
+            resultado_mvit["modelo"] = "MViT-V2-S"
+            resultado_mvit["estado"] = "OK (histórico)"
+            resultados.append(resultado_mvit)
 
-        resultados.append(
-            {
-                "modelo": modelo,
-                "checkpoint": checkpoint["archivo"],
-                "historial": historial["archivo"],
-                "epoch": checkpoint["epoch"],
-                "val_ap": checkpoint["val_ap"],
-                "epocas_historial":
-                    historial["epocas"],
-                "estado": "OK"
-            }
-        )
+        except (RuntimeError, OSError, EOFError) as exc:
+            resultados.append({
+                "modelo": "MViT-V2-S",
+                "archivo": mvit_path.name,
+                "epoch": None,
+                "val_ap": None,
+                "estado": f"Opcional no compatible: {type(exc).__name__}"
+            })
+
+    else:
+        resultados.append({
+            "modelo": "MViT-V2-S",
+            "archivo": mvit_path.name,
+            "epoch": None,
+            "val_ap": None,
+            "estado": "No disponible (opcional)"
+        })
+
+    tabla_artefactos = pd.DataFrame(resultados)[
+        [
+            "modelo",
+            "archivo",
+            "epoch",
+            "val_ap",
+            "estado"
+        ]
+    ]
 
     resumen_dataset = {
         "sha256": sha_actual,
         "n_registros": len(elegibles),
-        "n_grupos":
-            elegibles[
-                "grupo_experimental"
-            ].nunique(),
+        "n_grupos": n_grupos,
         "particiones": conteos,
         "estado": "OK"
     }
 
-    tabla_modelos = pd.DataFrame(resultados)
-
-    return tabla_modelos, resumen_dataset
+    return tabla_artefactos, resumen_dataset

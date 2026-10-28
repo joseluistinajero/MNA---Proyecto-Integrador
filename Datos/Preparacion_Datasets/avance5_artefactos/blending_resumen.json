@@ -1,0 +1,17 @@
+{
+  "dataset_v2_sha256": "b85d6b55e8c32420a4df5a0fb9a10e558105beee47f1d4a98ad83d63fcbda21e",
+  "split": "validation",
+  "seed": 42,
+  "n_splits": 3,
+  "meta_modelo": "LogisticRegression",
+  "C": 0.1,
+  "regularizacion": "l2",
+  "l1_ratio": 0.0,
+  "solver": "liblinear",
+  "variables_entrada": [
+    "p_r2plus1d_h5",
+    "p_mc3_h5"
+  ],
+  "n_observaciones": 136,
+  "tiempo_entrenamiento_segundos": 0.009324778002337553
+}

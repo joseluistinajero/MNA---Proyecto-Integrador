@@ -1,0 +1,21 @@
+{
+  "modelo": "AdaBoostClassifier",
+  "extractor": "r2plus1d_18_kinetics400",
+  "scoring": "average_precision",
+  "cv": "StratifiedGroupKFold",
+  "n_splits": 5,
+  "n_iter": 30,
+  "seed": 42,
+  "best_score_cv": 0.49213828540026816,
+  "best_params": {
+    "n_estimators": 50,
+    "learning_rate": 0.3,
+    "estimator__min_samples_leaf": 12,
+    "estimator__max_depth": 3
+  },
+  "tiempo_busqueda_s": 198.1150357569968,
+  "tiempo_refit_s": 3.2583820819854736,
+  "n_train": 702,
+  "dim_embedding": 512,
+  "dataset_v2_sha256": "b85d6b55e8c32420a4df5a0fb9a10e558105beee47f1d4a98ad83d63fcbda21e"
+}

@@ -1,0 +1,9 @@
+{
+  "dataset_v2_sha256": "b85d6b55e8c32420a4df5a0fb9a10e558105beee47f1d4a98ad83d63fcbda21e",
+  "split": "validation",
+  "n_observaciones": 136,
+  "checkpoint_r2plus1d_h5": "r2plus1d_18_avance4_h5.pt",
+  "checkpoint_mc3_h5": "mc3_18_avance4_h5.pt",
+  "checkpoint_r2plus1d_h5_sha256": "2266ee0d9f616749c75f8d83308f62103f1b783e708813bf2f0b0158b5badaf4",
+  "checkpoint_mc3_h5_sha256": "58e1cceb87da76db91818610621cab4b84ea8b9c7eb6a788b26318c4e6703bcc"
+}
