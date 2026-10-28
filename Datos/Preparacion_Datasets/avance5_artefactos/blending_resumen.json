@@ -12,6 +12,8 @@
     "p_r2plus1d_h5",
     "p_mc3_h5"
   ],
+  "transformacion_entrada": "logit",
+  "epsilon_logit": 1e-06,
   "n_observaciones": 136,
-  "tiempo_entrenamiento_segundos": 0.009324778002337553
+  "tiempo_entrenamiento_segundos": 0.039794066000467865
 }

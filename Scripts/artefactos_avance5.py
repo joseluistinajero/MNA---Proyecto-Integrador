@@ -873,6 +873,32 @@ def validar_blending(
     if int(resumen.get("n_splits", -1)) != n_splits_esperado:
         raise ValueError("El número de folds del artefacto de Blending no coincide.")
 
+    if resumen.get("transformacion_entrada") != "logit":
+        raise ValueError(
+            "El artefacto de Blending no utiliza transformación logit."
+        )
+    epsilon_logit = resumen.get(
+        "epsilon_logit"
+    )
+
+    if epsilon_logit is None or not np.isclose(
+        float(epsilon_logit),
+        1e-6
+    ):
+        raise ValueError(
+            "El epsilon de la transformación logit no coincide."
+        )
+
+    if float(resumen.get("C", np.nan)) != 0.1:
+        raise ValueError(
+            "El valor de C del meta-modelo de Blending no coincide."
+        )
+
+    if resumen.get("solver") != "liblinear":
+        raise ValueError(
+            "El solver del meta-modelo de Blending no coincide."
+        )
+
     modelo = joblib.load(modelo_path)
 
     if getattr(modelo, "n_features_in_", None) != 2:
