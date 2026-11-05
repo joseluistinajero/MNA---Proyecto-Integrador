@@ -1,0 +1,19 @@
+{
+  "experimento": "A6_softmax_precision_baseline_validation",
+  "version_protocolo": 1,
+  "modelo": "R3D-18 baseline Avance 3",
+  "checkpoint_sha256": "08ad02ad8d10153187343c6a1b781a2a3cd2b686b216f8945c8a20b2b9d477bd",
+  "split_sha256": "b85d6b55e8c32420a4df5a0fb9a10e558105beee47f1d4a98ad83d63fcbda21e",
+  "particion": "validation",
+  "n_clips": 136,
+  "n_positivos": 30,
+  "n_grupos": 9,
+  "num_frames": 16,
+  "preprocesamiento": "Avance 3: muestreo uniforme, resize directo 112x112 INTER_LINEAR, normalizacion Kinetics",
+  "forward": "CUDA autocast float16",
+  "softmax": [
+    "float16",
+    "float32"
+  ],
+  "torch_version": "2.14.1+cu126"
+}

@@ -1,0 +1,15 @@
+{
+  "experimento": "A6_sensibilidad_test_v1_softmax_homogeneo",
+  "version_protocolo": 1,
+  "n_clips": 147,
+  "positivos": 28,
+  "softmax": [
+    "historico",
+    "fp16",
+    "fp32"
+  ],
+  "sha256_test_v2": "52bddb163a42702bf946fe638c97862eaa9b2dde2d5c34ac65fa47f625b8b9d4",
+  "sha256_11_ambiguos": "5f2fc0e8749cded2916c36496d1829075a60cd5934b4ee2cdb6fd27551a65ab0",
+  "sha256_split": "b85d6b55e8c32420a4df5a0fb9a10e558105beee47f1d4a98ad83d63fcbda21e",
+  "sha256_resultado_csv": "0b898e8de234053a0be8c08f779563fcea5905f68a5042c2d5c71286d17dc71e"
+}

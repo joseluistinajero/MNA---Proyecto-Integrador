@@ -1,0 +1,15 @@
+{
+  "experimento": "A6_bootstrap_pareado_test_v1",
+  "version": 1,
+  "fuente_sha256": "0b898e8de234053a0be8c08f779563fcea5905f68a5042c2d5c71286d17dc71e",
+  "n_clips": 147,
+  "positivos": 28,
+  "grupos": 8,
+  "remuestreos": 2000,
+  "semilla": 42,
+  "unidad": "grupo_experimental",
+  "reemplazo": true,
+  "exclusion": "replicas sin positivos",
+  "intervalo": "percentiles_2.5_97.5",
+  "csv_sha256": "7c4002ba0ddfb44fbe02d46c5350051463c09ab1042df96f8de623281711d457"
+}

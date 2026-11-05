@@ -1,0 +1,22 @@
+{
+  "experimento": "A6_softmax_precision_rgb_test_v2",
+  "version_protocolo": 1,
+  "particion": "test_v2",
+  "n_clips": 136,
+  "positivos": 17,
+  "grupos": 8,
+  "split_sha256": "b85d6b55e8c32420a4df5a0fb9a10e558105beee47f1d4a98ad83d63fcbda21e",
+  "checkpoint_r3d18_sha256": "08ad02ad8d10153187343c6a1b781a2a3cd2b686b216f8945c8a20b2b9d477bd",
+  "checkpoint_h5_sha256": "2266ee0d9f616749c75f8d83308f62103f1b783e708813bf2f0b0158b5badaf4",
+  "predicciones_baseline_sha256": "1319f4af675d275fd209c11202a60bad7b7f4915f8d847b9fa177abfd24999fb",
+  "predicciones_h5_sha256": "7a38d08c9d9bd7ce9f6002dc32cf727843c6c6ffdc79823519636755774f9e1d",
+  "forward": "CUDA autocast float16",
+  "softmax": [
+    "float16",
+    "float32"
+  ],
+  "transform_r3d": "Avance 3: resize directo 112 y Kinetics",
+  "transform_h5": "R2Plus1D_18_Weights.DEFAULT",
+  "torch_version": "2.14.1+cu126",
+  "torchvision_version": "0.29.1+cu126"
+}
